@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="background-overlay"></div>
+    
+    <div class="hero-container">
+        <h1 class="logo-animation">FOODIE'S</h1>
+        
+        <div class="form-card result-box">
+            <h2>Prediction Result:</h2>
+
+            {% if prediction == 'Complaint' %}
+                <p class="result-text complain">😠 The customer is likely to complain.</p>
+            {% else %}
+                <p class="result-text happy">😊 The customer is happy. No complaint expected!</p>
+            {% endif %}
+
+            <a href="/predict" class="back-button">🔁 Predict Again</a>
+        </div>
+    </div>
+</body>
+</html>

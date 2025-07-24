@@ -1,0 +1,68 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>FOODIE'S Complaint Predictor</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    </head>
+    <body>
+        
+        <div class="background-overlay"></div>
+
+        <div class="hero-container">
+            <h1 class="logo-animation">FOODIE'S</h1>
+
+            <form method="POST" action="/predict" class="form-card">>
+                <h2>Will the customer complain? 🤔</h2>
+
+                <label>⭐ Driver Rating:</label>
+                <input type="number" name="driver_rating" step="0.1" min="0" max="5" required>
+
+                <label>🍽️ Food Type:</label>
+                <select name="food_type" required>
+                    <option value="veg">🥦 Veg</option>
+                    <option value="non-veg">🍗 Non-Veg</option>
+                </select>
+
+                <label>🌦️ Weather Condition:</label>
+                <select name="weather_condition" required>
+                    <option value="Clear">Clear</option>
+                    <option value="Fog">Fog</option>
+                    <option value="Rain">Rain</option>
+                    <option value="Storm">Storm</option>
+                </select>
+
+                <label>📦 Packaging Type:</label>
+                <select name="packaging_type" required>
+                    <option value="Foil">Foil</option>
+                    <option value="Plastic">Plastic</option>
+                    <option value="Paper">Paper</option>
+                    <option value="Box">Box</option>
+                </select>
+
+                <label>🧾 Customer Past Complaints:</label>
+                <input type="number" name="customer_past_complaints" required>
+
+                <label>🏙️ City:</label>
+                <select name="city" required>
+                    <option value="Swargate">Swargate</option>
+                    <option value="Baner">Baner</option>
+                    <option value="Wakad">Wakad</option>
+                    <option value="Koregaon Park">Koregaon Park</option>
+                    <option value="Hadapsar">Hadapsar</option>
+                    <option value="Shivaji Nagar">Shivaji Nagar</option>
+                    <option value="Kothrud">Kothrud</option>
+                    <option value="Hinjewadi">Hinjewadi</option>
+                    <option value="Viman Nagar">Viman Nagar</option>
+                    <option value="Pimpri">Pimpri</option>
+                </select>
+
+                <label>🚚 Delivery Duration (in mins):</label>
+                <input type="number" name="delivery_duration" required>
+
+                <button type="submit">🍴 Predict</button>
+            </form>
+        </div>
+    </body>
+    </html>
