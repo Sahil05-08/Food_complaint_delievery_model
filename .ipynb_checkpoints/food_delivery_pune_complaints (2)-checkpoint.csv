@@ -1,0 +1,2001 @@
+order_time,delivery_time,driver_rating,food_type,distance_km,weather_condition,packaging_type,customer_past_complaints,city,complaint
+09-07-2025 20:33,09-07-2025 21:34,1.7,Indian,4.45,Storm,Box,1,Bavdhan,0
+10-07-2025 00:15,10-07-2025 00:59,2.2,Pizza,5.32,Rain,Box,3,Hinjewadi,1
+10-07-2025 05:48,10-07-2025 06:45,3.5,Pizza,12.88,Rain,Foil,2,Magarpatta,0
+09-07-2025 23:17,09-07-2025 23:40,1.3,Chinese,1.08,Clear,Plastic,2,Magarpatta,1
+09-07-2025 14:28,09-07-2025 14:50,4.7,Chinese,7.21,Fog,Box,0,Baner,0
+10-07-2025 00:10,10-07-2025 01:15,4.7,Sandwich,9.47,Fog,Plastic,5,Pimple Saudagar,0
+09-07-2025 07:25,09-07-2025 07:52,2.4,Burger,6.56,Storm,Foil,4,Camp,1
+09-07-2025 00:04,09-07-2025 00:54,5,Dessert,7.49,Fog,Plastic,1,Pimple Saudagar,0
+08-07-2025 12:10,08-07-2025 13:06,3.8,Chinese,14.25,Fog,Paper,2,Camp,1
+08-07-2025 21:54,08-07-2025 22:38,4.7,Indian,14.88,Rain,Foil,1,Hadapsar,0
+09-07-2025 13:05,09-07-2025 14:28,4,Burger,12.12,Rain,Plastic,3,Magarpatta,1
+09-07-2025 11:23,09-07-2025 12:53,3.1,Burger,8.78,Storm,Box,4,Bavdhan,0
+09-07-2025 09:43,09-07-2025 10:59,3.2,Sandwich,12.9,Rain,Plastic,1,Hinjewadi,1
+09-07-2025 23:48,10-07-2025 01:10,4.6,Dessert,14.81,Storm,Box,5,Camp,1
+10-07-2025 03:30,10-07-2025 04:51,3.1,Pizza,6.19,Storm,Foil,2,Hinjewadi,1
+09-07-2025 14:10,09-07-2025 15:30,2.8,Dessert,1.96,Storm,Box,4,Pashan,1
+10-07-2025 09:52,10-07-2025 10:19,1.5,Chinese,13.27,Rain,Plastic,5,Pimple Saudagar,1
+10-07-2025 03:18,10-07-2025 03:56,2.4,Pizza,5.29,Rain,Plastic,4,Wakad,1
+09-07-2025 20:27,09-07-2025 20:48,3.7,Burger,13.69,Storm,Box,0,Pashan,0
+09-07-2025 14:42,09-07-2025 15:30,4.7,Pizza,8.59,Fog,Box,3,Hinjewadi,0
+10-07-2025 08:51,10-07-2025 10:16,1.6,Pizza,9.53,Rain,Foil,0,Pashan,1
+10-07-2025 04:19,10-07-2025 05:40,4.8,Burger,6.87,Storm,Plastic,3,Bavdhan,0
+09-07-2025 23:42,10-07-2025 00:19,2.4,Chinese,6.07,Storm,Foil,1,Pimple Saudagar,0
+09-07-2025 12:39,09-07-2025 13:05,4.5,Burger,5.05,Storm,Plastic,0,Kharadi,1
+09-07-2025 13:47,09-07-2025 14:48,2.6,Chinese,10.21,Fog,Plastic,1,Aundh,0
+09-07-2025 05:41,09-07-2025 06:46,1,Dessert,14.62,Storm,Box,5,Kharadi,1
+08-07-2025 20:58,08-07-2025 21:56,5,Pizza,1.48,Rain,Plastic,1,Wakad,1
+10-07-2025 04:17,10-07-2025 05:04,4.7,Indian,10.16,Fog,Plastic,1,Baner,1
+09-07-2025 18:45,09-07-2025 19:05,4.3,Indian,10.82,Storm,Box,3,Magarpatta,1
+09-07-2025 16:53,09-07-2025 18:13,1.1,Burger,13.04,Fog,Foil,3,Shivaji Nagar,1
+10-07-2025 09:50,10-07-2025 10:47,4.9,Burger,5.27,Clear,Paper,5,Koregaon Park,1
+09-07-2025 12:24,09-07-2025 13:03,2.3,Dessert,2.89,Storm,Plastic,0,Baner,1
+08-07-2025 18:48,08-07-2025 19:56,2,Indian,8.13,Rain,Box,4,Pashan,1
+09-07-2025 21:55,09-07-2025 22:58,4,Dessert,5.37,Rain,Foil,4,Baner,1
+09-07-2025 08:01,09-07-2025 08:59,3.8,Burger,10.97,Fog,Plastic,0,Viman Nagar,1
+10-07-2025 08:04,10-07-2025 08:57,4,Sandwich,14.12,Rain,Box,4,Hadapsar,1
+09-07-2025 01:53,09-07-2025 02:36,4.7,Burger,3.13,Clear,Box,0,Aundh,0
+08-07-2025 16:00,08-07-2025 16:56,1.1,Dessert,9.25,Rain,Plastic,2,Kharadi,0
+08-07-2025 17:36,08-07-2025 18:01,4.9,Pizza,13.44,Clear,Plastic,5,Baner,1
+09-07-2025 11:58,09-07-2025 13:02,3.5,Chinese,1.97,Storm,Plastic,5,Wakad,1
+10-07-2025 04:42,10-07-2025 05:41,3.6,Dessert,14.73,Fog,Plastic,4,Pimple Saudagar,1
+09-07-2025 05:57,09-07-2025 07:22,4.3,Chinese,7.55,Fog,Plastic,2,Baner,0
+09-07-2025 10:53,09-07-2025 11:51,3.7,Sandwich,12.78,Clear,Foil,1,Kharadi,1
+08-07-2025 16:45,08-07-2025 17:36,3.8,Chinese,14.27,Fog,Box,2,Baner,1
+10-07-2025 04:40,10-07-2025 05:58,3.9,Sandwich,13.69,Storm,Paper,3,Koregaon Park,0
+09-07-2025 04:44,09-07-2025 05:43,3.4,Burger,14.52,Rain,Foil,5,Pashan,1
+10-07-2025 09:44,10-07-2025 11:06,1.5,Burger,3.98,Fog,Box,4,Koregaon Park,1
+08-07-2025 23:03,09-07-2025 00:14,2.4,Sandwich,4.55,Clear,Foil,3,Pimple Saudagar,1
+09-07-2025 11:49,09-07-2025 12:28,3.1,Burger,10.2,Storm,Plastic,3,Koregaon Park,1
+10-07-2025 09:33,10-07-2025 10:16,1.2,Pizza,8.88,Clear,Foil,2,Pimple Saudagar,0
+08-07-2025 20:43,08-07-2025 22:10,3.2,Sandwich,11.31,Storm,Paper,1,Hinjewadi,0
+09-07-2025 03:31,09-07-2025 04:06,1.7,Chinese,8.64,Clear,Box,1,Kothrud,1
+09-07-2025 02:17,09-07-2025 03:01,1.6,Burger,14.58,Fog,Box,1,Bavdhan,0
+09-07-2025 03:44,09-07-2025 04:24,1.4,Dessert,14.06,Fog,Box,2,Magarpatta,1
+08-07-2025 11:18,08-07-2025 11:41,3.4,Chinese,3.8,Rain,Plastic,4,Aundh,1
+09-07-2025 03:03,09-07-2025 03:58,1.4,Burger,9.15,Rain,Foil,4,Shivaji Nagar,0
+09-07-2025 11:05,09-07-2025 12:13,3.5,Sandwich,9.59,Clear,Foil,2,Aundh,0
+09-07-2025 21:57,09-07-2025 22:19,1.9,Pizza,10.51,Clear,Paper,2,Pashan,0
+09-07-2025 19:47,09-07-2025 20:53,3.7,Burger,13.13,Fog,Foil,3,Kharadi,1
+09-07-2025 09:28,09-07-2025 10:44,3,Burger,3.94,Clear,Paper,5,Baner,1
+09-07-2025 11:38,09-07-2025 12:47,2.9,Dessert,12.9,Storm,Foil,1,Shivaji Nagar,0
+09-07-2025 23:13,09-07-2025 23:54,3.4,Chinese,13.13,Rain,Box,2,Shivaji Nagar,1
+09-07-2025 20:23,09-07-2025 20:49,2.2,Burger,8.83,Rain,Box,0,Pimple Saudagar,0
+10-07-2025 07:14,10-07-2025 08:17,1.8,Pizza,5.26,Storm,Box,3,Wakad,1
+08-07-2025 15:25,08-07-2025 16:04,1.9,Chinese,7.34,Clear,Paper,0,Baner,0
+09-07-2025 05:11,09-07-2025 05:38,3.2,Chinese,3.7,Fog,Paper,2,Pimple Saudagar,0
+08-07-2025 11:57,08-07-2025 12:34,1,Indian,4.04,Storm,Plastic,0,Koregaon Park,1
+08-07-2025 15:00,08-07-2025 15:43,3.8,Indian,5.45,Fog,Paper,1,Camp,0
+09-07-2025 03:51,09-07-2025 04:16,2.5,Indian,1.5,Storm,Plastic,5,Shivaji Nagar,1
+09-07-2025 18:20,09-07-2025 19:08,1,Chinese,10.16,Storm,Paper,2,Hadapsar,0
+10-07-2025 04:06,10-07-2025 05:08,3.1,Dessert,3.91,Clear,Foil,0,Magarpatta,0
+08-07-2025 20:26,08-07-2025 21:12,4.4,Chinese,12.83,Rain,Paper,3,Pashan,1
+08-07-2025 22:29,08-07-2025 23:00,1.7,Indian,8.72,Rain,Plastic,3,Magarpatta,0
+09-07-2025 22:18,09-07-2025 23:14,3.4,Sandwich,1.96,Rain,Foil,3,Pashan,1
+09-07-2025 15:57,09-07-2025 16:35,4.8,Indian,3.24,Fog,Foil,3,Shivaji Nagar,1
+09-07-2025 11:11,09-07-2025 11:58,4.3,Pizza,2.55,Rain,Foil,5,Hinjewadi,1
+09-07-2025 09:04,09-07-2025 09:52,3.1,Burger,3.8,Storm,Paper,2,Viman Nagar,0
+09-07-2025 10:54,09-07-2025 12:18,2.1,Burger,4.18,Storm,Plastic,1,Hadapsar,1
+09-07-2025 12:07,09-07-2025 13:35,2.2,Pizza,14.3,Storm,Foil,1,Camp,1
+09-07-2025 11:35,09-07-2025 12:29,3.3,Pizza,9.26,Clear,Foil,4,Pimple Saudagar,0
+09-07-2025 10:19,09-07-2025 11:31,1.7,Pizza,12.25,Fog,Foil,1,Kothrud,1
+09-07-2025 15:32,09-07-2025 16:34,2.9,Sandwich,1.27,Clear,Box,1,Pimple Saudagar,1
+10-07-2025 09:30,10-07-2025 10:58,3.8,Pizza,10.82,Fog,Plastic,2,Wakad,0
+10-07-2025 08:31,10-07-2025 09:49,3.9,Pizza,6.34,Storm,Box,5,Bavdhan,0
+10-07-2025 10:17,10-07-2025 11:26,1.7,Burger,2.1,Rain,Plastic,0,Pimple Saudagar,0
+10-07-2025 02:13,10-07-2025 02:53,4.7,Chinese,12.98,Storm,Foil,4,Aundh,0
+08-07-2025 11:04,08-07-2025 11:36,4.9,Chinese,2.41,Storm,Paper,1,Camp,0
+09-07-2025 14:45,09-07-2025 16:15,2.3,Burger,2.96,Rain,Box,4,Bavdhan,1
+08-07-2025 11:03,08-07-2025 12:15,1.3,Chinese,3.59,Clear,Paper,3,Camp,1
+09-07-2025 07:52,09-07-2025 09:07,4.2,Dessert,3.82,Rain,Foil,2,Magarpatta,0
+09-07-2025 12:14,09-07-2025 13:18,5,Sandwich,7.27,Clear,Plastic,2,Kharadi,0
+09-07-2025 08:55,09-07-2025 09:43,1.9,Burger,10.31,Rain,Plastic,4,Bavdhan,0
+09-07-2025 00:49,09-07-2025 01:10,4.6,Pizza,6.89,Storm,Plastic,1,Camp,1
+10-07-2025 01:39,10-07-2025 02:19,3.1,Burger,12.39,Storm,Foil,3,Kothrud,1
+09-07-2025 22:33,09-07-2025 23:44,3.7,Indian,8.92,Rain,Plastic,5,Shivaji Nagar,0
+08-07-2025 14:43,08-07-2025 15:16,4.8,Chinese,14.83,Rain,Foil,5,Kothrud,0
+10-07-2025 09:16,10-07-2025 10:26,1.6,Pizza,4.9,Rain,Foil,2,Viman Nagar,1
+08-07-2025 11:24,08-07-2025 12:16,1.8,Indian,1.9,Fog,Paper,5,Bavdhan,1
+10-07-2025 05:53,10-07-2025 06:34,4.6,Dessert,8.96,Clear,Paper,5,Wakad,0
+09-07-2025 01:30,09-07-2025 02:59,1.8,Indian,11.78,Fog,Foil,5,Kharadi,0
+09-07-2025 21:56,09-07-2025 22:38,1,Indian,5.94,Fog,Paper,1,Wakad,1
+09-07-2025 20:00,09-07-2025 20:56,1.6,Pizza,9.85,Clear,Plastic,0,Bavdhan,1
+09-07-2025 23:16,10-07-2025 00:33,2.9,Sandwich,12.25,Clear,Paper,4,Bavdhan,1
+09-07-2025 11:03,09-07-2025 12:22,1.7,Indian,12.54,Storm,Foil,3,Camp,0
+08-07-2025 15:35,08-07-2025 16:16,4.7,Dessert,13.5,Storm,Plastic,1,Pashan,1
+09-07-2025 03:37,09-07-2025 04:26,1.3,Chinese,1.26,Rain,Paper,0,Kothrud,1
+09-07-2025 08:24,09-07-2025 09:12,1.3,Indian,10.53,Storm,Foil,4,Koregaon Park,1
+09-07-2025 12:34,09-07-2025 13:59,3.2,Sandwich,10.23,Rain,Paper,0,Bavdhan,1
+08-07-2025 22:09,08-07-2025 23:33,2.2,Sandwich,9.83,Rain,Plastic,3,Shivaji Nagar,1
+08-07-2025 18:17,08-07-2025 19:09,1.7,Pizza,13.68,Clear,Paper,3,Bavdhan,1
+09-07-2025 11:05,09-07-2025 12:04,2.3,Dessert,9.43,Clear,Box,3,Kharadi,1
+08-07-2025 12:38,08-07-2025 14:07,3,Chinese,9.17,Fog,Foil,0,Hadapsar,0
+10-07-2025 09:35,10-07-2025 10:49,2.8,Burger,1.15,Clear,Foil,2,Bavdhan,1
+10-07-2025 05:41,10-07-2025 06:31,1.7,Dessert,1.02,Fog,Foil,1,Camp,0
+10-07-2025 07:18,10-07-2025 08:24,2.5,Chinese,2.63,Storm,Paper,2,Kharadi,1
+09-07-2025 13:34,09-07-2025 14:13,3.2,Sandwich,1.84,Clear,Box,5,Hinjewadi,1
+09-07-2025 04:04,09-07-2025 04:34,4.1,Dessert,12.82,Fog,Plastic,1,Hadapsar,1
+09-07-2025 03:10,09-07-2025 03:35,4.6,Pizza,14.39,Rain,Plastic,3,Pashan,1
+08-07-2025 16:33,08-07-2025 17:33,2.2,Sandwich,9.38,Fog,Box,1,Pashan,1
+08-07-2025 16:30,08-07-2025 17:23,4.2,Burger,1.1,Fog,Paper,2,Koregaon Park,0
+09-07-2025 18:18,09-07-2025 18:59,1.5,Sandwich,1.74,Storm,Foil,2,Camp,0
+09-07-2025 04:50,09-07-2025 05:18,2.6,Burger,8.13,Rain,Paper,2,Pimple Saudagar,1
+10-07-2025 03:36,10-07-2025 04:07,3.5,Burger,12.72,Storm,Paper,4,Hadapsar,1
+08-07-2025 23:48,09-07-2025 00:58,2.3,Pizza,5.71,Rain,Box,1,Kothrud,1
+09-07-2025 19:11,09-07-2025 19:44,3.1,Chinese,8.73,Rain,Foil,3,Kharadi,1
+09-07-2025 19:05,09-07-2025 20:29,3.3,Indian,14.28,Rain,Box,2,Hinjewadi,0
+09-07-2025 15:46,09-07-2025 16:33,2.2,Chinese,10.47,Clear,Box,0,Kothrud,1
+10-07-2025 10:01,10-07-2025 10:21,2.4,Burger,4.28,Storm,Plastic,4,Baner,1
+09-07-2025 15:05,09-07-2025 16:02,1.6,Dessert,13.1,Storm,Paper,1,Shivaji Nagar,1
+09-07-2025 19:04,09-07-2025 20:19,2.6,Sandwich,3.88,Storm,Paper,1,Aundh,1
+09-07-2025 14:43,09-07-2025 15:30,3.7,Pizza,9.91,Fog,Box,1,Pimple Saudagar,0
+10-07-2025 10:30,10-07-2025 11:21,1.6,Dessert,12.17,Storm,Plastic,2,Shivaji Nagar,0
+08-07-2025 16:14,08-07-2025 17:02,2,Chinese,12.01,Storm,Box,5,Hinjewadi,1
+08-07-2025 18:47,08-07-2025 19:45,4,Chinese,9.57,Rain,Foil,5,Koregaon Park,1
+09-07-2025 03:20,09-07-2025 04:23,1.7,Burger,14.31,Rain,Foil,1,Kharadi,1
+08-07-2025 16:44,08-07-2025 17:11,1.7,Chinese,12.11,Clear,Plastic,1,Hadapsar,1
+08-07-2025 19:17,08-07-2025 20:11,3.4,Dessert,8.84,Storm,Paper,3,Viman Nagar,0
+08-07-2025 12:10,08-07-2025 12:47,1.5,Chinese,10.37,Fog,Foil,5,Camp,0
+08-07-2025 20:40,08-07-2025 21:15,1.7,Pizza,6.88,Storm,Box,0,Magarpatta,0
+10-07-2025 07:18,10-07-2025 08:31,3.4,Indian,10.84,Clear,Box,4,Wakad,0
+09-07-2025 10:42,09-07-2025 11:04,3.8,Sandwich,13.48,Rain,Foil,3,Viman Nagar,0
+08-07-2025 23:11,09-07-2025 00:24,1.4,Chinese,8.55,Rain,Box,5,Hinjewadi,1
+08-07-2025 21:51,08-07-2025 22:54,1.1,Pizza,7.79,Storm,Paper,2,Baner,0
+09-07-2025 10:26,09-07-2025 11:33,4,Sandwich,14.61,Storm,Paper,1,Aundh,1
+10-07-2025 08:48,10-07-2025 09:48,1.4,Sandwich,10.06,Rain,Foil,0,Baner,0
+09-07-2025 09:40,09-07-2025 10:04,2.3,Dessert,10.73,Storm,Paper,3,Hadapsar,1
+09-07-2025 21:20,09-07-2025 21:56,1.3,Burger,6.96,Fog,Box,3,Koregaon Park,1
+09-07-2025 17:00,09-07-2025 17:44,4,Dessert,3.29,Fog,Foil,1,Aundh,0
+08-07-2025 10:45,08-07-2025 11:25,3.6,Sandwich,12.11,Fog,Box,3,Shivaji Nagar,1
+10-07-2025 04:20,10-07-2025 05:07,3.3,Burger,8.43,Storm,Foil,1,Pimple Saudagar,1
+09-07-2025 09:21,09-07-2025 09:46,2.4,Burger,7.6,Storm,Paper,5,Pimple Saudagar,0
+10-07-2025 02:19,10-07-2025 03:07,1.3,Pizza,11.04,Rain,Foil,4,Pimple Saudagar,1
+09-07-2025 20:38,09-07-2025 21:10,3.9,Chinese,14.23,Rain,Paper,2,Pimple Saudagar,1
+09-07-2025 09:56,09-07-2025 10:55,3.4,Burger,11.08,Storm,Plastic,4,Shivaji Nagar,1
+09-07-2025 15:01,09-07-2025 15:37,2,Indian,13.58,Clear,Plastic,1,Viman Nagar,1
+09-07-2025 03:18,09-07-2025 04:06,3.9,Pizza,14.86,Fog,Paper,3,Hadapsar,1
+10-07-2025 00:31,10-07-2025 01:42,1.9,Indian,12.71,Rain,Box,5,Viman Nagar,1
+10-07-2025 00:53,10-07-2025 01:17,4.6,Pizza,8.08,Clear,Plastic,2,Viman Nagar,0
+09-07-2025 21:54,09-07-2025 22:55,2.8,Dessert,11.34,Storm,Foil,5,Camp,1
+08-07-2025 20:44,08-07-2025 21:18,1.6,Dessert,11.26,Fog,Box,5,Shivaji Nagar,0
+08-07-2025 20:28,08-07-2025 20:51,3.9,Indian,12.93,Fog,Foil,2,Baner,1
+10-07-2025 09:31,10-07-2025 10:03,2.8,Pizza,3.32,Rain,Paper,5,Pashan,1
+09-07-2025 16:40,09-07-2025 17:37,4.9,Dessert,8.91,Rain,Paper,0,Bavdhan,1
+10-07-2025 08:49,10-07-2025 10:09,2.8,Chinese,1.46,Storm,Foil,2,Magarpatta,1
+09-07-2025 14:32,09-07-2025 15:31,4.1,Sandwich,7.92,Rain,Box,3,Kothrud,0
+09-07-2025 03:40,09-07-2025 04:35,3.6,Indian,4.12,Rain,Plastic,2,Hadapsar,0
+09-07-2025 07:16,09-07-2025 07:55,3.3,Dessert,13.18,Fog,Foil,2,Koregaon Park,0
+09-07-2025 09:24,09-07-2025 10:05,1.7,Burger,5.86,Clear,Plastic,3,Pimple Saudagar,0
+09-07-2025 06:50,09-07-2025 07:38,4.3,Indian,10.71,Storm,Plastic,2,Hinjewadi,1
+08-07-2025 19:13,08-07-2025 20:26,3.8,Pizza,5.77,Fog,Foil,1,Aundh,0
+09-07-2025 12:43,09-07-2025 13:18,3.6,Pizza,2.79,Storm,Paper,2,Viman Nagar,1
+10-07-2025 08:23,10-07-2025 08:57,1.4,Burger,3.8,Rain,Paper,3,Pimple Saudagar,1
+09-07-2025 09:01,09-07-2025 10:09,1.9,Chinese,3.72,Rain,Plastic,4,Pimple Saudagar,0
+08-07-2025 15:13,08-07-2025 15:35,2.5,Indian,3.18,Rain,Box,5,Magarpatta,0
+09-07-2025 06:45,09-07-2025 07:12,3.7,Burger,11.08,Storm,Box,0,Koregaon Park,1
+08-07-2025 20:37,08-07-2025 22:02,2.2,Pizza,8.99,Storm,Plastic,4,Magarpatta,0
+09-07-2025 09:26,09-07-2025 10:32,1.5,Burger,1.35,Rain,Box,5,Baner,1
+09-07-2025 04:52,09-07-2025 06:21,2.8,Sandwich,7.03,Rain,Foil,3,Hinjewadi,0
+09-07-2025 16:15,09-07-2025 17:39,2.1,Chinese,14.92,Storm,Foil,0,Kothrud,1
+09-07-2025 17:41,09-07-2025 18:53,3.2,Burger,10.06,Storm,Paper,3,Hinjewadi,0
+09-07-2025 08:57,09-07-2025 09:31,3.4,Pizza,11.09,Clear,Paper,5,Pimple Saudagar,0
+10-07-2025 02:03,10-07-2025 03:03,1.3,Dessert,7.58,Fog,Paper,4,Hadapsar,1
+10-07-2025 03:23,10-07-2025 04:22,2.9,Burger,8.65,Fog,Foil,1,Hinjewadi,0
+10-07-2025 03:44,10-07-2025 05:07,4.6,Chinese,14.99,Rain,Foil,2,Bavdhan,1
+10-07-2025 06:04,10-07-2025 07:12,1.8,Sandwich,9.44,Rain,Foil,2,Viman Nagar,1
+09-07-2025 16:45,09-07-2025 17:41,3.3,Sandwich,14.19,Storm,Box,0,Bavdhan,1
+09-07-2025 16:30,09-07-2025 17:19,2.4,Dessert,3.64,Clear,Foil,1,Aundh,0
+10-07-2025 02:49,10-07-2025 03:15,3.8,Indian,3.55,Fog,Plastic,0,Pashan,0
+10-07-2025 05:19,10-07-2025 05:56,2.4,Indian,6.03,Fog,Box,5,Hadapsar,1
+09-07-2025 06:41,09-07-2025 07:33,2.8,Chinese,6.88,Clear,Paper,0,Magarpatta,1
+09-07-2025 07:20,09-07-2025 08:42,1.3,Sandwich,9.37,Rain,Plastic,5,Magarpatta,1
+09-07-2025 15:26,09-07-2025 16:48,1.3,Chinese,7.41,Rain,Foil,0,Kharadi,1
+09-07-2025 05:17,09-07-2025 05:59,2.4,Pizza,8.31,Clear,Plastic,1,Camp,0
+09-07-2025 04:18,09-07-2025 04:47,2.2,Pizza,13.36,Fog,Foil,5,Kothrud,1
+08-07-2025 16:55,08-07-2025 17:42,4.2,Pizza,9.5,Storm,Plastic,5,Pashan,1
+10-07-2025 09:44,10-07-2025 10:26,4.9,Sandwich,10.13,Storm,Foil,4,Kothrud,1
+08-07-2025 21:07,08-07-2025 22:31,1.3,Pizza,9.14,Rain,Plastic,1,Aundh,1
+08-07-2025 21:26,08-07-2025 22:26,3.5,Burger,11.51,Rain,Plastic,1,Magarpatta,1
+10-07-2025 06:31,10-07-2025 07:26,2.8,Burger,3.67,Fog,Box,0,Hinjewadi,1
+09-07-2025 12:58,09-07-2025 14:10,2.1,Burger,5.32,Clear,Foil,0,Shivaji Nagar,0
+09-07-2025 02:54,09-07-2025 03:19,4,Dessert,3.42,Clear,Foil,3,Hadapsar,0
+09-07-2025 08:30,09-07-2025 09:16,1.3,Burger,7.17,Storm,Box,0,Baner,1
+09-07-2025 00:09,09-07-2025 01:01,4.8,Sandwich,11.42,Fog,Box,2,Camp,1
+08-07-2025 17:43,08-07-2025 18:04,3.3,Burger,14.19,Fog,Box,2,Kothrud,1
+09-07-2025 00:27,09-07-2025 01:30,2.2,Sandwich,10.46,Clear,Box,3,Aundh,1
+09-07-2025 23:06,10-07-2025 00:28,2.8,Sandwich,5.25,Fog,Foil,5,Camp,1
+09-07-2025 19:46,09-07-2025 20:47,3.2,Sandwich,3.14,Clear,Paper,1,Aundh,0
+09-07-2025 00:50,09-07-2025 01:37,3.2,Burger,5.53,Storm,Paper,5,Kothrud,0
+10-07-2025 09:40,10-07-2025 10:50,2.1,Burger,10.41,Storm,Paper,4,Pashan,1
+09-07-2025 23:03,09-07-2025 23:42,1,Pizza,13.15,Clear,Plastic,1,Magarpatta,1
+08-07-2025 22:33,08-07-2025 23:16,1.6,Indian,5.12,Clear,Box,1,Kharadi,0
+09-07-2025 07:08,09-07-2025 07:43,2.9,Pizza,13.5,Rain,Paper,3,Baner,1
+08-07-2025 13:37,08-07-2025 14:12,1.8,Pizza,2.96,Clear,Paper,2,Kothrud,1
+08-07-2025 17:44,08-07-2025 18:08,1.8,Sandwich,8.62,Fog,Foil,2,Kharadi,1
+09-07-2025 02:05,09-07-2025 03:09,4.6,Sandwich,4.2,Storm,Paper,1,Kothrud,1
+08-07-2025 16:20,08-07-2025 17:47,2,Dessert,12.53,Rain,Foil,2,Koregaon Park,0
+09-07-2025 10:43,09-07-2025 12:08,2.9,Burger,13.41,Clear,Box,5,Hinjewadi,1
+10-07-2025 07:31,10-07-2025 08:14,2.4,Sandwich,8.75,Fog,Foil,5,Hinjewadi,1
+10-07-2025 04:02,10-07-2025 05:01,4.7,Pizza,11.6,Storm,Foil,0,Magarpatta,1
+09-07-2025 17:09,09-07-2025 18:09,4.3,Chinese,3.25,Clear,Paper,1,Baner,0
+08-07-2025 11:44,08-07-2025 12:55,4,Indian,3.89,Rain,Foil,4,Wakad,1
+08-07-2025 21:26,08-07-2025 22:02,3.9,Pizza,12.25,Storm,Plastic,1,Pashan,1
+08-07-2025 17:00,08-07-2025 17:48,1.8,Sandwich,9.58,Storm,Foil,0,Koregaon Park,1
+08-07-2025 12:35,08-07-2025 13:36,3.8,Pizza,6.25,Storm,Paper,2,Hinjewadi,1
+08-07-2025 22:08,08-07-2025 23:23,1.3,Burger,3.13,Fog,Plastic,0,Aundh,0
+08-07-2025 17:10,08-07-2025 18:22,1.3,Pizza,8.15,Rain,Foil,0,Hinjewadi,0
+09-07-2025 16:56,09-07-2025 17:38,1.8,Burger,11.36,Storm,Plastic,4,Aundh,1
+09-07-2025 04:07,09-07-2025 05:13,1.7,Chinese,7.89,Storm,Plastic,3,Bavdhan,1
+08-07-2025 10:55,08-07-2025 12:00,4.6,Sandwich,10.85,Fog,Paper,3,Aundh,0
+09-07-2025 14:44,09-07-2025 15:25,2.3,Pizza,11.31,Clear,Plastic,4,Bavdhan,1
+08-07-2025 19:06,08-07-2025 20:12,3.6,Indian,10.38,Storm,Box,5,Kothrud,0
+09-07-2025 08:08,09-07-2025 09:30,4,Dessert,8.77,Fog,Foil,4,Koregaon Park,1
+10-07-2025 04:50,10-07-2025 05:46,4.7,Pizza,14.2,Clear,Plastic,3,Koregaon Park,0
+09-07-2025 02:21,09-07-2025 03:16,4.2,Chinese,10.85,Fog,Plastic,0,Wakad,0
+09-07-2025 23:30,10-07-2025 00:22,4.4,Chinese,2.89,Clear,Plastic,0,Hadapsar,0
+08-07-2025 11:25,08-07-2025 12:18,3.2,Dessert,6.6,Rain,Foil,1,Kharadi,1
+08-07-2025 17:51,08-07-2025 18:12,4.8,Dessert,14.31,Fog,Foil,1,Wakad,1
+09-07-2025 22:02,09-07-2025 22:46,2.2,Pizza,7.31,Fog,Plastic,1,Kharadi,1
+08-07-2025 17:33,08-07-2025 18:02,3.1,Pizza,2.91,Fog,Paper,1,Hinjewadi,0
+09-07-2025 19:13,09-07-2025 20:15,3.5,Indian,6.04,Storm,Paper,4,Magarpatta,1
+09-07-2025 07:13,09-07-2025 08:27,3.2,Dessert,11.17,Rain,Box,1,Viman Nagar,1
+08-07-2025 18:55,08-07-2025 20:25,3.7,Indian,9.41,Rain,Box,2,Hadapsar,0
+09-07-2025 21:15,09-07-2025 22:32,4,Burger,13.79,Fog,Paper,3,Wakad,1
+08-07-2025 14:59,08-07-2025 16:06,1.2,Indian,11.74,Rain,Box,2,Hadapsar,1
+09-07-2025 13:09,09-07-2025 13:39,4.3,Burger,4.44,Clear,Plastic,0,Wakad,0
+09-07-2025 09:32,09-07-2025 10:26,1.1,Chinese,8.76,Fog,Box,3,Magarpatta,1
+10-07-2025 00:38,10-07-2025 01:11,1.7,Chinese,8.22,Storm,Foil,2,Kharadi,1
+09-07-2025 02:21,09-07-2025 03:17,2.9,Indian,10.63,Rain,Paper,4,Aundh,0
+08-07-2025 14:47,08-07-2025 15:25,3.1,Indian,14.78,Fog,Paper,5,Hinjewadi,1
+09-07-2025 19:14,09-07-2025 20:17,4.4,Dessert,7.35,Rain,Paper,2,Magarpatta,0
+08-07-2025 22:02,08-07-2025 23:23,4.4,Sandwich,2.16,Rain,Foil,3,Baner,1
+09-07-2025 00:38,09-07-2025 01:49,2.9,Indian,8.69,Rain,Box,3,Wakad,1
+08-07-2025 23:43,09-07-2025 00:08,4.9,Dessert,12.21,Fog,Paper,4,Hinjewadi,1
+08-07-2025 12:27,08-07-2025 13:56,2.3,Dessert,7.15,Fog,Plastic,0,Aundh,1
+10-07-2025 08:48,10-07-2025 09:22,2.5,Indian,2.64,Storm,Box,1,Hadapsar,0
+10-07-2025 04:38,10-07-2025 05:37,1.5,Chinese,10.84,Storm,Foil,0,Shivaji Nagar,1
+09-07-2025 11:10,09-07-2025 11:36,3.1,Sandwich,10.79,Storm,Paper,1,Bavdhan,1
+08-07-2025 16:31,08-07-2025 17:10,1.7,Indian,12.84,Clear,Plastic,4,Pimple Saudagar,1
+10-07-2025 01:44,10-07-2025 02:51,4.5,Pizza,8.84,Fog,Box,3,Koregaon Park,0
+09-07-2025 12:03,09-07-2025 13:02,1.2,Chinese,13.13,Storm,Paper,5,Koregaon Park,0
+10-07-2025 01:04,10-07-2025 01:39,4,Chinese,10.82,Storm,Plastic,0,Bavdhan,1
+08-07-2025 14:39,08-07-2025 15:46,3.3,Sandwich,9.07,Storm,Paper,3,Hinjewadi,0
+08-07-2025 15:38,08-07-2025 16:00,1.3,Dessert,5.22,Storm,Plastic,5,Hadapsar,1
+09-07-2025 12:07,09-07-2025 12:45,2.8,Pizza,12.18,Storm,Foil,1,Pashan,0
+08-07-2025 13:07,08-07-2025 13:34,4.8,Indian,7.33,Fog,Box,5,Koregaon Park,1
+09-07-2025 08:39,09-07-2025 09:46,3.5,Pizza,7.02,Fog,Plastic,1,Viman Nagar,0
+09-07-2025 20:18,09-07-2025 21:27,1.4,Dessert,1.73,Storm,Foil,1,Kothrud,1
+08-07-2025 18:09,08-07-2025 18:59,2.8,Sandwich,13.19,Clear,Foil,5,Kharadi,1
+09-07-2025 08:16,09-07-2025 08:47,4.8,Indian,5.55,Rain,Foil,0,Hadapsar,1
+09-07-2025 15:29,09-07-2025 16:41,1.8,Indian,1.84,Clear,Foil,4,Koregaon Park,1
+08-07-2025 16:09,08-07-2025 17:23,2.4,Sandwich,12.38,Clear,Paper,1,Hinjewadi,0
+10-07-2025 07:26,10-07-2025 08:22,2.8,Chinese,6.83,Rain,Foil,5,Aundh,0
+10-07-2025 01:11,10-07-2025 02:05,1.7,Chinese,9.91,Rain,Foil,3,Pashan,1
+09-07-2025 09:26,09-07-2025 09:53,3.1,Sandwich,8.12,Fog,Plastic,0,Kothrud,0
+09-07-2025 13:17,09-07-2025 14:24,3,Pizza,1.73,Clear,Box,1,Camp,0
+10-07-2025 01:00,10-07-2025 02:13,3.2,Chinese,13.62,Storm,Box,4,Hinjewadi,0
+09-07-2025 12:55,09-07-2025 13:42,2.2,Sandwich,9.1,Rain,Plastic,4,Shivaji Nagar,1
+09-07-2025 10:07,09-07-2025 10:51,1.2,Pizza,2.24,Storm,Paper,5,Bavdhan,1
+08-07-2025 16:47,08-07-2025 18:14,5,Pizza,8.57,Clear,Paper,2,Magarpatta,0
+09-07-2025 04:10,09-07-2025 05:17,4.7,Pizza,12.27,Clear,Box,0,Shivaji Nagar,1
+09-07-2025 14:58,09-07-2025 15:49,4.6,Chinese,8.92,Fog,Box,0,Magarpatta,0
+09-07-2025 18:26,09-07-2025 19:00,4.7,Sandwich,7.8,Clear,Plastic,4,Camp,0
+09-07-2025 17:25,09-07-2025 18:55,1.7,Burger,2.39,Clear,Paper,2,Koregaon Park,1
+10-07-2025 01:53,10-07-2025 02:59,3.1,Indian,1.33,Fog,Box,5,Wakad,0
+09-07-2025 10:12,09-07-2025 11:24,1,Sandwich,2.49,Fog,Paper,4,Kothrud,0
+09-07-2025 16:48,09-07-2025 18:17,4.5,Sandwich,10.5,Clear,Plastic,3,Kharadi,1
+08-07-2025 15:53,08-07-2025 16:20,4.3,Pizza,13.17,Rain,Plastic,2,Magarpatta,1
+08-07-2025 11:56,08-07-2025 12:18,3.5,Chinese,8.62,Fog,Plastic,1,Kothrud,0
+08-07-2025 15:14,08-07-2025 16:34,2.5,Sandwich,12.6,Fog,Paper,2,Hinjewadi,1
+08-07-2025 13:10,08-07-2025 13:39,3.6,Indian,1.72,Storm,Plastic,2,Baner,1
+10-07-2025 07:00,10-07-2025 08:21,4.3,Burger,5.91,Fog,Paper,2,Bavdhan,0
+08-07-2025 17:16,08-07-2025 17:51,3.8,Chinese,14.04,Rain,Foil,1,Baner,0
+09-07-2025 21:28,09-07-2025 22:40,2.4,Pizza,6.14,Rain,Paper,4,Wakad,0
+09-07-2025 15:29,09-07-2025 16:46,1.8,Sandwich,8.27,Clear,Plastic,1,Bavdhan,0
+08-07-2025 14:16,08-07-2025 15:33,1.1,Chinese,8.51,Clear,Box,2,Wakad,1
+09-07-2025 23:04,09-07-2025 23:36,3.7,Indian,5.02,Fog,Box,3,Hadapsar,1
+09-07-2025 23:40,10-07-2025 00:06,2.7,Burger,1.92,Storm,Foil,1,Viman Nagar,1
+09-07-2025 07:53,09-07-2025 08:50,4.3,Indian,9.55,Clear,Paper,2,Kothrud,0
+09-07-2025 05:32,09-07-2025 06:25,5,Burger,1.83,Fog,Plastic,3,Viman Nagar,0
+08-07-2025 16:31,08-07-2025 17:56,1.8,Burger,4.46,Clear,Box,0,Kothrud,1
+08-07-2025 16:25,08-07-2025 16:46,2.1,Sandwich,6.32,Storm,Paper,3,Viman Nagar,1
+09-07-2025 03:18,09-07-2025 04:17,3.1,Sandwich,12.93,Storm,Plastic,0,Magarpatta,1
+10-07-2025 00:10,10-07-2025 00:46,4.8,Dessert,2.62,Storm,Plastic,2,Hinjewadi,0
+10-07-2025 04:06,10-07-2025 05:21,4.2,Burger,5.79,Fog,Plastic,0,Magarpatta,0
+09-07-2025 23:15,10-07-2025 00:02,3.1,Pizza,11.75,Fog,Plastic,0,Kharadi,1
+09-07-2025 02:40,09-07-2025 04:05,3.5,Chinese,1.69,Fog,Plastic,2,Pashan,0
+10-07-2025 06:07,10-07-2025 07:15,3.8,Burger,13.8,Clear,Paper,3,Baner,1
+08-07-2025 14:09,08-07-2025 15:25,4.4,Pizza,9.55,Fog,Plastic,1,Camp,0
+09-07-2025 00:53,09-07-2025 02:18,2.3,Dessert,6.18,Fog,Paper,4,Aundh,1
+08-07-2025 18:17,08-07-2025 18:38,4.3,Dessert,13.3,Fog,Paper,1,Kharadi,1
+09-07-2025 09:21,09-07-2025 10:48,2.4,Indian,14,Fog,Paper,5,Kharadi,1
+09-07-2025 13:53,09-07-2025 15:00,4.1,Chinese,9.26,Clear,Foil,0,Kharadi,0
+08-07-2025 21:24,08-07-2025 22:08,4.4,Indian,2.89,Storm,Paper,2,Pimple Saudagar,1
+09-07-2025 05:11,09-07-2025 05:51,4,Pizza,7.07,Clear,Foil,4,Magarpatta,1
+10-07-2025 02:57,10-07-2025 03:58,5,Pizza,5.89,Clear,Paper,5,Kharadi,1
+10-07-2025 05:05,10-07-2025 05:39,4.4,Pizza,13.25,Storm,Box,5,Hinjewadi,1
+09-07-2025 07:04,09-07-2025 08:15,3.2,Indian,9.14,Fog,Foil,4,Camp,0
+09-07-2025 21:09,09-07-2025 22:01,3.4,Dessert,7.18,Fog,Box,1,Hinjewadi,0
+08-07-2025 17:31,08-07-2025 18:45,2.9,Dessert,3.4,Rain,Paper,2,Kharadi,0
+09-07-2025 04:17,09-07-2025 05:39,1.4,Burger,13.7,Storm,Box,2,Baner,0
+09-07-2025 10:29,09-07-2025 11:15,4,Dessert,10.34,Clear,Foil,4,Wakad,1
+09-07-2025 14:34,09-07-2025 15:36,3.1,Burger,8.52,Clear,Paper,1,Wakad,0
+09-07-2025 21:27,09-07-2025 22:36,4.2,Dessert,13.56,Rain,Plastic,3,Wakad,1
+08-07-2025 12:24,08-07-2025 12:48,4.7,Indian,14.18,Fog,Paper,5,Hinjewadi,1
+10-07-2025 06:11,10-07-2025 06:34,2.3,Burger,14.38,Fog,Box,1,Pimple Saudagar,1
+08-07-2025 13:05,08-07-2025 13:27,2.1,Burger,13.71,Fog,Box,1,Aundh,1
+09-07-2025 00:09,09-07-2025 01:07,1.6,Chinese,13.93,Fog,Foil,3,Pimple Saudagar,0
+08-07-2025 12:28,08-07-2025 13:25,4.3,Dessert,10.79,Rain,Plastic,0,Baner,1
+09-07-2025 17:59,09-07-2025 19:05,3.3,Indian,1.54,Clear,Foil,0,Aundh,0
+09-07-2025 08:36,09-07-2025 09:07,1.8,Burger,2.18,Fog,Foil,2,Bavdhan,1
+10-07-2025 02:19,10-07-2025 03:00,4.1,Chinese,10.69,Fog,Paper,0,Hinjewadi,1
+09-07-2025 05:53,09-07-2025 06:38,2.7,Sandwich,9.11,Rain,Box,3,Baner,1
+10-07-2025 07:02,10-07-2025 08:00,1.8,Indian,6.29,Fog,Paper,4,Wakad,0
+09-07-2025 01:15,09-07-2025 01:49,3.1,Indian,12.21,Rain,Paper,5,Baner,1
+09-07-2025 02:57,09-07-2025 03:20,1.9,Indian,14.94,Rain,Box,1,Hinjewadi,1
+08-07-2025 20:06,08-07-2025 20:47,3.4,Chinese,9.54,Clear,Foil,2,Shivaji Nagar,0
+08-07-2025 17:51,08-07-2025 18:37,2.1,Sandwich,7.31,Storm,Box,5,Viman Nagar,1
+09-07-2025 20:14,09-07-2025 21:21,4.3,Burger,14.18,Rain,Box,3,Kothrud,1
+09-07-2025 21:29,09-07-2025 22:50,3.2,Chinese,10.13,Clear,Paper,1,Camp,1
+09-07-2025 01:22,09-07-2025 02:01,3.8,Indian,8.71,Clear,Paper,1,Koregaon Park,0
+08-07-2025 17:42,08-07-2025 18:08,5,Sandwich,5.42,Fog,Foil,0,Kharadi,0
+08-07-2025 16:26,08-07-2025 16:57,1.2,Indian,4.67,Storm,Paper,4,Bavdhan,1
+08-07-2025 23:30,09-07-2025 00:59,4.9,Pizza,13.83,Clear,Paper,3,Kharadi,0
+09-07-2025 17:12,09-07-2025 18:11,2.7,Pizza,9.57,Rain,Paper,5,Magarpatta,1
+10-07-2025 05:05,10-07-2025 05:42,2.3,Chinese,8.71,Clear,Foil,1,Magarpatta,1
+08-07-2025 19:47,08-07-2025 20:28,1.3,Indian,3.33,Storm,Paper,4,Aundh,0
+09-07-2025 10:32,09-07-2025 11:32,3.1,Sandwich,3.07,Clear,Paper,4,Camp,1
+08-07-2025 21:04,08-07-2025 22:31,4.6,Chinese,10.98,Rain,Paper,5,Bavdhan,0
+09-07-2025 22:47,09-07-2025 23:55,1.5,Chinese,14.61,Clear,Paper,2,Pashan,0
+09-07-2025 04:25,09-07-2025 05:26,2.1,Indian,14.71,Clear,Box,3,Magarpatta,1
+08-07-2025 14:35,08-07-2025 15:19,1,Chinese,14.41,Storm,Foil,2,Pashan,1
+09-07-2025 16:18,09-07-2025 16:53,1,Chinese,3.61,Rain,Plastic,5,Kharadi,1
+08-07-2025 20:29,08-07-2025 20:59,3.5,Pizza,11.98,Clear,Box,4,Magarpatta,0
+09-07-2025 04:33,09-07-2025 05:57,4.2,Sandwich,4.9,Fog,Paper,4,Aundh,0
+09-07-2025 10:08,09-07-2025 10:33,4,Burger,2.97,Storm,Paper,4,Baner,1
+09-07-2025 02:26,09-07-2025 02:59,2.1,Indian,4.92,Rain,Plastic,5,Bavdhan,1
+09-07-2025 01:21,09-07-2025 02:19,1.1,Burger,6.03,Clear,Plastic,4,Pimple Saudagar,0
+08-07-2025 15:13,08-07-2025 16:21,3.7,Dessert,8.83,Rain,Paper,3,Camp,0
+09-07-2025 14:00,09-07-2025 14:28,2.5,Chinese,1.45,Storm,Box,2,Wakad,0
+10-07-2025 02:23,10-07-2025 03:44,3,Chinese,13.81,Storm,Box,4,Pimple Saudagar,1
+10-07-2025 04:47,10-07-2025 06:11,2.9,Dessert,3.31,Clear,Box,4,Kothrud,1
+10-07-2025 05:03,10-07-2025 06:31,3.7,Pizza,14.37,Rain,Box,3,Koregaon Park,1
+09-07-2025 07:22,09-07-2025 07:58,1.2,Dessert,7.67,Fog,Foil,2,Koregaon Park,1
+09-07-2025 11:21,09-07-2025 11:57,2.4,Burger,14.73,Rain,Box,3,Aundh,1
+08-07-2025 13:06,08-07-2025 14:36,1.9,Burger,8.16,Clear,Plastic,0,Bavdhan,1
+08-07-2025 14:48,08-07-2025 16:05,3.9,Chinese,9.86,Clear,Foil,5,Hinjewadi,1
+09-07-2025 06:28,09-07-2025 06:58,3.4,Burger,14.67,Clear,Paper,3,Baner,0
+09-07-2025 16:54,09-07-2025 17:29,2.6,Pizza,13.46,Rain,Paper,2,Camp,1
+10-07-2025 07:39,10-07-2025 08:27,1.5,Pizza,4.38,Fog,Paper,1,Magarpatta,1
+10-07-2025 09:31,10-07-2025 10:06,1,Sandwich,7.56,Clear,Box,1,Hadapsar,1
+09-07-2025 01:41,09-07-2025 02:20,3.3,Dessert,3.3,Clear,Box,5,Kothrud,0
+08-07-2025 14:51,08-07-2025 15:41,3.2,Dessert,14.15,Fog,Box,5,Magarpatta,0
+08-07-2025 19:58,08-07-2025 21:23,1.5,Chinese,5.59,Storm,Foil,1,Kharadi,1
+09-07-2025 21:00,09-07-2025 22:02,3.2,Indian,2.77,Fog,Paper,0,Koregaon Park,0
+09-07-2025 20:47,09-07-2025 21:37,1.4,Pizza,5.12,Rain,Foil,2,Shivaji Nagar,0
+09-07-2025 18:07,09-07-2025 18:35,1.7,Indian,8.54,Storm,Box,3,Aundh,0
+08-07-2025 18:34,08-07-2025 19:21,2.5,Burger,8.13,Storm,Foil,0,Camp,1
+08-07-2025 16:12,08-07-2025 16:42,2.3,Dessert,2.52,Storm,Box,0,Koregaon Park,0
+09-07-2025 11:52,09-07-2025 12:50,2.5,Burger,4.46,Rain,Plastic,4,Wakad,0
+10-07-2025 00:41,10-07-2025 01:21,2.8,Indian,10.7,Storm,Plastic,0,Koregaon Park,0
+09-07-2025 22:42,10-07-2025 00:04,2.6,Pizza,5.27,Rain,Paper,0,Wakad,0
+08-07-2025 23:32,09-07-2025 00:09,2.5,Sandwich,3.42,Rain,Paper,1,Koregaon Park,1
+08-07-2025 23:41,09-07-2025 00:08,3.6,Pizza,3.28,Fog,Plastic,4,Viman Nagar,1
+10-07-2025 00:45,10-07-2025 01:19,2.4,Chinese,4.81,Storm,Plastic,2,Kothrud,0
+09-07-2025 02:15,09-07-2025 03:23,1.1,Sandwich,9.31,Clear,Paper,3,Pimple Saudagar,0
+09-07-2025 07:20,09-07-2025 08:41,4.5,Dessert,1.83,Fog,Foil,5,Hinjewadi,1
+08-07-2025 16:50,08-07-2025 17:54,2.6,Chinese,14.22,Fog,Box,5,Hadapsar,1
+08-07-2025 17:36,08-07-2025 18:54,1.4,Chinese,12.93,Rain,Box,4,Camp,0
+10-07-2025 00:36,10-07-2025 01:43,3.7,Pizza,6.98,Fog,Plastic,5,Hinjewadi,1
+09-07-2025 09:31,09-07-2025 10:40,2.2,Sandwich,12.27,Rain,Plastic,3,Koregaon Park,0
+10-07-2025 01:40,10-07-2025 02:37,2.4,Indian,4.13,Storm,Paper,2,Koregaon Park,0
+10-07-2025 00:31,10-07-2025 00:54,4.8,Pizza,4.49,Rain,Box,5,Viman Nagar,0
+08-07-2025 14:34,08-07-2025 16:00,4.3,Indian,10.57,Rain,Plastic,4,Pimple Saudagar,1
+09-07-2025 00:23,09-07-2025 00:59,4.8,Sandwich,2.93,Storm,Plastic,4,Baner,1
+08-07-2025 22:57,08-07-2025 23:24,3.3,Chinese,11.37,Fog,Plastic,2,Shivaji Nagar,1
+08-07-2025 18:50,08-07-2025 19:57,4.4,Chinese,2.75,Storm,Paper,3,Bavdhan,1
+09-07-2025 21:45,09-07-2025 22:37,2.7,Dessert,13.49,Fog,Box,0,Pashan,0
+09-07-2025 08:55,09-07-2025 09:54,1.9,Chinese,7.7,Rain,Box,5,Viman Nagar,0
+10-07-2025 03:18,10-07-2025 04:25,5,Pizza,3.21,Rain,Paper,3,Bavdhan,1
+09-07-2025 08:36,09-07-2025 09:24,1.5,Indian,4.06,Storm,Plastic,4,Magarpatta,1
+09-07-2025 09:57,09-07-2025 11:11,1.8,Dessert,3.48,Rain,Box,4,Pimple Saudagar,1
+10-07-2025 02:37,10-07-2025 03:10,4.7,Burger,4.87,Clear,Box,3,Camp,1
+09-07-2025 09:19,09-07-2025 10:11,2.2,Chinese,14.13,Rain,Box,2,Hadapsar,1
+09-07-2025 06:43,09-07-2025 07:25,3.3,Burger,1.17,Clear,Plastic,5,Magarpatta,1
+09-07-2025 08:54,09-07-2025 09:43,1.3,Burger,2.05,Fog,Box,0,Viman Nagar,1
+09-07-2025 01:03,09-07-2025 02:03,1.9,Chinese,1.54,Clear,Plastic,4,Shivaji Nagar,1
+09-07-2025 22:36,09-07-2025 23:40,4.7,Pizza,13.42,Clear,Plastic,3,Shivaji Nagar,0
+08-07-2025 23:10,09-07-2025 00:23,2.8,Indian,9.16,Rain,Plastic,2,Baner,1
+10-07-2025 04:49,10-07-2025 06:00,4.7,Dessert,13.75,Clear,Paper,0,Viman Nagar,1
+09-07-2025 08:45,09-07-2025 09:15,1.3,Indian,7.13,Rain,Paper,5,Pashan,0
+09-07-2025 20:28,09-07-2025 21:22,1.8,Pizza,10.04,Rain,Paper,1,Kharadi,1
+08-07-2025 22:59,08-07-2025 23:56,4.8,Chinese,14.22,Fog,Box,3,Pimple Saudagar,1
+09-07-2025 18:05,09-07-2025 18:54,1.9,Burger,10.65,Fog,Plastic,0,Baner,0
+09-07-2025 17:20,09-07-2025 18:23,1.7,Dessert,9.82,Storm,Plastic,0,Camp,1
+08-07-2025 20:56,08-07-2025 22:03,4.5,Indian,10.11,Fog,Foil,2,Koregaon Park,1
+10-07-2025 08:14,10-07-2025 09:30,3.9,Chinese,8.52,Fog,Box,5,Kharadi,0
+09-07-2025 10:06,09-07-2025 11:13,1.3,Burger,7.28,Rain,Paper,2,Shivaji Nagar,1
+08-07-2025 19:03,08-07-2025 19:58,4.7,Burger,8.53,Clear,Paper,5,Baner,1
+09-07-2025 18:54,09-07-2025 20:09,2.4,Sandwich,10.84,Rain,Plastic,2,Bavdhan,1
+10-07-2025 02:30,10-07-2025 02:53,4.1,Indian,5.28,Rain,Plastic,3,Camp,0
+09-07-2025 21:42,09-07-2025 22:41,2,Dessert,5.99,Storm,Plastic,5,Viman Nagar,1
+09-07-2025 23:38,10-07-2025 00:00,4.1,Dessert,10.82,Rain,Foil,5,Shivaji Nagar,1
+08-07-2025 19:12,08-07-2025 19:37,3,Chinese,6.83,Rain,Paper,0,Viman Nagar,0
+08-07-2025 11:59,08-07-2025 13:11,1.2,Dessert,12.9,Clear,Plastic,5,Hadapsar,1
+09-07-2025 08:27,09-07-2025 09:20,3.8,Burger,9.73,Fog,Foil,2,Kothrud,0
+09-07-2025 06:10,09-07-2025 07:20,4.6,Dessert,6.27,Fog,Paper,0,Baner,0
+09-07-2025 22:45,09-07-2025 23:50,3.9,Burger,5.85,Rain,Paper,1,Bavdhan,0
+09-07-2025 21:24,09-07-2025 22:48,3.6,Indian,8.61,Fog,Foil,4,Hinjewadi,1
+09-07-2025 21:14,09-07-2025 22:01,3.6,Chinese,3.35,Rain,Foil,2,Kharadi,1
+08-07-2025 17:28,08-07-2025 18:37,2.4,Chinese,5.12,Storm,Box,5,Baner,0
+09-07-2025 17:59,09-07-2025 19:22,1.6,Dessert,4.89,Storm,Box,0,Aundh,1
+10-07-2025 02:09,10-07-2025 02:48,3.5,Chinese,5.03,Clear,Foil,3,Bavdhan,0
+09-07-2025 10:15,09-07-2025 11:04,2.3,Indian,3.6,Storm,Plastic,1,Pimple Saudagar,0
+10-07-2025 06:19,10-07-2025 07:23,4.7,Dessert,8.44,Storm,Plastic,4,Hinjewadi,1
+09-07-2025 16:02,09-07-2025 16:59,2,Burger,2.6,Fog,Foil,3,Hadapsar,0
+09-07-2025 12:35,09-07-2025 13:34,3.7,Indian,11.21,Fog,Foil,5,Aundh,0
+09-07-2025 16:27,09-07-2025 17:38,2,Pizza,9.44,Storm,Foil,5,Wakad,1
+09-07-2025 23:21,10-07-2025 00:16,3.7,Pizza,14.63,Clear,Paper,0,Viman Nagar,1
+08-07-2025 23:49,09-07-2025 00:23,4,Dessert,1.73,Rain,Paper,4,Pimple Saudagar,1
+09-07-2025 21:11,09-07-2025 22:23,3.5,Sandwich,3.27,Clear,Box,0,Wakad,0
+08-07-2025 16:18,08-07-2025 17:24,2.5,Burger,5.58,Fog,Paper,1,Hinjewadi,1
+10-07-2025 09:44,10-07-2025 10:59,4.1,Sandwich,6.3,Clear,Foil,3,Koregaon Park,1
+09-07-2025 04:11,09-07-2025 04:43,3.4,Dessert,3.19,Rain,Foil,4,Kharadi,0
+09-07-2025 16:26,09-07-2025 17:29,2.1,Pizza,1.26,Clear,Plastic,1,Viman Nagar,1
+09-07-2025 12:42,09-07-2025 13:25,3.8,Indian,13.37,Storm,Box,2,Kothrud,0
+10-07-2025 09:31,10-07-2025 10:11,1.1,Indian,1,Fog,Paper,3,Pimple Saudagar,1
+09-07-2025 23:16,09-07-2025 23:54,2.1,Burger,2.58,Clear,Plastic,5,Bavdhan,1
+08-07-2025 22:15,08-07-2025 22:54,2.5,Chinese,2.07,Fog,Plastic,2,Viman Nagar,0
+09-07-2025 11:11,09-07-2025 11:47,4.6,Pizza,14.49,Clear,Plastic,0,Aundh,1
+08-07-2025 14:14,08-07-2025 14:48,4.3,Dessert,6,Storm,Paper,5,Wakad,0
+09-07-2025 00:26,09-07-2025 00:56,1.8,Pizza,8.78,Fog,Box,0,Aundh,1
+10-07-2025 10:04,10-07-2025 10:44,3.1,Indian,1.31,Fog,Plastic,3,Kothrud,0
+10-07-2025 04:40,10-07-2025 05:29,4.2,Chinese,1.26,Storm,Foil,4,Hinjewadi,1
+10-07-2025 04:32,10-07-2025 05:10,3.2,Pizza,12.48,Storm,Foil,1,Viman Nagar,1
+08-07-2025 17:50,08-07-2025 18:38,1.5,Chinese,8.36,Rain,Box,0,Aundh,0
+10-07-2025 01:38,10-07-2025 03:02,4.5,Pizza,6.56,Fog,Plastic,0,Wakad,0
+09-07-2025 14:28,09-07-2025 15:37,2.6,Chinese,1.96,Rain,Box,3,Camp,1
+09-07-2025 21:21,09-07-2025 22:29,3,Dessert,5.17,Fog,Plastic,2,Pashan,0
+08-07-2025 16:05,08-07-2025 16:25,4.2,Chinese,14.11,Fog,Foil,1,Hinjewadi,0
+10-07-2025 03:46,10-07-2025 05:07,1.8,Indian,11.33,Storm,Plastic,0,Shivaji Nagar,1
+10-07-2025 01:40,10-07-2025 02:03,1.8,Chinese,11.46,Rain,Plastic,5,Bavdhan,1
+09-07-2025 04:50,09-07-2025 05:33,2.7,Burger,14.5,Fog,Box,2,Pashan,1
+09-07-2025 22:22,09-07-2025 23:17,2.2,Pizza,5.89,Storm,Box,3,Hadapsar,1
+10-07-2025 05:28,10-07-2025 06:23,2.3,Pizza,11.51,Rain,Foil,2,Magarpatta,1
+08-07-2025 14:26,08-07-2025 15:15,1.2,Dessert,2.82,Clear,Plastic,3,Pimple Saudagar,1
+08-07-2025 22:06,08-07-2025 22:36,4.6,Pizza,12.58,Rain,Paper,1,Viman Nagar,1
+08-07-2025 17:17,08-07-2025 18:13,2.9,Burger,14,Fog,Plastic,2,Viman Nagar,1
+09-07-2025 20:36,09-07-2025 21:32,2.4,Indian,3.42,Rain,Plastic,2,Koregaon Park,1
+08-07-2025 20:35,08-07-2025 21:15,2.1,Indian,4.74,Clear,Foil,1,Shivaji Nagar,1
+10-07-2025 01:35,10-07-2025 02:38,1.2,Pizza,8.28,Rain,Box,1,Aundh,1
+09-07-2025 16:49,09-07-2025 17:51,2.4,Pizza,10.35,Storm,Box,2,Shivaji Nagar,1
+09-07-2025 01:09,09-07-2025 02:02,2.2,Pizza,1.84,Clear,Foil,3,Hinjewadi,1
+09-07-2025 18:51,09-07-2025 19:37,3.7,Sandwich,4.82,Rain,Box,1,Viman Nagar,1
+10-07-2025 06:00,10-07-2025 06:28,3.2,Pizza,1.92,Clear,Box,4,Baner,0
+08-07-2025 11:36,08-07-2025 12:18,1.2,Indian,4.64,Storm,Foil,4,Koregaon Park,0
+08-07-2025 12:03,08-07-2025 13:32,4.5,Indian,12.91,Rain,Foil,4,Wakad,1
+10-07-2025 06:01,10-07-2025 07:09,4.5,Pizza,2.74,Storm,Box,0,Camp,1
+09-07-2025 04:38,09-07-2025 06:02,3.7,Pizza,10.74,Rain,Plastic,1,Shivaji Nagar,1
+10-07-2025 05:07,10-07-2025 06:15,1.2,Indian,6.51,Rain,Plastic,5,Hinjewadi,1
+09-07-2025 12:00,09-07-2025 12:49,3.1,Chinese,11.72,Clear,Box,1,Viman Nagar,0
+10-07-2025 03:11,10-07-2025 04:06,3.7,Dessert,12.32,Fog,Plastic,2,Baner,0
+10-07-2025 02:14,10-07-2025 02:48,2.9,Pizza,3.04,Clear,Paper,2,Pashan,0
+08-07-2025 11:42,08-07-2025 12:32,4.3,Sandwich,2.01,Fog,Box,5,Viman Nagar,1
+09-07-2025 02:56,09-07-2025 03:52,4,Indian,4.97,Clear,Box,3,Baner,1
+10-07-2025 01:21,10-07-2025 02:44,1.9,Burger,8.6,Storm,Paper,0,Baner,0
+09-07-2025 10:26,09-07-2025 11:07,1.8,Pizza,8.82,Storm,Foil,2,Pimple Saudagar,0
+09-07-2025 19:00,09-07-2025 19:48,1.8,Dessert,8.94,Fog,Box,0,Viman Nagar,1
+09-07-2025 08:40,09-07-2025 10:03,1.4,Burger,1.75,Fog,Foil,0,Wakad,1
+08-07-2025 16:55,08-07-2025 18:24,4.8,Dessert,14.69,Clear,Foil,4,Pimple Saudagar,1
+10-07-2025 04:30,10-07-2025 05:43,2.8,Sandwich,5.57,Fog,Plastic,4,Shivaji Nagar,1
+10-07-2025 06:29,10-07-2025 07:16,2.6,Pizza,2.05,Fog,Box,1,Hinjewadi,0
+08-07-2025 20:20,08-07-2025 21:27,1.4,Chinese,10.81,Clear,Plastic,5,Magarpatta,1
+08-07-2025 19:54,08-07-2025 20:16,1.2,Burger,12.72,Storm,Plastic,5,Kharadi,0
+10-07-2025 01:44,10-07-2025 02:07,1.3,Pizza,11.82,Clear,Box,3,Camp,1
+09-07-2025 09:15,09-07-2025 10:42,2.7,Dessert,6.57,Storm,Plastic,3,Aundh,1
+09-07-2025 06:31,09-07-2025 07:50,3.1,Indian,1.23,Rain,Box,4,Bavdhan,1
+10-07-2025 01:55,10-07-2025 02:21,4.3,Sandwich,2.7,Rain,Paper,0,Bavdhan,0
+09-07-2025 22:19,09-07-2025 23:43,1.9,Pizza,1.21,Rain,Foil,4,Viman Nagar,1
+10-07-2025 00:31,10-07-2025 01:26,4.4,Dessert,10.95,Fog,Paper,5,Magarpatta,0
+09-07-2025 19:23,09-07-2025 20:08,2.3,Sandwich,5.65,Clear,Box,2,Hinjewadi,1
+08-07-2025 21:57,08-07-2025 22:38,1.2,Sandwich,4.55,Storm,Plastic,4,Pimple Saudagar,0
+09-07-2025 19:20,09-07-2025 20:23,3.1,Burger,9.45,Storm,Box,0,Viman Nagar,1
+09-07-2025 15:35,09-07-2025 16:56,4.9,Pizza,9,Storm,Paper,0,Koregaon Park,1
+08-07-2025 14:16,08-07-2025 14:49,3.5,Pizza,10.22,Clear,Box,3,Baner,0
+10-07-2025 01:41,10-07-2025 03:02,3.7,Pizza,9.49,Clear,Foil,1,Kothrud,0
+09-07-2025 04:34,09-07-2025 05:11,4.6,Chinese,6.07,Storm,Plastic,2,Kothrud,0
+10-07-2025 07:03,10-07-2025 08:09,1.9,Chinese,7.5,Fog,Paper,1,Bavdhan,0
+10-07-2025 07:54,10-07-2025 09:07,1.6,Chinese,14.77,Fog,Foil,1,Kothrud,1
+08-07-2025 21:50,08-07-2025 22:28,4.6,Sandwich,13.07,Clear,Plastic,4,Aundh,0
+08-07-2025 22:53,08-07-2025 23:55,2.2,Pizza,2.87,Rain,Paper,5,Kothrud,1
+09-07-2025 15:41,09-07-2025 16:01,1.3,Dessert,13.57,Storm,Foil,2,Pimple Saudagar,1
+08-07-2025 17:59,08-07-2025 19:13,1.6,Pizza,10.47,Storm,Box,2,Kharadi,1
+08-07-2025 15:31,08-07-2025 15:52,2.8,Indian,9.94,Clear,Paper,0,Hadapsar,1
+09-07-2025 00:35,09-07-2025 01:06,1.7,Sandwich,13.26,Rain,Box,3,Camp,0
+08-07-2025 19:15,08-07-2025 20:40,1.9,Dessert,7.17,Fog,Foil,4,Aundh,0
+09-07-2025 05:08,09-07-2025 06:24,1.5,Sandwich,11.72,Fog,Box,4,Koregaon Park,0
+10-07-2025 04:04,10-07-2025 04:27,2.5,Chinese,8.19,Clear,Foil,5,Kharadi,1
+09-07-2025 03:56,09-07-2025 04:45,4,Pizza,12.56,Clear,Plastic,2,Bavdhan,1
+08-07-2025 15:09,08-07-2025 15:49,4.7,Pizza,10.02,Fog,Plastic,2,Shivaji Nagar,0
+10-07-2025 06:27,10-07-2025 07:19,1.4,Dessert,12.69,Storm,Box,5,Bavdhan,1
+09-07-2025 11:26,09-07-2025 11:56,3.4,Pizza,3.22,Clear,Box,2,Pashan,0
+09-07-2025 02:39,09-07-2025 03:07,3.3,Pizza,11.51,Storm,Paper,2,Shivaji Nagar,1
+09-07-2025 07:40,09-07-2025 08:15,1.2,Indian,14.88,Fog,Paper,3,Viman Nagar,0
+09-07-2025 19:18,09-07-2025 20:07,3.6,Chinese,5.6,Storm,Plastic,2,Koregaon Park,1
+10-07-2025 09:44,10-07-2025 10:26,1.1,Chinese,1.19,Fog,Box,0,Baner,1
+09-07-2025 12:56,09-07-2025 14:07,2.3,Chinese,14.71,Rain,Foil,0,Magarpatta,1
+09-07-2025 19:19,09-07-2025 20:01,1.5,Indian,10.76,Clear,Box,2,Pashan,1
+08-07-2025 16:38,08-07-2025 18:00,2.2,Pizza,12.88,Fog,Plastic,4,Kothrud,1
+08-07-2025 23:12,09-07-2025 00:20,4.7,Sandwich,6.41,Rain,Box,1,Camp,1
+09-07-2025 14:55,09-07-2025 15:27,4,Sandwich,10.34,Storm,Paper,2,Camp,0
+09-07-2025 21:04,09-07-2025 22:23,2.8,Dessert,4.51,Clear,Box,0,Pashan,1
+08-07-2025 17:11,08-07-2025 18:09,3,Indian,9.51,Fog,Box,0,Kothrud,0
+09-07-2025 00:56,09-07-2025 01:42,3.5,Indian,5.83,Storm,Paper,1,Kothrud,1
+09-07-2025 13:48,09-07-2025 14:13,4.1,Indian,11.03,Fog,Paper,5,Baner,1
+09-07-2025 00:47,09-07-2025 01:41,1.4,Sandwich,8.3,Clear,Plastic,1,Koregaon Park,1
+10-07-2025 04:36,10-07-2025 05:12,2.8,Indian,7.38,Clear,Plastic,0,Shivaji Nagar,0
+08-07-2025 21:18,08-07-2025 22:11,1.8,Pizza,13.84,Clear,Box,1,Kharadi,0
+08-07-2025 22:58,09-07-2025 00:08,3.9,Indian,14.2,Fog,Foil,1,Hadapsar,1
+08-07-2025 14:37,08-07-2025 15:51,1.2,Chinese,10.51,Storm,Foil,3,Pashan,1
+09-07-2025 01:05,09-07-2025 02:08,2.3,Sandwich,8.88,Storm,Foil,4,Wakad,0
+09-07-2025 05:40,09-07-2025 06:02,5,Pizza,7.49,Fog,Foil,4,Shivaji Nagar,1
+08-07-2025 22:19,08-07-2025 23:02,1,Indian,13.26,Storm,Plastic,4,Magarpatta,1
+08-07-2025 19:02,08-07-2025 20:13,2.4,Sandwich,4.5,Storm,Paper,4,Kothrud,1
+09-07-2025 01:40,09-07-2025 02:23,3.1,Sandwich,4.16,Fog,Paper,5,Kharadi,1
+09-07-2025 18:14,09-07-2025 18:47,3,Chinese,6.1,Fog,Paper,4,Aundh,0
+09-07-2025 05:04,09-07-2025 05:35,4.9,Chinese,10.91,Clear,Paper,5,Kothrud,1
+08-07-2025 12:12,08-07-2025 13:33,3.8,Indian,11.99,Fog,Plastic,4,Bavdhan,1
+08-07-2025 18:33,08-07-2025 19:44,4.9,Indian,5.88,Storm,Box,5,Wakad,0
+09-07-2025 04:24,09-07-2025 04:50,1.9,Indian,3.85,Storm,Box,1,Kothrud,0
+08-07-2025 13:47,08-07-2025 14:32,4.7,Dessert,4.31,Storm,Box,5,Baner,0
+09-07-2025 09:26,09-07-2025 10:29,2.2,Indian,12.33,Rain,Paper,2,Kharadi,1
+09-07-2025 22:20,09-07-2025 22:49,4.3,Sandwich,4.38,Storm,Box,5,Hadapsar,1
+09-07-2025 22:17,09-07-2025 22:45,3.9,Dessert,14.13,Rain,Box,0,Aundh,1
+10-07-2025 05:54,10-07-2025 06:59,1.6,Chinese,7.41,Clear,Box,2,Shivaji Nagar,1
+09-07-2025 17:40,09-07-2025 18:11,4.2,Pizza,7.72,Rain,Plastic,2,Aundh,1
+09-07-2025 01:25,09-07-2025 01:46,2.4,Burger,3.12,Storm,Paper,0,Koregaon Park,1
+09-07-2025 22:55,10-07-2025 00:10,3.6,Pizza,8.36,Storm,Foil,0,Aundh,0
+09-07-2025 05:37,09-07-2025 06:13,1.4,Pizza,6.72,Clear,Paper,5,Aundh,0
+09-07-2025 17:23,09-07-2025 18:02,3.9,Sandwich,8.37,Storm,Plastic,1,Shivaji Nagar,1
+10-07-2025 05:19,10-07-2025 06:26,3.3,Indian,7.01,Storm,Plastic,0,Magarpatta,0
+09-07-2025 00:46,09-07-2025 01:26,2.4,Burger,13.62,Clear,Plastic,5,Pimple Saudagar,1
+09-07-2025 04:06,09-07-2025 04:57,1.1,Dessert,9.77,Fog,Paper,1,Aundh,0
+08-07-2025 12:52,08-07-2025 14:03,3.6,Dessert,10.11,Rain,Box,3,Camp,1
+10-07-2025 08:05,10-07-2025 09:34,4.2,Burger,3.42,Rain,Box,0,Kharadi,1
+10-07-2025 06:20,10-07-2025 07:41,2.9,Dessert,14.44,Rain,Foil,5,Pimple Saudagar,1
+08-07-2025 16:24,08-07-2025 16:57,1.4,Pizza,6.55,Rain,Paper,2,Kharadi,1
+10-07-2025 06:18,10-07-2025 06:59,4,Dessert,3.21,Clear,Foil,1,Shivaji Nagar,0
+09-07-2025 04:44,09-07-2025 05:19,4.8,Sandwich,6.36,Rain,Paper,5,Viman Nagar,1
+08-07-2025 18:09,08-07-2025 19:15,4.3,Sandwich,12,Storm,Foil,1,Kharadi,1
+10-07-2025 09:47,10-07-2025 11:12,1.1,Indian,5.18,Clear,Plastic,3,Hinjewadi,1
+08-07-2025 15:09,08-07-2025 15:59,3.3,Dessert,14.25,Fog,Box,0,Hinjewadi,0
+09-07-2025 10:36,09-07-2025 11:37,3,Dessert,2.77,Fog,Box,2,Koregaon Park,0
+10-07-2025 05:08,10-07-2025 06:08,2.7,Burger,8.07,Fog,Paper,4,Magarpatta,0
+08-07-2025 20:51,08-07-2025 21:33,1.9,Chinese,10.93,Rain,Box,1,Wakad,0
+09-07-2025 21:55,09-07-2025 22:19,4.2,Sandwich,6.37,Clear,Plastic,4,Kharadi,1
+08-07-2025 20:25,08-07-2025 21:49,1.9,Burger,6.88,Rain,Foil,0,Wakad,1
+08-07-2025 15:02,08-07-2025 16:03,1.8,Indian,10.82,Fog,Plastic,4,Pimple Saudagar,1
+09-07-2025 08:16,09-07-2025 09:29,2.5,Sandwich,3.38,Storm,Paper,4,Wakad,1
+09-07-2025 17:34,09-07-2025 19:04,1.8,Sandwich,7.32,Clear,Paper,5,Pimple Saudagar,0
+08-07-2025 19:33,08-07-2025 20:23,4.8,Burger,3.75,Fog,Paper,1,Koregaon Park,0
+08-07-2025 19:06,08-07-2025 19:51,3.6,Pizza,10.31,Fog,Plastic,0,Kothrud,0
+08-07-2025 19:50,08-07-2025 20:16,2.6,Indian,14.98,Rain,Foil,1,Viman Nagar,0
+08-07-2025 10:43,08-07-2025 11:32,3,Chinese,11.96,Fog,Box,0,Kothrud,0
+09-07-2025 17:22,09-07-2025 18:37,1.3,Sandwich,2.71,Fog,Plastic,5,Shivaji Nagar,1
+09-07-2025 23:46,10-07-2025 00:42,2.8,Burger,4.17,Clear,Paper,4,Camp,1
+10-07-2025 06:52,10-07-2025 08:09,3.1,Pizza,13.13,Rain,Plastic,4,Shivaji Nagar,1
+10-07-2025 08:38,10-07-2025 09:00,4.8,Chinese,7.98,Fog,Paper,4,Magarpatta,0
+09-07-2025 10:59,09-07-2025 12:04,3.6,Burger,5.68,Fog,Plastic,1,Shivaji Nagar,0
+08-07-2025 20:31,08-07-2025 20:58,4.6,Dessert,11.31,Rain,Box,4,Magarpatta,1
+09-07-2025 00:39,09-07-2025 01:23,1.4,Indian,12.55,Storm,Paper,2,Pashan,1
+09-07-2025 10:59,09-07-2025 11:28,4.1,Indian,4.37,Rain,Box,5,Shivaji Nagar,0
+10-07-2025 00:31,10-07-2025 01:06,3.4,Pizza,12.32,Clear,Foil,0,Hadapsar,1
+08-07-2025 13:13,08-07-2025 14:26,3.6,Dessert,9.4,Storm,Paper,2,Aundh,0
+09-07-2025 16:10,09-07-2025 16:38,4,Indian,3.53,Clear,Plastic,2,Camp,0
+10-07-2025 09:15,10-07-2025 10:19,2.3,Sandwich,7.77,Storm,Paper,1,Aundh,0
+09-07-2025 09:37,09-07-2025 10:11,4.6,Chinese,9.67,Rain,Box,4,Wakad,1
+09-07-2025 20:46,09-07-2025 22:06,4.7,Chinese,4.33,Storm,Foil,2,Kharadi,0
+08-07-2025 19:38,08-07-2025 20:27,4.5,Pizza,8.9,Storm,Foil,3,Hadapsar,0
+10-07-2025 09:09,10-07-2025 10:17,1.7,Chinese,2.1,Fog,Foil,3,Viman Nagar,1
+08-07-2025 18:55,08-07-2025 19:55,2.9,Pizza,10.62,Clear,Plastic,4,Aundh,1
+08-07-2025 17:13,08-07-2025 18:00,2.7,Sandwich,8.27,Storm,Plastic,3,Hadapsar,1
+09-07-2025 13:08,09-07-2025 14:01,1.8,Pizza,6.59,Fog,Box,2,Shivaji Nagar,1
+10-07-2025 06:08,10-07-2025 06:52,4.7,Pizza,2.35,Rain,Paper,3,Hadapsar,1
+08-07-2025 10:43,08-07-2025 11:13,1.4,Indian,7.29,Fog,Paper,4,Camp,1
+10-07-2025 09:36,10-07-2025 10:13,4.6,Pizza,14.47,Storm,Foil,5,Shivaji Nagar,0
+10-07-2025 07:17,10-07-2025 08:22,2,Burger,13.7,Fog,Plastic,0,Baner,0
+10-07-2025 09:18,10-07-2025 10:07,3.9,Pizza,5.87,Storm,Plastic,3,Koregaon Park,1
+09-07-2025 06:29,09-07-2025 07:13,3.8,Indian,3.52,Storm,Foil,1,Hinjewadi,0
+10-07-2025 03:00,10-07-2025 03:50,3.6,Pizza,9.05,Rain,Foil,3,Hadapsar,1
+10-07-2025 02:30,10-07-2025 03:38,4.7,Sandwich,3.54,Storm,Paper,5,Hadapsar,0
+09-07-2025 05:36,09-07-2025 06:14,3.1,Chinese,11.53,Rain,Plastic,2,Bavdhan,1
+10-07-2025 06:50,10-07-2025 08:04,1.9,Sandwich,5.41,Fog,Box,3,Shivaji Nagar,1
+08-07-2025 18:14,08-07-2025 19:20,1.2,Sandwich,3.57,Fog,Box,2,Aundh,1
+10-07-2025 06:59,10-07-2025 07:28,2.7,Dessert,3.79,Fog,Paper,4,Magarpatta,0
+08-07-2025 17:32,08-07-2025 18:21,1.1,Sandwich,3.59,Rain,Paper,4,Hinjewadi,0
+09-07-2025 18:25,09-07-2025 19:13,3.6,Pizza,1.77,Rain,Plastic,2,Wakad,0
+09-07-2025 11:56,09-07-2025 13:00,2.8,Burger,14.58,Storm,Box,0,Magarpatta,1
+09-07-2025 04:43,09-07-2025 05:52,3,Dessert,8.46,Fog,Foil,4,Pashan,1
+08-07-2025 13:28,08-07-2025 13:59,3.3,Sandwich,13.45,Storm,Box,2,Shivaji Nagar,1
+09-07-2025 04:08,09-07-2025 05:29,2.7,Dessert,14.35,Clear,Paper,0,Magarpatta,1
+08-07-2025 22:55,08-07-2025 23:49,4.6,Pizza,13.45,Clear,Box,0,Pashan,0
+10-07-2025 01:37,10-07-2025 02:06,3.4,Pizza,5.62,Storm,Paper,2,Kothrud,1
+09-07-2025 01:29,09-07-2025 02:24,3.3,Pizza,13,Rain,Paper,1,Hinjewadi,1
+09-07-2025 15:29,09-07-2025 16:31,1.6,Burger,4.45,Rain,Foil,3,Viman Nagar,1
+08-07-2025 19:41,08-07-2025 20:09,4.7,Indian,10.95,Storm,Paper,0,Baner,0
+08-07-2025 15:33,08-07-2025 16:25,1.5,Indian,1.4,Fog,Paper,2,Aundh,0
+09-07-2025 12:43,09-07-2025 14:10,4.9,Chinese,13.94,Fog,Plastic,3,Pimple Saudagar,0
+08-07-2025 14:20,08-07-2025 15:08,3.2,Chinese,9.98,Rain,Plastic,1,Baner,1
+09-07-2025 20:51,09-07-2025 21:44,2.2,Indian,13.57,Fog,Box,5,Pimple Saudagar,1
+08-07-2025 21:22,08-07-2025 22:47,3.2,Pizza,8.27,Clear,Box,0,Shivaji Nagar,0
+09-07-2025 06:40,09-07-2025 08:00,3.8,Indian,6.19,Fog,Plastic,5,Kharadi,1
+08-07-2025 23:09,09-07-2025 00:22,1.1,Dessert,6.69,Clear,Box,0,Kharadi,0
+08-07-2025 17:42,08-07-2025 18:43,3.3,Indian,8.02,Fog,Plastic,3,Pimple Saudagar,1
+10-07-2025 04:55,10-07-2025 05:18,2.3,Burger,13.34,Rain,Paper,1,Pashan,1
+08-07-2025 13:09,08-07-2025 14:38,2.2,Sandwich,4.22,Fog,Plastic,1,Shivaji Nagar,1
+09-07-2025 12:52,09-07-2025 13:26,1.5,Burger,13.79,Fog,Paper,5,Pimple Saudagar,1
+09-07-2025 12:53,09-07-2025 14:22,1.9,Sandwich,2.26,Rain,Foil,4,Kothrud,0
+09-07-2025 00:25,09-07-2025 01:34,3.6,Burger,3.22,Rain,Plastic,3,Kothrud,0
+08-07-2025 23:55,09-07-2025 00:44,4.3,Sandwich,4.99,Clear,Box,3,Wakad,1
+09-07-2025 19:35,09-07-2025 20:55,2.2,Chinese,6.89,Rain,Foil,2,Koregaon Park,0
+09-07-2025 17:13,09-07-2025 18:24,1.9,Sandwich,10.34,Rain,Foil,1,Hinjewadi,0
+09-07-2025 21:42,09-07-2025 23:12,2.2,Burger,7.95,Storm,Paper,5,Hinjewadi,1
+10-07-2025 00:12,10-07-2025 00:34,4.8,Dessert,7.09,Storm,Box,3,Camp,1
+08-07-2025 12:04,08-07-2025 13:24,2.2,Chinese,1.28,Fog,Box,4,Wakad,0
+08-07-2025 19:46,08-07-2025 20:30,3.6,Burger,7.12,Storm,Plastic,5,Magarpatta,0
+10-07-2025 03:31,10-07-2025 04:12,4.8,Chinese,3.41,Fog,Box,0,Magarpatta,0
+08-07-2025 20:55,08-07-2025 21:49,4.6,Dessert,6.56,Clear,Box,3,Koregaon Park,1
+09-07-2025 11:23,09-07-2025 12:14,3.9,Pizza,4.96,Fog,Box,5,Kothrud,1
+10-07-2025 00:00,10-07-2025 01:02,4.9,Sandwich,8.43,Rain,Box,3,Viman Nagar,1
+09-07-2025 16:03,09-07-2025 17:23,3.4,Sandwich,11.45,Rain,Box,3,Hadapsar,1
+10-07-2025 07:52,10-07-2025 09:01,2.9,Indian,4.86,Storm,Foil,0,Kothrud,0
+09-07-2025 17:07,09-07-2025 18:33,1.4,Indian,1.62,Storm,Paper,0,Kothrud,1
+08-07-2025 16:05,08-07-2025 16:49,2.2,Burger,11.91,Clear,Box,2,Pashan,1
+09-07-2025 11:56,09-07-2025 13:15,2.6,Chinese,12.55,Rain,Paper,3,Shivaji Nagar,1
+08-07-2025 18:39,08-07-2025 19:51,1,Pizza,14.04,Storm,Plastic,5,Aundh,0
+08-07-2025 14:58,08-07-2025 16:27,1.7,Pizza,9.11,Rain,Plastic,3,Hadapsar,1
+08-07-2025 23:46,09-07-2025 00:44,1.2,Pizza,7.4,Fog,Box,0,Pimple Saudagar,0
+09-07-2025 17:47,09-07-2025 18:32,4,Chinese,10.27,Fog,Paper,3,Pimple Saudagar,0
+09-07-2025 09:05,09-07-2025 09:29,1.3,Burger,14.03,Clear,Paper,1,Viman Nagar,1
+09-07-2025 13:21,09-07-2025 14:06,1.7,Chinese,2.07,Fog,Paper,0,Hadapsar,1
+10-07-2025 05:45,10-07-2025 06:21,2.1,Sandwich,13.03,Clear,Box,0,Wakad,1
+08-07-2025 19:40,08-07-2025 20:36,4.9,Burger,6.96,Rain,Foil,4,Aundh,1
+09-07-2025 23:47,10-07-2025 00:44,4.6,Chinese,6.2,Fog,Box,4,Viman Nagar,1
+08-07-2025 19:02,08-07-2025 19:54,4.3,Burger,11.51,Clear,Plastic,0,Camp,1
+10-07-2025 02:57,10-07-2025 03:38,2.4,Sandwich,3.67,Rain,Plastic,1,Bavdhan,1
+09-07-2025 23:06,09-07-2025 23:31,2.2,Pizza,7.52,Clear,Foil,1,Shivaji Nagar,0
+09-07-2025 16:42,09-07-2025 17:50,4.6,Chinese,2.17,Storm,Plastic,2,Pimple Saudagar,1
+09-07-2025 15:48,09-07-2025 16:08,4.5,Chinese,13.66,Fog,Box,1,Camp,0
+10-07-2025 10:13,10-07-2025 11:20,2.7,Burger,1.24,Clear,Plastic,2,Aundh,1
+08-07-2025 20:27,08-07-2025 21:02,1.6,Indian,8.44,Storm,Foil,2,Kharadi,1
+09-07-2025 08:00,09-07-2025 08:49,3.8,Indian,12.57,Rain,Paper,5,Shivaji Nagar,1
+08-07-2025 16:17,08-07-2025 16:51,3.6,Burger,9.35,Fog,Box,2,Hinjewadi,0
+09-07-2025 22:11,09-07-2025 22:41,3.2,Indian,13.63,Fog,Plastic,2,Aundh,1
+09-07-2025 01:18,09-07-2025 02:46,4.8,Dessert,6.77,Rain,Foil,5,Baner,1
+09-07-2025 19:50,09-07-2025 20:14,2.1,Pizza,12.21,Rain,Foil,2,Bavdhan,1
+09-07-2025 23:06,09-07-2025 23:35,3.2,Chinese,3.04,Storm,Box,0,Koregaon Park,1
+09-07-2025 03:17,09-07-2025 04:37,2.9,Pizza,11.42,Rain,Paper,5,Baner,0
+08-07-2025 14:05,08-07-2025 14:31,4.5,Burger,4.14,Storm,Foil,1,Baner,1
+10-07-2025 04:25,10-07-2025 05:32,2.3,Indian,9.15,Storm,Foil,3,Kothrud,1
+10-07-2025 06:03,10-07-2025 06:59,3.8,Sandwich,9.46,Fog,Foil,1,Camp,0
+08-07-2025 18:03,08-07-2025 19:27,4.6,Dessert,4.27,Fog,Box,0,Baner,0
+09-07-2025 22:40,09-07-2025 23:22,4.2,Pizza,10.62,Storm,Foil,4,Viman Nagar,1
+09-07-2025 13:13,09-07-2025 14:01,4.8,Burger,2.47,Storm,Box,5,Bavdhan,1
+09-07-2025 12:59,09-07-2025 14:15,5,Pizza,10.98,Storm,Plastic,0,Koregaon Park,0
+08-07-2025 15:24,08-07-2025 16:09,3.1,Sandwich,5.62,Rain,Plastic,1,Shivaji Nagar,0
+09-07-2025 09:04,09-07-2025 09:42,4.2,Indian,13.33,Fog,Paper,2,Shivaji Nagar,0
+09-07-2025 15:44,09-07-2025 17:12,3.8,Chinese,7.04,Fog,Paper,2,Koregaon Park,0
+08-07-2025 19:29,08-07-2025 20:37,1.4,Indian,12.92,Rain,Paper,1,Shivaji Nagar,0
+09-07-2025 04:50,09-07-2025 05:30,4.1,Chinese,2.72,Clear,Paper,0,Pashan,0
+10-07-2025 04:42,10-07-2025 05:02,2.2,Indian,1.35,Storm,Foil,1,Magarpatta,0
+09-07-2025 02:09,09-07-2025 02:48,2.7,Burger,7.2,Storm,Plastic,2,Kharadi,1
+09-07-2025 06:55,09-07-2025 07:55,3.3,Dessert,3.57,Rain,Foil,2,Kothrud,1
+09-07-2025 16:24,09-07-2025 17:24,4.2,Chinese,13.76,Rain,Foil,5,Hadapsar,1
+09-07-2025 20:13,09-07-2025 21:19,3,Dessert,5.23,Rain,Box,3,Viman Nagar,1
+09-07-2025 05:11,09-07-2025 05:41,1.2,Chinese,7.63,Fog,Plastic,1,Viman Nagar,1
+08-07-2025 13:03,08-07-2025 14:33,3.3,Chinese,5.2,Rain,Foil,5,Camp,0
+09-07-2025 15:24,09-07-2025 15:51,2.1,Indian,11.74,Storm,Paper,5,Kharadi,1
+09-07-2025 00:56,09-07-2025 01:33,3.8,Chinese,3.58,Fog,Paper,2,Viman Nagar,0
+09-07-2025 15:55,09-07-2025 16:33,4.4,Chinese,13.44,Fog,Box,1,Kothrud,1
+08-07-2025 11:23,08-07-2025 12:20,4.5,Dessert,9.21,Clear,Plastic,5,Kothrud,1
+09-07-2025 21:05,09-07-2025 21:40,3.9,Chinese,2.99,Fog,Paper,0,Aundh,0
+09-07-2025 20:51,09-07-2025 22:19,3.2,Burger,12.28,Rain,Foil,3,Kharadi,0
+09-07-2025 14:19,09-07-2025 14:49,4.6,Burger,2.02,Rain,Foil,1,Kothrud,1
+09-07-2025 02:57,09-07-2025 04:08,4.4,Dessert,6.11,Fog,Plastic,5,Aundh,0
+09-07-2025 14:25,09-07-2025 14:46,4.6,Chinese,8.43,Storm,Foil,0,Shivaji Nagar,1
+09-07-2025 09:53,09-07-2025 11:01,2.4,Burger,13.56,Storm,Plastic,2,Pashan,0
+08-07-2025 11:54,08-07-2025 12:44,1.6,Burger,2.4,Rain,Foil,1,Baner,1
+09-07-2025 01:04,09-07-2025 02:10,1.5,Chinese,9.2,Storm,Paper,3,Pashan,1
+09-07-2025 04:25,09-07-2025 05:21,2.7,Burger,14.7,Storm,Plastic,2,Hinjewadi,1
+09-07-2025 17:55,09-07-2025 18:38,2.8,Indian,1.36,Clear,Box,5,Kothrud,1
+10-07-2025 06:09,10-07-2025 06:51,4.1,Burger,7.78,Rain,Box,4,Wakad,1
+08-07-2025 15:52,08-07-2025 17:06,1.6,Dessert,6.85,Fog,Box,5,Bavdhan,1
+08-07-2025 12:08,08-07-2025 13:08,3.4,Burger,11.3,Rain,Paper,3,Hinjewadi,1
+09-07-2025 12:57,09-07-2025 13:17,4.3,Chinese,6.25,Storm,Paper,0,Baner,1
+09-07-2025 05:11,09-07-2025 05:49,2.8,Chinese,7.75,Storm,Paper,2,Hadapsar,1
+09-07-2025 13:15,09-07-2025 13:45,4.5,Indian,6.63,Storm,Paper,0,Aundh,1
+10-07-2025 04:18,10-07-2025 04:47,3,Chinese,10.44,Rain,Paper,2,Kharadi,0
+10-07-2025 06:23,10-07-2025 07:18,3.5,Sandwich,8.78,Rain,Box,1,Bavdhan,1
+10-07-2025 02:59,10-07-2025 04:02,1.9,Pizza,11.14,Storm,Plastic,4,Aundh,1
+09-07-2025 02:58,09-07-2025 03:25,3.3,Pizza,3.41,Fog,Foil,1,Hinjewadi,0
+09-07-2025 14:28,09-07-2025 14:48,4.1,Chinese,11.21,Clear,Paper,0,Aundh,1
+08-07-2025 22:45,08-07-2025 23:35,4.4,Indian,8.93,Fog,Paper,2,Viman Nagar,0
+09-07-2025 20:47,09-07-2025 21:26,2.5,Indian,11.07,Rain,Paper,1,Aundh,1
+09-07-2025 00:47,09-07-2025 01:27,3.2,Pizza,7.82,Storm,Foil,5,Camp,0
+09-07-2025 13:53,09-07-2025 14:47,4.2,Indian,10.67,Rain,Box,5,Baner,0
+09-07-2025 07:16,09-07-2025 08:23,1.2,Chinese,4.6,Fog,Paper,5,Hadapsar,1
+08-07-2025 15:23,08-07-2025 15:57,1.3,Chinese,4.21,Storm,Paper,4,Koregaon Park,1
+10-07-2025 02:51,10-07-2025 03:50,1.3,Indian,3.12,Fog,Plastic,5,Kothrud,1
+10-07-2025 03:38,10-07-2025 04:17,1.3,Indian,12.79,Fog,Plastic,2,Hinjewadi,1
+08-07-2025 22:48,09-07-2025 00:15,4.9,Dessert,11.95,Fog,Plastic,3,Hinjewadi,1
+08-07-2025 16:49,08-07-2025 17:55,2.6,Chinese,14.85,Storm,Box,1,Hadapsar,1
+09-07-2025 04:57,09-07-2025 05:29,3.9,Chinese,13.41,Rain,Foil,5,Wakad,1
+09-07-2025 08:36,09-07-2025 10:02,4.2,Pizza,7.13,Rain,Box,5,Hinjewadi,1
+10-07-2025 00:12,10-07-2025 01:01,1.8,Chinese,10.93,Fog,Foil,3,Kothrud,1
+10-07-2025 00:40,10-07-2025 01:43,4.1,Pizza,6.04,Rain,Box,5,Camp,1
+09-07-2025 04:53,09-07-2025 05:39,2.1,Burger,11.77,Clear,Box,5,Magarpatta,1
+09-07-2025 06:20,09-07-2025 06:54,2.8,Dessert,1.15,Clear,Foil,2,Wakad,0
+09-07-2025 16:17,09-07-2025 17:06,2.1,Burger,13.85,Fog,Box,4,Baner,1
+08-07-2025 12:43,08-07-2025 13:26,2,Sandwich,14.47,Clear,Plastic,4,Hinjewadi,1
+09-07-2025 22:17,09-07-2025 23:05,3.7,Chinese,4.31,Storm,Paper,3,Pashan,1
+09-07-2025 02:33,09-07-2025 03:23,4,Chinese,2.33,Clear,Plastic,3,Aundh,1
+09-07-2025 07:46,09-07-2025 08:25,3.1,Indian,4.18,Fog,Foil,4,Hadapsar,0
+10-07-2025 04:28,10-07-2025 05:55,3,Sandwich,13.21,Storm,Paper,0,Aundh,1
+10-07-2025 01:25,10-07-2025 01:53,4.4,Burger,13.05,Clear,Foil,3,Bavdhan,1
+08-07-2025 20:02,08-07-2025 21:24,1.7,Chinese,14.53,Rain,Box,3,Hadapsar,1
+08-07-2025 16:35,08-07-2025 17:56,4.7,Pizza,2.79,Fog,Paper,5,Wakad,1
+09-07-2025 00:22,09-07-2025 01:36,1.9,Burger,9.96,Fog,Foil,4,Hadapsar,1
+09-07-2025 06:40,09-07-2025 07:59,1.8,Dessert,14.27,Clear,Paper,0,Shivaji Nagar,1
+10-07-2025 00:18,10-07-2025 01:07,4,Burger,9.36,Fog,Box,4,Hinjewadi,1
+09-07-2025 06:32,09-07-2025 07:50,1.2,Indian,1.94,Storm,Foil,1,Magarpatta,1
+08-07-2025 11:50,08-07-2025 12:29,3,Sandwich,5.86,Rain,Plastic,4,Kothrud,0
+10-07-2025 09:43,10-07-2025 11:04,2.7,Chinese,9.47,Fog,Box,4,Baner,1
+10-07-2025 09:13,10-07-2025 10:05,3.8,Burger,7.78,Fog,Plastic,1,Hinjewadi,0
+10-07-2025 04:59,10-07-2025 06:01,3,Pizza,12.4,Rain,Foil,3,Pimple Saudagar,1
+10-07-2025 01:28,10-07-2025 02:04,1.3,Indian,14.32,Rain,Paper,5,Hinjewadi,0
+08-07-2025 13:09,08-07-2025 13:32,4.7,Pizza,10.47,Clear,Box,0,Pimple Saudagar,1
+08-07-2025 20:04,08-07-2025 21:25,2.2,Burger,6.16,Clear,Plastic,2,Shivaji Nagar,1
+08-07-2025 12:11,08-07-2025 13:11,1.7,Chinese,5.23,Storm,Paper,0,Baner,0
+08-07-2025 13:25,08-07-2025 14:28,3.9,Dessert,5.36,Storm,Box,5,Baner,1
+08-07-2025 14:18,08-07-2025 15:37,1.4,Dessert,7.73,Clear,Foil,2,Camp,0
+10-07-2025 08:45,10-07-2025 10:10,3.6,Chinese,12.6,Clear,Plastic,3,Bavdhan,0
+10-07-2025 07:25,10-07-2025 07:59,2.1,Burger,5.66,Storm,Box,2,Magarpatta,1
+08-07-2025 23:22,08-07-2025 23:57,2,Burger,12.34,Rain,Paper,4,Koregaon Park,1
+09-07-2025 04:28,09-07-2025 05:35,4.1,Chinese,14.09,Rain,Paper,5,Hinjewadi,0
+09-07-2025 00:04,09-07-2025 01:13,1,Sandwich,3.6,Clear,Plastic,2,Aundh,0
+10-07-2025 01:45,10-07-2025 02:27,3.4,Dessert,7.4,Rain,Box,2,Kothrud,1
+08-07-2025 15:50,08-07-2025 16:58,3.6,Dessert,10.97,Rain,Plastic,5,Baner,0
+09-07-2025 23:08,09-07-2025 23:38,1.4,Chinese,8.03,Fog,Paper,1,Shivaji Nagar,0
+10-07-2025 10:10,10-07-2025 11:27,1.7,Sandwich,4.15,Clear,Foil,1,Hinjewadi,1
+09-07-2025 04:28,09-07-2025 05:29,1.2,Dessert,4.27,Clear,Foil,5,Pimple Saudagar,0
+09-07-2025 23:57,10-07-2025 01:17,4.2,Burger,9.52,Storm,Foil,3,Wakad,1
+08-07-2025 23:52,09-07-2025 01:10,1.3,Dessert,11.23,Storm,Plastic,1,Kothrud,0
+08-07-2025 19:34,08-07-2025 20:55,2.3,Indian,8.23,Clear,Paper,1,Aundh,1
+09-07-2025 21:46,09-07-2025 23:11,4.1,Indian,12,Clear,Plastic,4,Hadapsar,0
+09-07-2025 06:16,09-07-2025 07:43,1.2,Sandwich,7.39,Rain,Box,2,Pashan,1
+09-07-2025 18:17,09-07-2025 18:53,1.5,Chinese,10.44,Fog,Plastic,0,Bavdhan,1
+09-07-2025 07:22,09-07-2025 08:28,4,Indian,3.46,Storm,Paper,0,Pashan,0
+09-07-2025 13:11,09-07-2025 14:30,3.5,Dessert,3.12,Clear,Box,0,Hinjewadi,0
+09-07-2025 03:11,09-07-2025 03:48,4.2,Burger,14.68,Clear,Paper,5,Bavdhan,1
+09-07-2025 07:25,09-07-2025 08:11,2.8,Sandwich,12.79,Fog,Box,2,Aundh,1
+08-07-2025 12:10,08-07-2025 13:35,2.5,Indian,6.94,Clear,Box,4,Camp,1
+08-07-2025 11:20,08-07-2025 12:00,4.1,Chinese,3.17,Rain,Box,0,Wakad,1
+08-07-2025 13:02,08-07-2025 14:09,2.4,Burger,12.32,Clear,Box,3,Wakad,1
+09-07-2025 06:51,09-07-2025 07:40,2,Chinese,4.82,Fog,Foil,2,Kharadi,1
+09-07-2025 13:57,09-07-2025 15:23,3.8,Burger,7.1,Fog,Plastic,4,Baner,1
+08-07-2025 17:15,08-07-2025 18:41,2.9,Sandwich,11.3,Rain,Box,4,Pimple Saudagar,0
+09-07-2025 10:20,09-07-2025 11:40,3.9,Dessert,11.86,Storm,Box,0,Pimple Saudagar,1
+10-07-2025 09:44,10-07-2025 10:14,2,Burger,14.96,Rain,Paper,3,Kharadi,1
+09-07-2025 00:26,09-07-2025 01:21,1.7,Dessert,7.27,Storm,Paper,2,Koregaon Park,1
+09-07-2025 19:16,09-07-2025 20:43,4.8,Sandwich,11.95,Storm,Box,3,Camp,1
+10-07-2025 00:13,10-07-2025 00:44,4.9,Chinese,8.05,Fog,Paper,1,Baner,0
+10-07-2025 09:26,10-07-2025 10:13,2.8,Sandwich,13.38,Clear,Foil,0,Kharadi,0
+10-07-2025 01:13,10-07-2025 01:40,2.8,Pizza,8.47,Rain,Foil,5,Kothrud,1
+10-07-2025 08:51,10-07-2025 09:45,2.1,Pizza,3.24,Fog,Plastic,4,Aundh,1
+09-07-2025 08:57,09-07-2025 10:10,3.6,Sandwich,14.59,Clear,Plastic,4,Aundh,1
+09-07-2025 01:20,09-07-2025 01:59,3.2,Burger,11.91,Rain,Paper,1,Viman Nagar,1
+09-07-2025 01:33,09-07-2025 02:18,1.1,Chinese,8.13,Storm,Box,4,Wakad,1
+08-07-2025 12:53,08-07-2025 14:23,3.9,Indian,1.25,Storm,Paper,1,Pashan,0
+09-07-2025 17:23,09-07-2025 18:35,4.3,Burger,11.62,Storm,Plastic,4,Camp,1
+09-07-2025 04:40,09-07-2025 05:28,2.1,Burger,1.42,Clear,Foil,5,Wakad,1
+08-07-2025 22:46,08-07-2025 23:26,2.3,Burger,7.34,Fog,Plastic,2,Pashan,1
+08-07-2025 20:12,08-07-2025 20:32,1.1,Pizza,5.46,Rain,Plastic,3,Pashan,1
+09-07-2025 00:12,09-07-2025 00:38,1.5,Pizza,12.11,Storm,Paper,1,Magarpatta,1
+09-07-2025 05:42,09-07-2025 06:22,3.1,Indian,6.13,Clear,Plastic,4,Viman Nagar,1
+08-07-2025 20:17,08-07-2025 21:22,1.5,Burger,13.01,Clear,Plastic,3,Hinjewadi,0
+09-07-2025 19:52,09-07-2025 21:21,4.5,Dessert,6.35,Clear,Foil,4,Camp,1
+10-07-2025 09:41,10-07-2025 10:01,1.5,Sandwich,4.6,Clear,Box,3,Aundh,1
+09-07-2025 07:14,09-07-2025 08:20,4.2,Chinese,8.52,Clear,Foil,1,Camp,0
+09-07-2025 07:15,09-07-2025 08:03,4.3,Indian,11.24,Storm,Paper,5,Viman Nagar,1
+09-07-2025 19:14,09-07-2025 20:20,2.1,Chinese,9.95,Storm,Plastic,3,Kothrud,1
+09-07-2025 02:57,09-07-2025 04:18,3.2,Pizza,8.3,Storm,Foil,1,Pimple Saudagar,0
+10-07-2025 07:50,10-07-2025 09:03,3.8,Sandwich,3.96,Rain,Foil,3,Camp,1
+10-07-2025 08:03,10-07-2025 08:57,4.5,Dessert,7.5,Clear,Foil,2,Camp,0
+08-07-2025 17:39,08-07-2025 19:04,1.2,Pizza,8.12,Fog,Box,3,Koregaon Park,1
+10-07-2025 01:25,10-07-2025 02:50,4.1,Chinese,5.13,Fog,Foil,1,Pimple Saudagar,0
+09-07-2025 16:12,09-07-2025 16:43,2.1,Burger,5.52,Rain,Box,4,Pimple Saudagar,0
+09-07-2025 01:54,09-07-2025 03:01,3.8,Burger,7.47,Clear,Box,0,Kharadi,0
+08-07-2025 23:22,09-07-2025 00:34,1.8,Pizza,8.61,Fog,Plastic,4,Kothrud,0
+09-07-2025 09:50,09-07-2025 11:05,3.2,Burger,6.92,Storm,Box,1,Kharadi,1
+10-07-2025 03:34,10-07-2025 04:13,4.4,Pizza,3.05,Rain,Paper,0,Hadapsar,0
+08-07-2025 18:58,08-07-2025 19:22,2.6,Burger,13.46,Clear,Foil,5,Kothrud,0
+08-07-2025 19:08,08-07-2025 19:45,1.4,Chinese,6.47,Fog,Box,4,Pashan,1
+10-07-2025 02:04,10-07-2025 02:34,3.5,Sandwich,6.22,Fog,Paper,4,Hadapsar,0
+08-07-2025 15:25,08-07-2025 16:31,1.2,Pizza,12.44,Rain,Box,5,Koregaon Park,1
+09-07-2025 08:14,09-07-2025 09:24,2,Burger,12,Storm,Paper,2,Koregaon Park,1
+10-07-2025 09:13,10-07-2025 09:46,2.6,Pizza,10.49,Fog,Plastic,0,Pimple Saudagar,1
+09-07-2025 18:31,09-07-2025 18:58,1.1,Pizza,13.54,Storm,Box,0,Baner,0
+09-07-2025 22:58,10-07-2025 00:16,1.2,Sandwich,7.9,Clear,Paper,1,Kharadi,0
+10-07-2025 06:03,10-07-2025 07:02,3.3,Dessert,1.47,Rain,Paper,4,Shivaji Nagar,1
+08-07-2025 14:34,08-07-2025 14:56,3.7,Sandwich,7.11,Storm,Paper,4,Koregaon Park,1
+08-07-2025 20:08,08-07-2025 20:58,1.7,Burger,6.09,Fog,Box,3,Aundh,0
+09-07-2025 00:24,09-07-2025 01:19,4.8,Burger,4.24,Storm,Foil,5,Camp,1
+08-07-2025 11:49,08-07-2025 13:11,2.8,Indian,1.5,Rain,Paper,0,Wakad,1
+08-07-2025 17:53,08-07-2025 18:49,2.6,Chinese,11.18,Storm,Foil,0,Kharadi,1
+09-07-2025 08:23,09-07-2025 09:36,5,Pizza,14.52,Storm,Paper,2,Kothrud,1
+10-07-2025 05:43,10-07-2025 06:39,1.6,Burger,12.46,Rain,Box,2,Aundh,1
+08-07-2025 20:06,08-07-2025 20:52,2.3,Chinese,12.99,Storm,Box,4,Baner,1
+09-07-2025 04:53,09-07-2025 05:20,3.7,Sandwich,6.75,Storm,Box,0,Wakad,1
+09-07-2025 13:46,09-07-2025 15:11,3.9,Pizza,12.49,Rain,Paper,4,Pimple Saudagar,1
+08-07-2025 11:16,08-07-2025 12:46,1.3,Chinese,3.01,Rain,Plastic,4,Wakad,1
+09-07-2025 12:16,09-07-2025 13:19,4.4,Sandwich,3.11,Storm,Plastic,3,Magarpatta,1
+10-07-2025 03:59,10-07-2025 05:24,2.6,Indian,3.89,Clear,Paper,1,Magarpatta,1
+09-07-2025 09:15,09-07-2025 10:19,4.7,Chinese,5.55,Storm,Box,3,Magarpatta,0
+08-07-2025 16:13,08-07-2025 17:39,4.5,Sandwich,5.69,Rain,Plastic,2,Bavdhan,1
+09-07-2025 07:23,09-07-2025 08:16,1.6,Dessert,7.17,Fog,Paper,4,Hinjewadi,1
+09-07-2025 22:34,09-07-2025 23:45,3.3,Sandwich,4.2,Rain,Box,0,Koregaon Park,1
+09-07-2025 07:15,09-07-2025 08:33,4.6,Pizza,3.67,Storm,Plastic,0,Wakad,1
+09-07-2025 10:34,09-07-2025 10:54,2.6,Dessert,3.08,Rain,Paper,5,Hinjewadi,0
+09-07-2025 10:09,09-07-2025 11:03,3.6,Chinese,6.26,Rain,Plastic,4,Wakad,0
+08-07-2025 23:20,08-07-2025 23:49,2.8,Sandwich,9.17,Rain,Paper,4,Kothrud,1
+09-07-2025 17:31,09-07-2025 18:51,2.6,Pizza,4.53,Rain,Foil,3,Baner,1
+09-07-2025 19:16,09-07-2025 20:37,2.3,Chinese,2.82,Clear,Paper,4,Wakad,1
+10-07-2025 07:35,10-07-2025 08:28,4,Dessert,14.78,Fog,Plastic,4,Bavdhan,1
+09-07-2025 01:49,09-07-2025 02:48,3.4,Indian,2.5,Rain,Box,1,Koregaon Park,1
+10-07-2025 04:35,10-07-2025 04:55,2.1,Chinese,4.38,Clear,Plastic,0,Pimple Saudagar,1
+10-07-2025 05:29,10-07-2025 06:35,4.9,Sandwich,5.5,Fog,Box,1,Viman Nagar,0
+10-07-2025 07:50,10-07-2025 08:40,1.3,Pizza,13.18,Rain,Box,3,Hadapsar,0
+09-07-2025 11:05,09-07-2025 12:26,2,Dessert,11.9,Fog,Plastic,2,Hinjewadi,1
+10-07-2025 00:56,10-07-2025 02:04,1.7,Indian,9.12,Clear,Foil,2,Pimple Saudagar,1
+08-07-2025 15:47,08-07-2025 16:41,3.5,Chinese,3.92,Clear,Plastic,0,Hadapsar,0
+09-07-2025 08:21,09-07-2025 09:11,2.5,Pizza,10.6,Rain,Foil,1,Wakad,1
+08-07-2025 21:41,08-07-2025 22:22,4.9,Indian,6.71,Storm,Foil,1,Koregaon Park,1
+09-07-2025 18:33,09-07-2025 19:35,1.7,Chinese,4.09,Fog,Plastic,5,Wakad,1
+08-07-2025 19:41,08-07-2025 20:02,2.9,Pizza,13.45,Rain,Paper,3,Kharadi,1
+10-07-2025 04:27,10-07-2025 04:47,3.1,Chinese,1.73,Fog,Paper,1,Kothrud,0
+09-07-2025 22:20,09-07-2025 23:03,4.1,Indian,2.83,Storm,Paper,1,Aundh,1
+09-07-2025 01:52,09-07-2025 03:05,1.6,Sandwich,8.23,Storm,Plastic,5,Baner,1
+08-07-2025 16:56,08-07-2025 17:16,3.3,Pizza,3.14,Fog,Foil,3,Magarpatta,0
+09-07-2025 22:46,09-07-2025 23:45,3.1,Pizza,12.51,Fog,Box,0,Pashan,1
+09-07-2025 07:54,09-07-2025 08:45,4.5,Dessert,6.35,Fog,Foil,5,Koregaon Park,0
+09-07-2025 16:19,09-07-2025 17:08,1.8,Sandwich,1.99,Clear,Paper,3,Shivaji Nagar,1
+10-07-2025 05:18,10-07-2025 06:46,2.6,Sandwich,1.92,Rain,Plastic,0,Koregaon Park,0
+09-07-2025 19:29,09-07-2025 20:07,1.6,Chinese,3.12,Clear,Paper,1,Baner,0
+09-07-2025 03:37,09-07-2025 04:55,4.4,Burger,5.43,Clear,Paper,0,Hinjewadi,0
+08-07-2025 17:32,08-07-2025 17:59,4,Burger,11.95,Fog,Paper,5,Baner,1
+09-07-2025 07:24,09-07-2025 08:04,4.7,Chinese,8.94,Fog,Paper,5,Shivaji Nagar,1
+09-07-2025 15:59,09-07-2025 16:21,2.3,Burger,6.85,Fog,Plastic,1,Magarpatta,1
+08-07-2025 20:11,08-07-2025 20:44,4.3,Sandwich,1.03,Fog,Paper,4,Bavdhan,1
+09-07-2025 07:37,09-07-2025 08:21,3.3,Dessert,8.66,Rain,Foil,3,Aundh,1
+09-07-2025 08:05,09-07-2025 09:12,3.7,Dessert,14.3,Clear,Foil,5,Wakad,0
+09-07-2025 18:50,09-07-2025 19:32,1.4,Dessert,10.6,Storm,Box,4,Aundh,0
+08-07-2025 23:44,09-07-2025 00:16,4.3,Pizza,10.8,Clear,Box,0,Pashan,0
+09-07-2025 07:10,09-07-2025 08:20,3,Pizza,14.07,Rain,Paper,4,Kothrud,0
+10-07-2025 05:22,10-07-2025 05:48,1.3,Indian,7.27,Fog,Plastic,5,Viman Nagar,1
+09-07-2025 04:47,09-07-2025 05:54,3.5,Burger,12.36,Rain,Box,3,Hadapsar,1
+09-07-2025 19:32,09-07-2025 20:51,5,Dessert,9.96,Clear,Box,0,Wakad,0
+09-07-2025 06:27,09-07-2025 07:08,4.4,Burger,13.47,Storm,Paper,3,Aundh,1
+09-07-2025 17:46,09-07-2025 19:06,1.1,Dessert,10.41,Storm,Box,2,Camp,0
+09-07-2025 04:08,09-07-2025 05:03,2,Indian,4.47,Storm,Paper,3,Camp,1
+10-07-2025 00:48,10-07-2025 01:37,3.5,Indian,11.06,Clear,Paper,1,Pimple Saudagar,1
+10-07-2025 09:11,10-07-2025 10:06,1.3,Sandwich,1.73,Fog,Paper,1,Kothrud,0
+08-07-2025 19:27,08-07-2025 20:32,4,Sandwich,4.5,Fog,Paper,3,Magarpatta,0
+08-07-2025 20:50,08-07-2025 21:42,2.6,Chinese,3.77,Rain,Box,5,Kothrud,1
+09-07-2025 04:53,09-07-2025 06:21,2.2,Sandwich,3.95,Fog,Box,0,Wakad,1
+10-07-2025 06:27,10-07-2025 07:28,2.6,Chinese,13.84,Rain,Foil,5,Hadapsar,1
+08-07-2025 12:18,08-07-2025 13:14,4.2,Burger,14.57,Fog,Paper,5,Shivaji Nagar,0
+10-07-2025 04:49,10-07-2025 06:11,3.7,Chinese,12.28,Storm,Foil,4,Hadapsar,1
+08-07-2025 21:34,08-07-2025 22:30,1.7,Sandwich,3.66,Storm,Foil,0,Hadapsar,0
+09-07-2025 22:47,09-07-2025 23:37,1.6,Indian,4.84,Storm,Foil,3,Bavdhan,1
+09-07-2025 07:21,09-07-2025 08:16,3.9,Chinese,2.69,Rain,Foil,1,Wakad,1
+08-07-2025 23:01,08-07-2025 23:41,1.9,Burger,6.3,Storm,Paper,1,Koregaon Park,1
+09-07-2025 20:30,09-07-2025 21:59,3.2,Burger,2.61,Clear,Foil,0,Hadapsar,0
+09-07-2025 13:01,09-07-2025 14:31,2.2,Burger,1.02,Clear,Foil,4,Hinjewadi,0
+09-07-2025 01:45,09-07-2025 02:27,1.7,Burger,11.68,Storm,Paper,5,Wakad,1
+10-07-2025 10:38,10-07-2025 12:02,2.4,Burger,5.89,Rain,Plastic,2,Pashan,1
+08-07-2025 19:41,08-07-2025 20:31,4.1,Pizza,10.22,Rain,Box,3,Wakad,0
+09-07-2025 09:09,09-07-2025 09:50,3.1,Pizza,11.24,Clear,Foil,2,Magarpatta,0
+10-07-2025 01:28,10-07-2025 01:53,4.1,Pizza,3.61,Rain,Box,3,Koregaon Park,1
+09-07-2025 08:28,09-07-2025 09:55,2.6,Sandwich,3.78,Rain,Plastic,5,Kharadi,1
+08-07-2025 18:44,08-07-2025 19:11,1.1,Burger,14.94,Fog,Foil,5,Bavdhan,1
+09-07-2025 20:19,09-07-2025 21:38,4,Indian,7.45,Rain,Box,3,Koregaon Park,1
+09-07-2025 05:39,09-07-2025 06:48,4.2,Chinese,6.37,Rain,Plastic,4,Magarpatta,0
+09-07-2025 13:29,09-07-2025 14:31,1.6,Dessert,4.41,Clear,Box,4,Camp,0
+09-07-2025 05:00,09-07-2025 05:29,3.9,Sandwich,12.2,Clear,Plastic,1,Baner,0
+08-07-2025 23:44,09-07-2025 00:05,3.9,Burger,3.2,Storm,Foil,0,Hadapsar,1
+09-07-2025 03:58,09-07-2025 04:39,3.1,Indian,14.58,Storm,Paper,1,Kothrud,1
+09-07-2025 04:20,09-07-2025 05:42,1.8,Dessert,4.01,Fog,Box,2,Magarpatta,1
+09-07-2025 20:43,09-07-2025 21:17,4.8,Chinese,8.1,Rain,Paper,0,Viman Nagar,1
+09-07-2025 19:11,09-07-2025 20:24,3.5,Pizza,6.87,Clear,Box,1,Pimple Saudagar,0
+10-07-2025 07:12,10-07-2025 07:59,2.5,Sandwich,12.69,Rain,Box,2,Hinjewadi,0
+08-07-2025 18:45,08-07-2025 19:50,1.4,Sandwich,8.68,Clear,Plastic,5,Kothrud,0
+08-07-2025 22:18,08-07-2025 23:20,3,Dessert,13.98,Rain,Box,2,Hadapsar,0
+10-07-2025 02:14,10-07-2025 02:34,4.2,Dessert,4.15,Fog,Box,5,Viman Nagar,1
+09-07-2025 07:52,09-07-2025 08:28,2,Indian,11.11,Fog,Plastic,0,Shivaji Nagar,1
+09-07-2025 10:39,09-07-2025 11:58,4,Chinese,4.5,Clear,Foil,4,Kothrud,1
+10-07-2025 06:44,10-07-2025 07:34,2.3,Indian,5.18,Fog,Paper,2,Viman Nagar,0
+10-07-2025 08:12,10-07-2025 09:09,4.7,Chinese,1.84,Storm,Paper,4,Magarpatta,1
+08-07-2025 10:47,08-07-2025 11:55,2.5,Dessert,7.15,Storm,Paper,1,Bavdhan,1
+10-07-2025 00:17,10-07-2025 01:40,3.5,Sandwich,10.35,Rain,Foil,1,Bavdhan,1
+09-07-2025 03:09,09-07-2025 04:32,4.1,Dessert,12.38,Rain,Foil,4,Hinjewadi,0
+08-07-2025 21:25,08-07-2025 22:55,1.9,Dessert,3.02,Fog,Box,5,Kothrud,0
+09-07-2025 08:23,09-07-2025 09:44,3,Sandwich,6.61,Clear,Paper,2,Kharadi,0
+08-07-2025 11:17,08-07-2025 12:32,1.7,Chinese,6.55,Clear,Plastic,5,Baner,0
+10-07-2025 01:28,10-07-2025 02:27,3.4,Sandwich,11.69,Fog,Box,1,Baner,0
+08-07-2025 17:54,08-07-2025 18:24,1.8,Burger,7.59,Clear,Foil,5,Bavdhan,1
+08-07-2025 11:40,08-07-2025 12:41,4.2,Burger,10.26,Fog,Plastic,1,Magarpatta,1
+08-07-2025 17:25,08-07-2025 17:47,2.1,Dessert,5.41,Storm,Paper,1,Hadapsar,1
+10-07-2025 07:06,10-07-2025 07:56,4.5,Indian,8.86,Clear,Box,4,Camp,0
+09-07-2025 13:00,09-07-2025 13:35,2,Indian,3.62,Rain,Foil,4,Camp,1
+09-07-2025 13:56,09-07-2025 15:21,2.4,Indian,11.97,Storm,Box,2,Shivaji Nagar,1
+09-07-2025 15:34,09-07-2025 16:31,1.5,Sandwich,8.12,Rain,Foil,0,Bavdhan,0
+08-07-2025 12:00,08-07-2025 13:00,4.4,Indian,7.96,Clear,Box,2,Kothrud,0
+10-07-2025 04:49,10-07-2025 05:12,4.3,Chinese,8.22,Rain,Foil,5,Pimple Saudagar,1
+09-07-2025 05:04,09-07-2025 06:14,3.1,Pizza,9.05,Fog,Plastic,5,Hadapsar,1
+08-07-2025 15:18,08-07-2025 16:43,2.7,Indian,10.59,Rain,Plastic,1,Camp,1
+09-07-2025 00:16,09-07-2025 01:12,3.2,Indian,11.61,Rain,Box,1,Wakad,0
+10-07-2025 07:49,10-07-2025 09:06,1.8,Pizza,11.59,Clear,Plastic,5,Bavdhan,0
+09-07-2025 01:59,09-07-2025 02:39,4.2,Indian,5.07,Storm,Box,0,Camp,0
+08-07-2025 16:46,08-07-2025 18:14,3.2,Sandwich,9.1,Storm,Box,4,Camp,1
+09-07-2025 02:04,09-07-2025 03:02,4.4,Chinese,2.6,Clear,Plastic,4,Camp,0
+10-07-2025 10:29,10-07-2025 11:33,1.4,Pizza,10.38,Fog,Plastic,2,Pimple Saudagar,1
+09-07-2025 10:11,09-07-2025 11:16,2.5,Indian,4.24,Rain,Foil,4,Kharadi,1
+09-07-2025 13:06,09-07-2025 14:13,5,Indian,2.61,Fog,Foil,4,Koregaon Park,0
+10-07-2025 03:32,10-07-2025 04:40,4,Dessert,9.78,Clear,Box,4,Camp,1
+09-07-2025 01:38,09-07-2025 02:11,3.9,Pizza,11.09,Rain,Paper,0,Aundh,0
+09-07-2025 17:05,09-07-2025 17:32,4.9,Pizza,10.44,Fog,Foil,0,Kothrud,0
+09-07-2025 12:32,09-07-2025 12:52,4.4,Dessert,4.89,Fog,Box,0,Camp,0
+08-07-2025 13:08,08-07-2025 13:41,2.1,Burger,6.22,Rain,Box,4,Pashan,1
+09-07-2025 12:03,09-07-2025 12:56,3.4,Chinese,14.31,Fog,Paper,2,Aundh,1
+09-07-2025 07:14,09-07-2025 08:05,2.7,Dessert,2.13,Storm,Foil,1,Koregaon Park,0
+08-07-2025 11:19,08-07-2025 11:53,3.2,Chinese,8.35,Fog,Plastic,3,Shivaji Nagar,1
+09-07-2025 15:14,09-07-2025 16:18,1.2,Pizza,2.39,Rain,Box,3,Viman Nagar,1
+09-07-2025 16:43,09-07-2025 17:37,1.6,Pizza,9.32,Rain,Paper,2,Bavdhan,1
+09-07-2025 07:28,09-07-2025 08:31,2.5,Indian,14.16,Clear,Plastic,5,Camp,1
+08-07-2025 12:59,08-07-2025 14:18,2.8,Pizza,9.8,Storm,Paper,2,Shivaji Nagar,0
+10-07-2025 07:45,10-07-2025 08:37,4.5,Indian,1.18,Clear,Foil,0,Kothrud,0
+08-07-2025 17:21,08-07-2025 18:28,4,Chinese,10.58,Clear,Plastic,0,Kothrud,1
+09-07-2025 15:33,09-07-2025 16:57,4.7,Pizza,9.23,Fog,Box,3,Shivaji Nagar,1
+08-07-2025 22:29,08-07-2025 23:25,2.1,Burger,13.68,Fog,Paper,4,Kharadi,1
+08-07-2025 12:54,08-07-2025 13:52,4.2,Burger,2.93,Storm,Foil,5,Pashan,1
+08-07-2025 20:42,08-07-2025 21:55,2.5,Dessert,12.63,Clear,Paper,4,Aundh,1
+08-07-2025 21:00,08-07-2025 21:22,3.1,Pizza,9.89,Clear,Foil,2,Shivaji Nagar,0
+08-07-2025 23:36,09-07-2025 00:25,3.4,Chinese,10.14,Storm,Box,5,Baner,1
+09-07-2025 02:15,09-07-2025 02:55,1.8,Chinese,2.48,Fog,Plastic,4,Baner,1
+09-07-2025 00:05,09-07-2025 01:15,1.5,Indian,3.99,Rain,Paper,3,Bavdhan,0
+08-07-2025 23:43,09-07-2025 00:50,2.7,Burger,13.45,Storm,Paper,1,Wakad,1
+09-07-2025 13:38,09-07-2025 14:10,4.8,Dessert,2.46,Rain,Paper,3,Pimple Saudagar,1
+09-07-2025 05:35,09-07-2025 06:32,4.5,Sandwich,3.27,Fog,Box,0,Hinjewadi,0
+09-07-2025 19:39,09-07-2025 20:10,2.1,Pizza,2.84,Clear,Foil,1,Camp,0
+08-07-2025 21:53,08-07-2025 22:16,1.5,Dessert,9.96,Clear,Foil,5,Wakad,1
+08-07-2025 14:45,08-07-2025 15:36,3,Burger,14.46,Clear,Foil,5,Camp,1
+10-07-2025 06:41,10-07-2025 07:42,2.5,Indian,8.12,Rain,Foil,3,Camp,1
+09-07-2025 14:33,09-07-2025 15:19,3.5,Chinese,2.11,Fog,Foil,1,Koregaon Park,0
+09-07-2025 22:27,09-07-2025 23:22,1.6,Indian,3.72,Rain,Foil,3,Viman Nagar,1
+09-07-2025 12:12,09-07-2025 13:25,1.4,Pizza,11.74,Clear,Paper,0,Wakad,1
+08-07-2025 20:53,08-07-2025 21:44,2.3,Burger,3.9,Storm,Plastic,5,Pimple Saudagar,1
+09-07-2025 07:34,09-07-2025 07:56,3.9,Dessert,15,Rain,Paper,2,Kharadi,1
+08-07-2025 11:21,08-07-2025 12:19,2.3,Pizza,7.81,Storm,Paper,0,Pimple Saudagar,0
+08-07-2025 19:24,08-07-2025 19:55,4.9,Burger,3.63,Storm,Box,3,Viman Nagar,1
+08-07-2025 19:15,08-07-2025 19:58,1.2,Chinese,7.31,Fog,Foil,4,Magarpatta,1
+09-07-2025 15:47,09-07-2025 17:06,1.4,Pizza,6.28,Storm,Box,3,Camp,1
+09-07-2025 14:35,09-07-2025 15:23,4,Burger,11.66,Storm,Box,3,Hadapsar,0
+09-07-2025 00:51,09-07-2025 01:36,3.4,Sandwich,10.05,Clear,Box,4,Bavdhan,1
+10-07-2025 02:37,10-07-2025 03:22,2.7,Sandwich,6.66,Clear,Box,3,Kothrud,0
+09-07-2025 10:24,09-07-2025 11:00,4.4,Pizza,3.6,Fog,Paper,0,Viman Nagar,0
+08-07-2025 11:06,08-07-2025 11:42,2.6,Indian,2.24,Storm,Foil,3,Pimple Saudagar,1
+09-07-2025 13:47,09-07-2025 14:46,2.9,Burger,9.71,Clear,Box,4,Hadapsar,0
+10-07-2025 10:14,10-07-2025 11:10,3.6,Burger,10.22,Clear,Foil,0,Kothrud,1
+09-07-2025 14:19,09-07-2025 14:50,1.7,Dessert,9.21,Rain,Paper,4,Koregaon Park,1
+08-07-2025 16:12,08-07-2025 17:38,3.3,Dessert,4.26,Fog,Foil,4,Camp,1
+09-07-2025 08:39,09-07-2025 09:32,1.2,Pizza,7.44,Fog,Box,2,Shivaji Nagar,1
+10-07-2025 08:22,10-07-2025 09:23,1.5,Dessert,10.89,Fog,Plastic,2,Kharadi,1
+09-07-2025 21:57,09-07-2025 22:41,2.3,Chinese,3.08,Clear,Plastic,4,Kothrud,1
+08-07-2025 17:51,08-07-2025 18:57,4.8,Sandwich,2.52,Storm,Paper,0,Aundh,1
+09-07-2025 08:28,09-07-2025 09:34,3.5,Pizza,3.5,Storm,Foil,3,Pimple Saudagar,1
+09-07-2025 10:15,09-07-2025 11:03,2.5,Chinese,6.81,Rain,Box,5,Pashan,1
+09-07-2025 00:03,09-07-2025 00:34,1.2,Burger,12.74,Fog,Foil,3,Hinjewadi,0
+10-07-2025 07:48,10-07-2025 08:37,1.1,Burger,1.78,Storm,Box,2,Pimple Saudagar,1
+09-07-2025 23:33,10-07-2025 00:27,2.4,Sandwich,11.34,Rain,Foil,0,Koregaon Park,0
+08-07-2025 19:54,08-07-2025 21:21,2.3,Sandwich,5.26,Storm,Foil,5,Magarpatta,1
+10-07-2025 10:18,10-07-2025 11:16,1.6,Chinese,12.11,Fog,Plastic,2,Baner,1
+08-07-2025 23:25,08-07-2025 23:53,1.1,Dessert,9.17,Rain,Foil,1,Shivaji Nagar,0
+10-07-2025 09:32,10-07-2025 10:43,4.4,Pizza,11.39,Clear,Box,0,Camp,1
+10-07-2025 05:42,10-07-2025 06:57,3.6,Pizza,1.15,Rain,Box,0,Hadapsar,1
+08-07-2025 17:26,08-07-2025 18:34,2.8,Burger,9.62,Clear,Foil,0,Bavdhan,1
+10-07-2025 02:17,10-07-2025 03:34,4.5,Dessert,3.48,Clear,Foil,5,Wakad,1
+09-07-2025 08:28,09-07-2025 08:54,4.7,Indian,14.82,Clear,Box,1,Kharadi,1
+09-07-2025 13:52,09-07-2025 15:13,1.6,Chinese,8.16,Clear,Box,0,Kothrud,0
+09-07-2025 05:26,09-07-2025 06:55,4.6,Indian,10.09,Clear,Foil,2,Wakad,1
+10-07-2025 08:26,10-07-2025 09:02,3.8,Burger,11.8,Rain,Paper,2,Kharadi,1
+08-07-2025 17:00,08-07-2025 18:09,2.4,Burger,4.58,Storm,Box,4,Baner,1
+10-07-2025 10:10,10-07-2025 10:53,2.4,Chinese,1.22,Clear,Plastic,3,Baner,1
+08-07-2025 15:40,08-07-2025 16:23,2.6,Burger,14.76,Rain,Plastic,3,Shivaji Nagar,1
+09-07-2025 09:57,09-07-2025 10:55,2.2,Chinese,2.76,Clear,Paper,1,Aundh,1
+08-07-2025 12:09,08-07-2025 13:29,1.5,Sandwich,12.36,Rain,Plastic,5,Pimple Saudagar,1
+09-07-2025 04:33,09-07-2025 05:00,4.1,Dessert,7.6,Storm,Plastic,1,Hinjewadi,0
+09-07-2025 00:28,09-07-2025 01:29,3.7,Indian,3.08,Fog,Paper,2,Viman Nagar,0
+09-07-2025 01:20,09-07-2025 02:46,3.2,Dessert,12.58,Storm,Box,0,Shivaji Nagar,1
+09-07-2025 10:50,09-07-2025 11:26,3,Chinese,4.89,Storm,Plastic,5,Bavdhan,0
+09-07-2025 17:11,09-07-2025 18:06,3.1,Dessert,2.67,Fog,Plastic,2,Wakad,0
+10-07-2025 05:38,10-07-2025 06:05,3.7,Indian,4.15,Rain,Paper,3,Camp,0
+09-07-2025 04:11,09-07-2025 05:20,1.2,Chinese,6.09,Fog,Plastic,5,Wakad,1
+10-07-2025 01:35,10-07-2025 02:54,4.9,Sandwich,10.71,Fog,Paper,1,Kharadi,1
+08-07-2025 18:34,08-07-2025 19:27,2.4,Indian,11.39,Rain,Paper,4,Baner,1
+08-07-2025 12:16,08-07-2025 13:34,1.5,Pizza,8.86,Fog,Box,5,Koregaon Park,1
+09-07-2025 00:38,09-07-2025 01:32,2.9,Chinese,8.83,Rain,Box,2,Shivaji Nagar,0
+08-07-2025 20:37,08-07-2025 21:12,2,Chinese,5.37,Rain,Foil,0,Pashan,1
+09-07-2025 23:12,09-07-2025 23:35,1.7,Indian,3.87,Rain,Box,4,Viman Nagar,1
+08-07-2025 14:15,08-07-2025 14:41,3.1,Burger,8.78,Rain,Box,5,Shivaji Nagar,0
+08-07-2025 20:26,08-07-2025 21:11,4.5,Dessert,12.11,Rain,Box,0,Kharadi,1
+09-07-2025 03:23,09-07-2025 03:56,3.9,Dessert,14.65,Storm,Paper,1,Baner,1
+10-07-2025 00:35,10-07-2025 01:44,2,Chinese,13.88,Rain,Plastic,5,Shivaji Nagar,1
+09-07-2025 15:12,09-07-2025 15:52,4,Pizza,13.13,Clear,Plastic,0,Hadapsar,1
+09-07-2025 17:14,09-07-2025 18:42,1.8,Sandwich,6.57,Fog,Paper,1,Viman Nagar,1
+09-07-2025 00:56,09-07-2025 01:43,2.2,Dessert,14.91,Clear,Paper,5,Pimple Saudagar,0
+09-07-2025 15:35,09-07-2025 16:48,3.1,Burger,6.24,Clear,Paper,1,Baner,0
+08-07-2025 14:15,08-07-2025 15:13,1.3,Dessert,4.46,Rain,Paper,5,Aundh,1
+09-07-2025 18:02,09-07-2025 18:39,4.9,Pizza,9.87,Storm,Box,0,Kharadi,1
+09-07-2025 00:42,09-07-2025 01:43,1.1,Pizza,6.08,Rain,Paper,1,Kothrud,1
+09-07-2025 09:10,09-07-2025 09:31,1.1,Pizza,13.97,Storm,Paper,3,Pimple Saudagar,1
+09-07-2025 07:22,09-07-2025 08:25,2.5,Sandwich,6.44,Rain,Plastic,4,Hadapsar,1
+08-07-2025 18:03,08-07-2025 19:31,1.5,Chinese,8.4,Clear,Foil,3,Camp,0
+08-07-2025 16:49,08-07-2025 18:16,2.5,Chinese,7.68,Storm,Plastic,2,Wakad,1
+09-07-2025 09:12,09-07-2025 10:22,3.4,Indian,1.05,Fog,Box,4,Hinjewadi,0
+09-07-2025 22:39,09-07-2025 23:39,2.9,Indian,13.26,Storm,Box,5,Kothrud,0
+09-07-2025 02:16,09-07-2025 03:14,2,Indian,8.97,Fog,Box,1,Shivaji Nagar,0
+09-07-2025 15:12,09-07-2025 15:32,4.6,Chinese,2,Clear,Box,1,Aundh,0
+10-07-2025 06:30,10-07-2025 07:36,4.4,Sandwich,13.28,Fog,Plastic,0,Baner,0
+09-07-2025 09:54,09-07-2025 10:34,1.7,Sandwich,14.92,Clear,Plastic,3,Hinjewadi,1
+08-07-2025 17:12,08-07-2025 18:40,4,Indian,4.67,Clear,Box,4,Viman Nagar,1
+08-07-2025 11:44,08-07-2025 12:13,4.5,Sandwich,4.8,Fog,Foil,1,Viman Nagar,0
+09-07-2025 19:39,09-07-2025 20:35,3.4,Dessert,1.62,Clear,Foil,0,Baner,0
+09-07-2025 22:42,09-07-2025 23:48,1,Chinese,5.59,Rain,Paper,5,Pimple Saudagar,1
+09-07-2025 12:38,09-07-2025 13:35,3,Chinese,11.19,Fog,Plastic,0,Baner,1
+09-07-2025 16:18,09-07-2025 17:28,3.5,Chinese,11.09,Clear,Foil,3,Pimple Saudagar,0
+08-07-2025 15:29,08-07-2025 15:49,2.5,Sandwich,10.15,Rain,Paper,4,Pimple Saudagar,0
+08-07-2025 13:31,08-07-2025 14:48,1.7,Sandwich,6.04,Storm,Plastic,2,Hinjewadi,0
+08-07-2025 19:44,08-07-2025 20:56,1.2,Indian,14.58,Storm,Paper,3,Shivaji Nagar,1
+08-07-2025 17:27,08-07-2025 18:23,3.7,Burger,1,Rain,Foil,0,Koregaon Park,1
+09-07-2025 04:10,09-07-2025 05:16,2.2,Sandwich,3.37,Fog,Paper,3,Hadapsar,1
+09-07-2025 18:06,09-07-2025 19:26,4.2,Chinese,14.38,Storm,Plastic,4,Aundh,1
+09-07-2025 12:19,09-07-2025 13:00,5,Burger,13.47,Storm,Plastic,4,Kharadi,0
+10-07-2025 06:36,10-07-2025 07:38,3.2,Sandwich,9.62,Fog,Paper,5,Pimple Saudagar,1
+08-07-2025 22:37,08-07-2025 23:03,2.3,Sandwich,7.35,Rain,Paper,2,Hinjewadi,0
+08-07-2025 16:58,08-07-2025 17:53,2.6,Pizza,13.88,Storm,Foil,2,Wakad,1
+08-07-2025 16:28,08-07-2025 17:53,3.1,Sandwich,2.2,Fog,Foil,5,Viman Nagar,1
+08-07-2025 16:54,08-07-2025 18:22,3.1,Pizza,8.12,Storm,Paper,0,Bavdhan,1
+08-07-2025 21:18,08-07-2025 22:30,2.2,Indian,7.65,Fog,Foil,5,Hadapsar,1
+10-07-2025 06:59,10-07-2025 07:54,1.8,Pizza,8.93,Fog,Foil,4,Hinjewadi,1
+10-07-2025 00:01,10-07-2025 00:28,1.1,Chinese,13.2,Fog,Paper,1,Camp,1
+09-07-2025 15:12,09-07-2025 15:36,2.5,Indian,7.64,Fog,Foil,5,Hinjewadi,1
+09-07-2025 21:45,09-07-2025 23:06,2.1,Indian,11.72,Storm,Box,4,Viman Nagar,1
+09-07-2025 17:07,09-07-2025 18:35,2.9,Pizza,14.78,Clear,Foil,5,Aundh,1
+09-07-2025 10:35,09-07-2025 11:02,5,Burger,13.45,Fog,Plastic,2,Pimple Saudagar,1
+09-07-2025 00:27,09-07-2025 01:27,4.8,Burger,11.02,Fog,Plastic,4,Koregaon Park,0
+09-07-2025 23:30,10-07-2025 00:45,1.1,Chinese,14.92,Storm,Plastic,5,Pimple Saudagar,1
+08-07-2025 15:27,08-07-2025 16:40,3.5,Pizza,11.35,Storm,Plastic,5,Wakad,1
+09-07-2025 04:11,09-07-2025 04:42,5,Indian,10.95,Rain,Paper,5,Baner,1
+10-07-2025 07:06,10-07-2025 07:39,5,Pizza,14.75,Fog,Box,2,Pashan,1
+10-07-2025 04:12,10-07-2025 05:24,1.2,Dessert,13.96,Storm,Box,5,Aundh,1
+10-07-2025 02:55,10-07-2025 04:07,1.2,Indian,3.19,Clear,Box,5,Kothrud,0
+10-07-2025 05:39,10-07-2025 06:51,3.9,Sandwich,3.12,Rain,Plastic,2,Magarpatta,1
+08-07-2025 17:36,08-07-2025 18:49,1.3,Pizza,11.75,Rain,Foil,3,Koregaon Park,1
+09-07-2025 22:14,09-07-2025 23:03,3.9,Sandwich,8.08,Clear,Plastic,0,Magarpatta,0
+08-07-2025 14:36,08-07-2025 15:39,2.2,Pizza,10.3,Storm,Foil,5,Aundh,0
+09-07-2025 06:01,09-07-2025 07:00,2.9,Chinese,14.45,Rain,Paper,4,Hadapsar,0
+10-07-2025 08:13,10-07-2025 09:26,4.8,Pizza,10.13,Fog,Paper,4,Baner,1
+09-07-2025 09:22,09-07-2025 10:43,3.8,Chinese,1.41,Rain,Box,2,Magarpatta,1
+09-07-2025 21:55,09-07-2025 23:13,4.6,Sandwich,1.38,Fog,Paper,3,Hinjewadi,1
+09-07-2025 23:33,10-07-2025 00:38,1.3,Burger,9.61,Fog,Box,3,Wakad,0
+09-07-2025 04:03,09-07-2025 05:21,4.8,Chinese,14.94,Storm,Paper,4,Shivaji Nagar,1
+08-07-2025 18:22,08-07-2025 19:38,3.7,Indian,12.16,Fog,Box,5,Kharadi,0
+08-07-2025 21:45,08-07-2025 22:36,2,Dessert,14.26,Storm,Paper,5,Camp,1
+08-07-2025 21:42,08-07-2025 22:06,4,Burger,8.15,Fog,Paper,1,Hadapsar,0
+09-07-2025 23:56,10-07-2025 00:54,3.2,Burger,14.52,Fog,Foil,0,Aundh,1
+09-07-2025 13:14,09-07-2025 14:16,3.5,Chinese,14.79,Clear,Box,2,Hinjewadi,0
+10-07-2025 00:27,10-07-2025 00:58,2,Pizza,2.62,Fog,Box,4,Hinjewadi,1
+08-07-2025 17:42,08-07-2025 18:26,3,Dessert,3.08,Fog,Foil,5,Pimple Saudagar,0
+10-07-2025 08:29,10-07-2025 09:35,1.5,Pizza,8.98,Storm,Plastic,5,Bavdhan,1
+09-07-2025 10:28,09-07-2025 11:03,1.9,Sandwich,10,Fog,Paper,2,Wakad,1
+08-07-2025 21:33,08-07-2025 23:02,3.4,Chinese,3.06,Clear,Paper,4,Bavdhan,1
+09-07-2025 14:37,09-07-2025 15:05,1.3,Dessert,11.56,Clear,Box,3,Baner,1
+08-07-2025 22:56,08-07-2025 23:52,1.8,Sandwich,7.18,Fog,Paper,0,Magarpatta,1
+09-07-2025 21:21,09-07-2025 22:47,3,Pizza,2.3,Fog,Plastic,5,Bavdhan,1
+10-07-2025 05:04,10-07-2025 06:15,4.6,Sandwich,3.19,Rain,Box,5,Pashan,1
+09-07-2025 05:13,09-07-2025 05:53,4.7,Chinese,7.53,Storm,Plastic,2,Shivaji Nagar,1
+09-07-2025 21:16,09-07-2025 22:13,3,Sandwich,4.45,Clear,Plastic,1,Koregaon Park,0
+08-07-2025 22:01,08-07-2025 23:23,2.3,Dessert,2.42,Storm,Foil,5,Aundh,1
+10-07-2025 03:48,10-07-2025 04:20,3,Chinese,6.33,Fog,Paper,4,Pashan,1
+10-07-2025 08:05,10-07-2025 08:42,2.4,Pizza,3.34,Storm,Foil,0,Pashan,1
+09-07-2025 06:00,09-07-2025 06:59,1.6,Dessert,13.91,Storm,Box,4,Wakad,1
+09-07-2025 17:23,09-07-2025 18:07,1.7,Sandwich,8.67,Storm,Foil,3,Kharadi,1
+10-07-2025 00:14,10-07-2025 01:19,3.3,Dessert,11.2,Fog,Foil,4,Kothrud,1
+09-07-2025 11:06,09-07-2025 12:31,2.1,Chinese,11.25,Rain,Paper,0,Bavdhan,1
+09-07-2025 04:52,09-07-2025 05:56,3,Pizza,9.37,Storm,Paper,1,Baner,0
+08-07-2025 23:05,09-07-2025 00:31,1.7,Chinese,14.61,Storm,Paper,5,Kothrud,0
+09-07-2025 11:01,09-07-2025 12:01,4.1,Dessert,3.42,Rain,Box,0,Koregaon Park,1
+09-07-2025 13:54,09-07-2025 14:54,2.7,Sandwich,5.64,Storm,Plastic,1,Hinjewadi,1
+09-07-2025 20:09,09-07-2025 21:05,2.9,Sandwich,6.04,Fog,Plastic,2,Viman Nagar,1
+08-07-2025 19:46,08-07-2025 20:24,1.3,Pizza,2.64,Clear,Box,1,Aundh,1
+08-07-2025 14:05,08-07-2025 14:51,2.7,Indian,3.92,Rain,Paper,5,Shivaji Nagar,1
+09-07-2025 20:06,09-07-2025 20:58,1.2,Pizza,8.77,Rain,Box,3,Kharadi,1
+10-07-2025 04:42,10-07-2025 06:03,1.4,Dessert,6.79,Rain,Foil,5,Magarpatta,0
+08-07-2025 12:36,08-07-2025 13:10,3.5,Sandwich,1.2,Fog,Paper,0,Baner,0
+08-07-2025 20:34,08-07-2025 21:11,2,Chinese,13.19,Clear,Paper,3,Aundh,1
+09-07-2025 09:01,09-07-2025 10:01,2,Sandwich,4.77,Rain,Box,5,Hinjewadi,0
+09-07-2025 10:13,09-07-2025 11:40,3.3,Chinese,11.3,Rain,Box,5,Wakad,1
+09-07-2025 01:17,09-07-2025 02:23,1.9,Indian,10.09,Storm,Plastic,4,Camp,1
+09-07-2025 13:13,09-07-2025 13:59,2.3,Pizza,2.43,Storm,Foil,5,Hadapsar,1
+08-07-2025 19:28,08-07-2025 20:38,2,Pizza,1.19,Rain,Box,4,Baner,1
+08-07-2025 18:27,08-07-2025 19:23,3,Pizza,4.82,Clear,Paper,2,Hinjewadi,0
+10-07-2025 09:04,10-07-2025 10:27,2.8,Pizza,6.29,Clear,Box,0,Hinjewadi,1
+09-07-2025 21:31,09-07-2025 22:37,3.2,Chinese,12.47,Rain,Box,3,Magarpatta,1
+08-07-2025 12:49,08-07-2025 13:33,1,Dessert,4.83,Clear,Box,3,Kharadi,1
+08-07-2025 19:09,08-07-2025 19:37,3.3,Chinese,3.29,Fog,Box,1,Kothrud,0
+09-07-2025 12:09,09-07-2025 13:00,2.1,Indian,6.57,Fog,Paper,3,Shivaji Nagar,1
+09-07-2025 06:23,09-07-2025 07:41,4,Indian,5.94,Storm,Box,4,Hinjewadi,0
+08-07-2025 12:38,08-07-2025 13:02,3.1,Chinese,14.3,Fog,Paper,5,Koregaon Park,1
+09-07-2025 16:22,09-07-2025 17:18,1.7,Burger,13.11,Storm,Paper,0,Kothrud,1
+09-07-2025 12:27,09-07-2025 12:50,3.2,Pizza,11.68,Fog,Foil,5,Kharadi,1
+09-07-2025 07:02,09-07-2025 07:33,4.3,Pizza,10.13,Storm,Box,3,Pimple Saudagar,0
+10-07-2025 05:22,10-07-2025 06:40,2.5,Burger,5.65,Storm,Plastic,0,Kothrud,1
+10-07-2025 02:33,10-07-2025 03:32,3.1,Pizza,2.88,Clear,Plastic,4,Aundh,1
+08-07-2025 20:14,08-07-2025 20:39,2.7,Sandwich,3.38,Storm,Foil,5,Koregaon Park,0
+08-07-2025 17:43,08-07-2025 18:47,1.5,Indian,13.75,Storm,Plastic,3,Pimple Saudagar,0
+08-07-2025 22:24,08-07-2025 23:44,1.1,Burger,11.72,Fog,Foil,1,Koregaon Park,0
+09-07-2025 14:33,09-07-2025 15:39,3.5,Pizza,14.87,Rain,Plastic,0,Viman Nagar,1
+08-07-2025 13:04,08-07-2025 13:51,3.5,Sandwich,6.1,Clear,Plastic,5,Kothrud,1
+09-07-2025 06:30,09-07-2025 07:43,4.9,Dessert,11.49,Storm,Paper,3,Magarpatta,1
+10-07-2025 04:54,10-07-2025 05:46,4.1,Indian,2.75,Storm,Foil,1,Hadapsar,1
+09-07-2025 00:41,09-07-2025 02:11,3,Dessert,8.04,Storm,Box,3,Magarpatta,0
+10-07-2025 00:15,10-07-2025 01:20,1.6,Pizza,6.59,Storm,Paper,0,Hinjewadi,1
+09-07-2025 06:58,09-07-2025 08:05,4.2,Chinese,2.85,Rain,Box,4,Pimple Saudagar,1
+10-07-2025 01:11,10-07-2025 02:14,1.1,Pizza,4.57,Fog,Paper,5,Hinjewadi,1
+09-07-2025 00:43,09-07-2025 01:03,1.7,Burger,11.97,Rain,Paper,4,Hinjewadi,0
+08-07-2025 22:36,08-07-2025 23:20,1.4,Indian,5.63,Rain,Plastic,0,Wakad,1
+09-07-2025 06:49,09-07-2025 07:09,1.6,Chinese,10.07,Storm,Box,0,Pashan,1
+10-07-2025 10:27,10-07-2025 10:57,3.2,Dessert,5.26,Rain,Plastic,5,Wakad,0
+10-07-2025 02:59,10-07-2025 04:13,4.4,Burger,5.1,Clear,Foil,2,Wakad,0
+09-07-2025 04:49,09-07-2025 05:55,2.5,Dessert,9.4,Clear,Plastic,4,Viman Nagar,1
+09-07-2025 02:42,09-07-2025 03:46,4,Burger,1.95,Rain,Plastic,1,Pashan,1
+08-07-2025 11:24,08-07-2025 12:50,1,Indian,6.48,Rain,Foil,2,Magarpatta,0
+09-07-2025 02:53,09-07-2025 04:04,4.9,Pizza,9.76,Storm,Box,4,Kharadi,0
+09-07-2025 14:47,09-07-2025 16:00,3.7,Sandwich,3.07,Fog,Plastic,4,Koregaon Park,1
+09-07-2025 20:28,09-07-2025 21:05,3.3,Pizza,1.97,Rain,Paper,3,Aundh,1
+09-07-2025 15:51,09-07-2025 16:34,3.3,Dessert,9.93,Clear,Box,1,Shivaji Nagar,0
+10-07-2025 01:12,10-07-2025 02:10,5,Sandwich,10.09,Clear,Paper,0,Wakad,0
+09-07-2025 12:50,09-07-2025 13:35,2.4,Dessert,9.21,Storm,Plastic,0,Kharadi,1
+08-07-2025 15:38,08-07-2025 16:34,3.5,Dessert,5.35,Storm,Box,3,Camp,0
+09-07-2025 15:47,09-07-2025 17:14,4.4,Dessert,6.1,Fog,Foil,5,Magarpatta,1
+09-07-2025 01:05,09-07-2025 02:30,4.3,Indian,8.12,Rain,Plastic,5,Koregaon Park,1
+10-07-2025 05:48,10-07-2025 06:23,5,Sandwich,2.72,Storm,Plastic,1,Baner,1
+09-07-2025 17:37,09-07-2025 18:27,2.5,Pizza,14.88,Rain,Paper,5,Camp,1
+09-07-2025 20:45,09-07-2025 21:26,2.4,Dessert,1.7,Clear,Foil,2,Pashan,0
+10-07-2025 04:29,10-07-2025 05:12,3.6,Indian,12.03,Clear,Box,3,Koregaon Park,1
+09-07-2025 03:09,09-07-2025 04:02,2.1,Chinese,11.61,Storm,Box,3,Aundh,0
+09-07-2025 21:32,09-07-2025 22:03,4.5,Sandwich,2.12,Clear,Box,3,Pimple Saudagar,1
+10-07-2025 03:42,10-07-2025 04:18,4.6,Chinese,12.35,Rain,Plastic,3,Koregaon Park,1
+09-07-2025 03:01,09-07-2025 04:29,4.9,Pizza,7.36,Storm,Box,2,Camp,0
+08-07-2025 19:46,08-07-2025 20:51,4.1,Chinese,10.86,Rain,Plastic,0,Kothrud,0
+10-07-2025 02:18,10-07-2025 03:06,4.9,Burger,10.91,Storm,Plastic,4,Kothrud,0
+08-07-2025 13:08,08-07-2025 13:36,1.5,Pizza,2.68,Fog,Plastic,5,Kharadi,0
+08-07-2025 16:51,08-07-2025 18:02,1.3,Sandwich,8.43,Clear,Plastic,2,Magarpatta,1
+09-07-2025 00:40,09-07-2025 02:10,4.9,Burger,8.05,Clear,Foil,2,Koregaon Park,0
+09-07-2025 20:05,09-07-2025 20:37,1.3,Dessert,5.39,Fog,Plastic,1,Kothrud,0
+09-07-2025 20:19,09-07-2025 21:29,1.7,Indian,2.55,Fog,Paper,2,Bavdhan,0
+08-07-2025 19:51,08-07-2025 20:52,2.3,Sandwich,11.32,Rain,Box,5,Kothrud,1
+09-07-2025 00:16,09-07-2025 01:26,1.7,Dessert,10.46,Storm,Box,1,Pashan,1
+09-07-2025 08:19,09-07-2025 08:39,4.5,Sandwich,7.69,Storm,Box,2,Viman Nagar,0
+08-07-2025 14:32,08-07-2025 15:37,2.8,Sandwich,1.82,Clear,Box,2,Shivaji Nagar,1
+10-07-2025 09:23,10-07-2025 10:40,4.2,Dessert,11.13,Storm,Foil,1,Camp,1
+09-07-2025 01:01,09-07-2025 01:53,3.3,Burger,1.25,Fog,Foil,5,Bavdhan,1
+09-07-2025 18:36,09-07-2025 19:04,3.2,Burger,9.37,Rain,Box,5,Magarpatta,0
+10-07-2025 02:35,10-07-2025 03:12,1.2,Dessert,9.16,Clear,Plastic,2,Camp,1
+09-07-2025 11:34,09-07-2025 12:28,1.8,Sandwich,10.92,Storm,Box,1,Kothrud,1
+09-07-2025 20:37,09-07-2025 21:03,2.4,Indian,4.85,Storm,Box,5,Pimple Saudagar,1
+08-07-2025 19:32,08-07-2025 20:15,3.2,Indian,4.74,Storm,Plastic,0,Kharadi,1
+08-07-2025 20:44,08-07-2025 21:11,4.9,Chinese,9.31,Clear,Box,4,Viman Nagar,0
+09-07-2025 21:00,09-07-2025 22:15,1.6,Sandwich,4.51,Fog,Foil,0,Hinjewadi,1
+10-07-2025 02:12,10-07-2025 03:20,3.9,Pizza,1.39,Clear,Foil,3,Baner,0
+09-07-2025 12:32,09-07-2025 13:36,2,Dessert,2.52,Rain,Paper,1,Viman Nagar,0
+10-07-2025 00:11,10-07-2025 01:20,4,Sandwich,4.24,Fog,Foil,4,Magarpatta,0
+10-07-2025 00:47,10-07-2025 01:22,3,Chinese,4.7,Fog,Box,1,Baner,0
+08-07-2025 23:01,08-07-2025 23:30,1.7,Pizza,14.51,Storm,Box,5,Pimple Saudagar,1
+10-07-2025 10:22,10-07-2025 11:36,4.7,Pizza,13.38,Storm,Plastic,4,Hinjewadi,1
+09-07-2025 06:26,09-07-2025 07:47,4.6,Sandwich,12.35,Storm,Plastic,4,Pashan,1
+08-07-2025 21:12,08-07-2025 21:42,3.8,Indian,5.71,Clear,Foil,4,Pashan,1
+09-07-2025 05:38,09-07-2025 06:48,2.9,Indian,5.55,Storm,Foil,0,Bavdhan,1
+08-07-2025 19:43,08-07-2025 20:23,2,Chinese,1.45,Rain,Paper,1,Kothrud,1
+10-07-2025 07:33,10-07-2025 09:02,1.9,Burger,7.64,Rain,Foil,3,Bavdhan,1
+08-07-2025 22:15,08-07-2025 22:36,1.2,Chinese,1.07,Fog,Box,2,Hinjewadi,1
+09-07-2025 08:47,09-07-2025 09:58,3,Chinese,3.56,Fog,Plastic,2,Shivaji Nagar,0
+08-07-2025 17:51,08-07-2025 18:20,2.3,Dessert,13.7,Rain,Plastic,5,Magarpatta,1
+10-07-2025 00:44,10-07-2025 01:05,2.4,Burger,12.26,Fog,Plastic,5,Camp,1
+09-07-2025 01:23,09-07-2025 02:17,4.1,Burger,4.57,Fog,Plastic,1,Shivaji Nagar,0
+10-07-2025 04:20,10-07-2025 05:26,3,Dessert,5.05,Fog,Plastic,0,Camp,0
+08-07-2025 22:08,08-07-2025 22:38,2.2,Chinese,5.55,Storm,Paper,1,Wakad,1
+08-07-2025 20:25,08-07-2025 20:55,2.6,Pizza,10.91,Rain,Box,0,Aundh,1
+09-07-2025 06:45,09-07-2025 07:18,1.7,Chinese,4.59,Clear,Plastic,0,Wakad,1
+09-07-2025 04:14,09-07-2025 05:29,3.5,Burger,7.9,Rain,Foil,3,Kothrud,1
+09-07-2025 12:51,09-07-2025 13:21,4.2,Chinese,3.08,Storm,Box,2,Kharadi,0
+08-07-2025 22:14,08-07-2025 22:50,4.8,Burger,11.61,Storm,Foil,0,Viman Nagar,1
+09-07-2025 01:40,09-07-2025 03:00,1.2,Dessert,13.33,Rain,Plastic,1,Kharadi,1
+09-07-2025 18:55,09-07-2025 19:26,1.1,Burger,5.19,Clear,Plastic,0,Hadapsar,1
+08-07-2025 20:53,08-07-2025 21:40,2.4,Sandwich,12.03,Rain,Box,0,Magarpatta,1
+10-07-2025 02:21,10-07-2025 03:43,1.2,Chinese,5.18,Storm,Plastic,0,Baner,1
+09-07-2025 02:08,09-07-2025 03:00,2.1,Pizza,14.98,Clear,Box,2,Viman Nagar,0
+09-07-2025 20:00,09-07-2025 21:00,1.1,Burger,10.27,Clear,Plastic,4,Baner,0
+08-07-2025 21:40,08-07-2025 22:39,2.2,Burger,12.86,Clear,Paper,2,Pimple Saudagar,1
+09-07-2025 15:24,09-07-2025 16:30,2.6,Pizza,10.14,Clear,Foil,0,Camp,1
+08-07-2025 21:14,08-07-2025 21:50,1.3,Indian,11.95,Storm,Paper,1,Wakad,1
+08-07-2025 10:43,08-07-2025 11:59,2.3,Chinese,5.88,Rain,Foil,2,Wakad,1
+08-07-2025 22:26,08-07-2025 22:50,2.6,Chinese,8.78,Fog,Plastic,1,Hadapsar,0
+08-07-2025 22:21,08-07-2025 23:13,1.6,Burger,1.06,Storm,Box,0,Pashan,1
+09-07-2025 21:56,09-07-2025 22:55,4.1,Chinese,9.78,Storm,Plastic,4,Magarpatta,1
+10-07-2025 05:01,10-07-2025 06:09,3,Sandwich,12.78,Clear,Box,3,Kharadi,1
+08-07-2025 14:12,08-07-2025 14:48,4.6,Sandwich,13.84,Clear,Plastic,2,Shivaji Nagar,1
+09-07-2025 01:00,09-07-2025 02:08,1.4,Indian,9.5,Clear,Box,2,Camp,1
+08-07-2025 16:02,08-07-2025 17:30,2.3,Dessert,12.77,Fog,Plastic,5,Pimple Saudagar,1
+09-07-2025 13:32,09-07-2025 14:47,4.2,Burger,8.29,Fog,Box,2,Hadapsar,0
+09-07-2025 18:36,09-07-2025 19:37,3.1,Dessert,4.74,Fog,Plastic,3,Hinjewadi,0
+09-07-2025 14:25,09-07-2025 15:31,2.8,Pizza,1.43,Fog,Box,4,Viman Nagar,0
+08-07-2025 22:47,08-07-2025 23:28,3.3,Indian,1.13,Fog,Box,0,Hinjewadi,0
+08-07-2025 15:24,08-07-2025 16:11,4.3,Sandwich,4.01,Clear,Box,1,Pashan,0
+10-07-2025 08:22,10-07-2025 09:37,3.7,Burger,3.4,Fog,Box,5,Hinjewadi,0
+10-07-2025 07:05,10-07-2025 07:59,2.3,Indian,10.92,Fog,Foil,2,Hadapsar,0
+09-07-2025 04:33,09-07-2025 05:21,2.2,Indian,3.88,Fog,Box,3,Viman Nagar,0
+09-07-2025 13:16,09-07-2025 13:45,4.5,Chinese,13.32,Storm,Box,3,Viman Nagar,1
+08-07-2025 17:24,08-07-2025 17:58,4.2,Pizza,14.49,Storm,Plastic,1,Pashan,1
+08-07-2025 12:24,08-07-2025 13:47,1.7,Pizza,8.71,Clear,Paper,0,Kothrud,1
+10-07-2025 09:45,10-07-2025 10:13,3.7,Dessert,11.91,Storm,Box,2,Wakad,1
+09-07-2025 03:07,09-07-2025 03:57,3.3,Chinese,1.69,Fog,Box,5,Bavdhan,1
+08-07-2025 12:30,08-07-2025 13:26,1.8,Dessert,5.98,Fog,Plastic,0,Shivaji Nagar,0
+09-07-2025 03:59,09-07-2025 04:19,2.9,Pizza,13.71,Storm,Box,1,Viman Nagar,1
+10-07-2025 01:32,10-07-2025 02:16,2,Indian,12.5,Rain,Paper,5,Hadapsar,0
+08-07-2025 16:43,08-07-2025 17:35,1.7,Pizza,12.61,Clear,Plastic,2,Shivaji Nagar,1
+08-07-2025 20:14,08-07-2025 21:29,2.8,Dessert,7.18,Storm,Plastic,0,Kharadi,1
+10-07-2025 08:15,10-07-2025 08:44,4.9,Pizza,11.21,Rain,Box,5,Pashan,1
+09-07-2025 01:42,09-07-2025 02:38,2,Chinese,3.03,Storm,Box,2,Koregaon Park,1
+09-07-2025 02:18,09-07-2025 03:31,4.5,Sandwich,13.1,Storm,Box,5,Wakad,0
+10-07-2025 03:16,10-07-2025 04:13,3.8,Dessert,14.23,Clear,Paper,4,Magarpatta,1
+10-07-2025 03:11,10-07-2025 04:19,4.1,Sandwich,14.06,Storm,Plastic,1,Hadapsar,1
+08-07-2025 22:29,08-07-2025 23:21,4,Sandwich,3.42,Rain,Paper,1,Wakad,1
+10-07-2025 04:55,10-07-2025 06:15,2,Burger,13.16,Fog,Box,1,Wakad,0
+09-07-2025 14:28,09-07-2025 15:42,2.2,Burger,4.33,Rain,Paper,3,Baner,1
+08-07-2025 17:12,08-07-2025 17:35,2.3,Sandwich,9.41,Rain,Plastic,3,Bavdhan,1
+08-07-2025 18:40,08-07-2025 20:08,1.3,Indian,1.51,Storm,Paper,4,Kharadi,1
+09-07-2025 03:29,09-07-2025 04:56,2.7,Sandwich,1.43,Fog,Box,4,Pimple Saudagar,1
+09-07-2025 04:09,09-07-2025 04:51,4.8,Pizza,3.72,Clear,Plastic,5,Wakad,1
+09-07-2025 16:39,09-07-2025 17:20,2.7,Indian,7.48,Fog,Foil,1,Baner,0
+09-07-2025 18:24,09-07-2025 19:11,1.8,Pizza,3.98,Rain,Box,1,Pimple Saudagar,1
+10-07-2025 09:34,10-07-2025 10:07,3.9,Burger,11.46,Fog,Plastic,4,Pimple Saudagar,0
+08-07-2025 14:14,08-07-2025 15:16,1.3,Sandwich,1.38,Fog,Paper,4,Pimple Saudagar,0
+09-07-2025 04:20,09-07-2025 05:49,2.5,Indian,7.89,Clear,Paper,5,Koregaon Park,0
+09-07-2025 05:30,09-07-2025 06:31,4.1,Indian,14.6,Storm,Paper,2,Koregaon Park,1
+10-07-2025 01:49,10-07-2025 03:04,1.1,Chinese,14.88,Clear,Box,4,Kharadi,1
+09-07-2025 23:07,10-07-2025 00:36,1.3,Indian,2.36,Rain,Foil,1,Shivaji Nagar,1
+08-07-2025 20:04,08-07-2025 20:56,3.4,Chinese,2.87,Rain,Foil,0,Hinjewadi,1
+09-07-2025 13:27,09-07-2025 14:15,4.6,Chinese,5.28,Fog,Foil,4,Koregaon Park,1
+09-07-2025 10:21,09-07-2025 11:13,2,Burger,5.18,Clear,Paper,5,Magarpatta,1
+09-07-2025 10:04,09-07-2025 11:22,4.2,Pizza,10.55,Rain,Plastic,4,Baner,0
+09-07-2025 20:32,09-07-2025 21:52,2.4,Burger,2.83,Rain,Foil,5,Aundh,1
+10-07-2025 06:54,10-07-2025 07:18,2.2,Indian,8.74,Rain,Box,5,Wakad,1
+08-07-2025 11:35,08-07-2025 12:54,1.7,Burger,14.77,Storm,Plastic,0,Pimple Saudagar,0
+09-07-2025 15:25,09-07-2025 16:04,1.2,Chinese,4.33,Clear,Plastic,4,Wakad,0
+10-07-2025 06:17,10-07-2025 07:25,1.2,Chinese,3.42,Rain,Box,5,Pashan,1
+09-07-2025 22:19,09-07-2025 23:32,2.6,Pizza,2.24,Clear,Foil,4,Camp,1
+09-07-2025 16:58,09-07-2025 17:21,1.5,Sandwich,10.87,Fog,Foil,4,Pashan,0
+08-07-2025 14:14,08-07-2025 14:39,1.5,Dessert,3.62,Storm,Foil,3,Kharadi,0
+09-07-2025 06:07,09-07-2025 07:22,4.7,Dessert,14.45,Clear,Paper,1,Pashan,1
+08-07-2025 21:08,08-07-2025 21:38,1.1,Dessert,1.36,Storm,Foil,2,Koregaon Park,1
+09-07-2025 08:17,09-07-2025 09:44,2,Pizza,9.96,Storm,Plastic,3,Pimple Saudagar,1
+08-07-2025 22:59,09-07-2025 00:29,2,Sandwich,3.41,Fog,Box,5,Koregaon Park,1
+09-07-2025 19:24,09-07-2025 20:14,1.8,Chinese,9.78,Fog,Box,4,Wakad,1
+10-07-2025 06:53,10-07-2025 07:30,2.9,Dessert,9.43,Rain,Plastic,2,Aundh,0
+09-07-2025 22:31,09-07-2025 23:21,3.3,Chinese,9.16,Fog,Box,4,Magarpatta,0
+09-07-2025 14:34,09-07-2025 15:09,2.2,Dessert,12.7,Storm,Paper,4,Koregaon Park,1
+09-07-2025 19:24,09-07-2025 19:50,1.7,Pizza,9.34,Rain,Plastic,5,Pashan,1
+10-07-2025 07:42,10-07-2025 08:29,1.6,Indian,2.24,Rain,Paper,2,Koregaon Park,0
+09-07-2025 14:27,09-07-2025 15:21,1.2,Sandwich,11.65,Storm,Plastic,1,Hinjewadi,1
+10-07-2025 10:24,10-07-2025 10:46,3,Burger,2.44,Clear,Plastic,0,Hinjewadi,0
+09-07-2025 19:56,09-07-2025 20:39,1.4,Pizza,9.9,Storm,Foil,1,Kothrud,0
+09-07-2025 09:48,09-07-2025 10:59,4.9,Dessert,10.57,Fog,Plastic,4,Aundh,1
+09-07-2025 22:21,09-07-2025 22:47,1.7,Chinese,4.08,Rain,Box,0,Viman Nagar,1
+10-07-2025 03:20,10-07-2025 04:40,3.5,Burger,11.69,Storm,Plastic,1,Wakad,1
+10-07-2025 00:47,10-07-2025 02:02,4.3,Burger,10.52,Storm,Plastic,2,Wakad,1
+09-07-2025 04:37,09-07-2025 05:05,2.9,Pizza,2.11,Storm,Plastic,1,Baner,1
+10-07-2025 04:28,10-07-2025 05:36,2.7,Dessert,9.39,Rain,Box,3,Hadapsar,1
+10-07-2025 06:01,10-07-2025 07:24,4.8,Indian,4.41,Fog,Foil,3,Pimple Saudagar,1
+10-07-2025 08:03,10-07-2025 09:24,4.8,Pizza,6.08,Rain,Box,2,Aundh,1
+10-07-2025 04:04,10-07-2025 04:56,3,Burger,4.53,Clear,Box,4,Hadapsar,1
+10-07-2025 02:48,10-07-2025 04:05,3.2,Sandwich,12.18,Clear,Plastic,1,Shivaji Nagar,1
+09-07-2025 16:56,09-07-2025 17:19,3.9,Indian,12.57,Clear,Box,3,Baner,0
+08-07-2025 14:56,08-07-2025 15:59,3.7,Sandwich,7.29,Fog,Foil,2,Magarpatta,0
+08-07-2025 21:06,08-07-2025 21:45,2.4,Burger,6.58,Clear,Paper,4,Hadapsar,1
+09-07-2025 18:24,09-07-2025 19:22,3.1,Chinese,4.58,Storm,Plastic,0,Shivaji Nagar,0
+08-07-2025 12:03,08-07-2025 12:52,4.4,Indian,12.29,Fog,Plastic,5,Baner,0
+09-07-2025 09:05,09-07-2025 10:00,2.9,Sandwich,6.83,Rain,Box,5,Koregaon Park,0
+10-07-2025 03:31,10-07-2025 03:58,3.4,Indian,14.24,Clear,Box,5,Viman Nagar,1
+08-07-2025 13:33,08-07-2025 13:59,4.2,Burger,2.1,Storm,Foil,0,Wakad,1
+09-07-2025 03:30,09-07-2025 04:50,4.5,Pizza,2.14,Rain,Foil,5,Magarpatta,1
+08-07-2025 15:37,08-07-2025 16:42,1,Dessert,8.17,Storm,Box,3,Hadapsar,1
+10-07-2025 09:21,10-07-2025 10:00,4.9,Sandwich,11.71,Fog,Foil,4,Hadapsar,0
+09-07-2025 17:35,09-07-2025 19:04,4.1,Sandwich,11.87,Clear,Foil,4,Pashan,1
+08-07-2025 11:42,08-07-2025 12:46,4.7,Sandwich,14.46,Fog,Paper,2,Camp,1
+08-07-2025 23:10,08-07-2025 23:41,3.2,Burger,10.8,Clear,Paper,1,Kharadi,1
+08-07-2025 21:34,08-07-2025 22:39,2.8,Chinese,4.78,Rain,Paper,4,Kothrud,1
+08-07-2025 19:02,08-07-2025 20:27,4.8,Dessert,12.5,Storm,Plastic,3,Koregaon Park,1
+08-07-2025 12:16,08-07-2025 13:24,3.4,Sandwich,5.13,Clear,Plastic,4,Viman Nagar,1
+10-07-2025 04:15,10-07-2025 04:59,3.7,Burger,7.19,Clear,Plastic,5,Shivaji Nagar,0
+08-07-2025 19:37,08-07-2025 20:51,1.2,Indian,8.76,Clear,Paper,5,Baner,0
+09-07-2025 16:04,09-07-2025 16:35,4.1,Indian,3.57,Clear,Foil,0,Magarpatta,0
+08-07-2025 16:29,08-07-2025 17:38,3,Burger,7.58,Clear,Paper,5,Kothrud,1
+09-07-2025 05:50,09-07-2025 06:45,1,Burger,5.83,Rain,Box,0,Magarpatta,0
+09-07-2025 11:54,09-07-2025 12:36,1.9,Pizza,2.68,Rain,Box,1,Hadapsar,1
+08-07-2025 11:20,08-07-2025 11:42,2.5,Chinese,6.74,Fog,Paper,0,Camp,1
+08-07-2025 14:46,08-07-2025 15:53,4.9,Burger,6.53,Rain,Plastic,1,Shivaji Nagar,1
+10-07-2025 08:20,10-07-2025 09:29,4.4,Pizza,3.07,Storm,Box,0,Shivaji Nagar,1
+10-07-2025 06:12,10-07-2025 07:27,5,Indian,10.62,Storm,Foil,4,Camp,1
+09-07-2025 17:33,09-07-2025 18:46,4.7,Pizza,7.53,Clear,Foil,4,Shivaji Nagar,1
+10-07-2025 02:37,10-07-2025 03:05,4,Dessert,10.05,Fog,Box,0,Viman Nagar,0
+08-07-2025 12:20,08-07-2025 13:16,2.7,Burger,9.51,Storm,Paper,1,Bavdhan,1
+08-07-2025 20:34,08-07-2025 21:55,1.9,Chinese,2.8,Storm,Paper,0,Koregaon Park,1
+09-07-2025 14:42,09-07-2025 16:11,2.3,Pizza,1.84,Clear,Paper,2,Viman Nagar,1
+08-07-2025 11:55,08-07-2025 12:24,3.5,Pizza,7.46,Clear,Plastic,3,Baner,1
+09-07-2025 00:15,09-07-2025 01:36,3.6,Chinese,11.44,Clear,Foil,0,Shivaji Nagar,0
+10-07-2025 05:29,10-07-2025 05:57,3,Dessert,7.22,Fog,Paper,1,Aundh,0
+08-07-2025 16:01,08-07-2025 16:31,3.1,Sandwich,5.01,Fog,Plastic,3,Viman Nagar,0
+08-07-2025 23:41,09-07-2025 00:32,4.9,Dessert,10.71,Fog,Plastic,1,Viman Nagar,1
+09-07-2025 12:52,09-07-2025 13:22,3.6,Chinese,9.4,Rain,Plastic,0,Pashan,1
+09-07-2025 14:30,09-07-2025 15:41,3.9,Pizza,7.55,Fog,Foil,0,Bavdhan,0
+08-07-2025 15:19,08-07-2025 15:39,2.1,Indian,14.29,Fog,Box,4,Shivaji Nagar,1
+10-07-2025 04:22,10-07-2025 04:52,3.8,Pizza,7.58,Rain,Box,0,Aundh,0
+10-07-2025 06:37,10-07-2025 07:43,4.7,Pizza,7.31,Fog,Plastic,1,Pashan,0
+09-07-2025 20:47,09-07-2025 22:07,3.5,Dessert,5.93,Rain,Plastic,4,Kothrud,1
+10-07-2025 01:54,10-07-2025 03:17,2.2,Indian,14.47,Fog,Box,2,Kothrud,1
+09-07-2025 03:54,09-07-2025 04:14,1.4,Burger,7.49,Fog,Foil,4,Camp,0
+09-07-2025 22:40,09-07-2025 23:02,1,Sandwich,2.11,Clear,Plastic,3,Hadapsar,1
+08-07-2025 15:44,08-07-2025 16:11,2.4,Dessert,7.65,Storm,Paper,2,Kothrud,0
+09-07-2025 11:57,09-07-2025 12:35,4.6,Chinese,4.99,Fog,Paper,5,Camp,0
+09-07-2025 01:27,09-07-2025 02:34,4.5,Dessert,10.92,Storm,Foil,3,Camp,1
+10-07-2025 01:14,10-07-2025 02:42,2,Indian,2.6,Fog,Paper,0,Magarpatta,0
+08-07-2025 18:31,08-07-2025 19:15,2.1,Indian,6.09,Rain,Box,3,Bavdhan,1
+09-07-2025 13:52,09-07-2025 14:29,2.9,Indian,6.84,Rain,Foil,0,Hadapsar,1
+08-07-2025 18:15,08-07-2025 19:13,3.1,Indian,11.98,Storm,Box,1,Magarpatta,1
+08-07-2025 19:52,08-07-2025 20:22,2.1,Chinese,1.29,Rain,Plastic,0,Hinjewadi,1
+09-07-2025 00:29,09-07-2025 01:50,1.6,Chinese,7.63,Storm,Foil,4,Shivaji Nagar,1
+08-07-2025 13:37,08-07-2025 14:35,1.5,Pizza,5.8,Rain,Foil,0,Viman Nagar,1
+10-07-2025 08:47,10-07-2025 09:10,3.8,Burger,9.77,Clear,Box,2,Shivaji Nagar,0
+09-07-2025 22:20,09-07-2025 23:39,4.6,Pizza,6.67,Storm,Plastic,0,Camp,0
+08-07-2025 16:31,08-07-2025 17:34,1.1,Sandwich,2.04,Storm,Foil,3,Kothrud,1
+09-07-2025 18:04,09-07-2025 19:14,1.2,Dessert,2.2,Storm,Box,1,Hinjewadi,1
+09-07-2025 16:57,09-07-2025 18:27,2,Chinese,12.57,Storm,Box,3,Hinjewadi,1
+09-07-2025 21:36,09-07-2025 22:55,4.4,Chinese,12.94,Rain,Foil,1,Hinjewadi,1
+09-07-2025 22:28,09-07-2025 23:53,1.5,Burger,7.74,Fog,Foil,3,Kothrud,0
+08-07-2025 13:29,08-07-2025 14:49,3.6,Burger,8.52,Fog,Plastic,3,Shivaji Nagar,1
+08-07-2025 22:08,08-07-2025 23:18,1.4,Chinese,12.6,Clear,Foil,3,Camp,1
+10-07-2025 06:28,10-07-2025 07:50,1.2,Sandwich,8.62,Rain,Paper,4,Magarpatta,1
+09-07-2025 03:37,09-07-2025 05:06,4.1,Chinese,1.07,Storm,Paper,4,Magarpatta,0
+09-07-2025 09:47,09-07-2025 10:20,4.7,Burger,2.84,Rain,Box,2,Hinjewadi,1
+08-07-2025 12:35,08-07-2025 13:11,2.7,Sandwich,3.84,Storm,Paper,0,Bavdhan,1
+09-07-2025 07:49,09-07-2025 08:19,3.7,Dessert,11.73,Fog,Plastic,1,Kothrud,0
+09-07-2025 05:20,09-07-2025 06:46,4.8,Sandwich,4.08,Storm,Paper,3,Aundh,1
+10-07-2025 01:46,10-07-2025 02:32,4.3,Dessert,11.27,Rain,Paper,5,Pimple Saudagar,1
+08-07-2025 11:26,08-07-2025 12:18,3.9,Dessert,13.8,Clear,Plastic,4,Pimple Saudagar,0
+10-07-2025 03:16,10-07-2025 04:14,3,Dessert,3.56,Fog,Plastic,1,Baner,0
+08-07-2025 13:23,08-07-2025 14:10,3.4,Chinese,7.45,Storm,Paper,5,Aundh,1
+09-07-2025 23:29,09-07-2025 23:55,1.4,Burger,5.33,Rain,Foil,3,Hadapsar,1
+08-07-2025 13:50,08-07-2025 14:46,4.2,Indian,11.54,Rain,Box,1,Shivaji Nagar,0
+09-07-2025 14:14,09-07-2025 15:06,2.9,Dessert,3.04,Clear,Box,4,Camp,0
+09-07-2025 18:59,09-07-2025 20:12,4.4,Indian,14.65,Storm,Box,2,Wakad,1
+10-07-2025 09:50,10-07-2025 10:23,1.2,Pizza,6.86,Storm,Plastic,4,Pashan,1
+09-07-2025 04:44,09-07-2025 05:49,1.3,Indian,7.73,Rain,Box,4,Camp,1
+10-07-2025 01:52,10-07-2025 02:16,3.7,Indian,9.91,Fog,Foil,3,Pashan,1
+10-07-2025 03:53,10-07-2025 04:33,3.8,Burger,10.21,Clear,Paper,1,Kothrud,1
+10-07-2025 02:45,10-07-2025 03:37,3.5,Pizza,7.77,Rain,Paper,5,Bavdhan,0
+09-07-2025 23:39,10-07-2025 00:08,3.7,Indian,6.48,Storm,Foil,5,Shivaji Nagar,1
+10-07-2025 00:34,10-07-2025 01:42,2.7,Dessert,8.17,Fog,Foil,3,Shivaji Nagar,0
+09-07-2025 18:32,09-07-2025 19:06,4.6,Pizza,5.56,Rain,Foil,4,Camp,0
+08-07-2025 13:37,08-07-2025 14:46,2.5,Indian,12.15,Clear,Plastic,4,Pashan,1
+09-07-2025 00:02,09-07-2025 00:58,1,Burger,9.43,Rain,Paper,5,Wakad,1
+08-07-2025 17:17,08-07-2025 18:03,3.6,Indian,12.87,Rain,Box,1,Magarpatta,1
+09-07-2025 21:24,09-07-2025 22:08,1.8,Dessert,11.32,Fog,Plastic,2,Pashan,1
+08-07-2025 12:36,08-07-2025 13:46,1.8,Chinese,8.57,Clear,Foil,1,Magarpatta,0
+09-07-2025 22:35,09-07-2025 23:30,2.9,Indian,3.63,Rain,Foil,2,Aundh,1
+09-07-2025 00:34,09-07-2025 01:07,3.3,Pizza,13.63,Fog,Paper,4,Baner,1
+08-07-2025 23:24,09-07-2025 00:29,2.8,Indian,1.96,Rain,Plastic,1,Magarpatta,0
+10-07-2025 07:59,10-07-2025 09:11,4.7,Pizza,7.22,Storm,Paper,5,Baner,1
+08-07-2025 14:51,08-07-2025 16:13,5,Indian,4.37,Rain,Plastic,3,Shivaji Nagar,1
+08-07-2025 22:15,08-07-2025 22:52,3.3,Sandwich,3.99,Clear,Plastic,1,Baner,0
+09-07-2025 06:05,09-07-2025 06:47,3.6,Dessert,6.13,Storm,Plastic,1,Hadapsar,1
+08-07-2025 12:47,08-07-2025 13:43,2.5,Chinese,10.46,Clear,Paper,2,Magarpatta,1
+09-07-2025 08:58,09-07-2025 09:41,3.7,Indian,1.14,Fog,Foil,1,Kharadi,0
+10-07-2025 00:43,10-07-2025 02:01,1.5,Chinese,2.38,Clear,Box,2,Shivaji Nagar,1
+10-07-2025 05:08,10-07-2025 06:05,3.3,Pizza,5.31,Clear,Paper,5,Aundh,0
+09-07-2025 04:41,09-07-2025 05:19,3.2,Sandwich,9.39,Storm,Foil,3,Baner,1
+09-07-2025 10:45,09-07-2025 11:11,3.6,Burger,10.97,Storm,Paper,4,Aundh,0
+10-07-2025 05:51,10-07-2025 06:55,3.5,Dessert,2.04,Clear,Paper,0,Kharadi,0
+09-07-2025 22:58,10-07-2025 00:15,3.8,Indian,12.27,Fog,Foil,5,Hadapsar,1
+09-07-2025 11:17,09-07-2025 11:40,1.2,Sandwich,5.82,Clear,Foil,3,Hadapsar,1
+10-07-2025 03:20,10-07-2025 04:18,1,Sandwich,14.07,Clear,Box,5,Koregaon Park,1
+09-07-2025 15:38,09-07-2025 16:59,4.9,Chinese,1.09,Fog,Box,1,Koregaon Park,0
+08-07-2025 15:17,08-07-2025 16:29,1.1,Pizza,5.32,Rain,Plastic,4,Koregaon Park,0
+09-07-2025 21:15,09-07-2025 21:39,2.4,Burger,2.8,Storm,Foil,2,Bavdhan,0
+09-07-2025 01:07,09-07-2025 01:58,1,Indian,7.92,Fog,Plastic,5,Baner,1
+09-07-2025 07:28,09-07-2025 07:52,2.9,Indian,14.25,Storm,Box,4,Kothrud,1
+09-07-2025 23:23,10-07-2025 00:16,4.6,Dessert,1.48,Fog,Foil,3,Hadapsar,1
+09-07-2025 00:36,09-07-2025 01:31,4.9,Indian,7.42,Rain,Plastic,1,Magarpatta,1
+10-07-2025 08:57,10-07-2025 09:52,2.1,Pizza,8.33,Rain,Paper,2,Baner,1
+09-07-2025 12:49,09-07-2025 13:40,3.6,Chinese,5.17,Rain,Plastic,4,Aundh,1
+10-07-2025 04:25,10-07-2025 05:50,2.6,Chinese,1.87,Fog,Box,2,Magarpatta,0
+09-07-2025 23:56,10-07-2025 00:50,3.9,Pizza,6.47,Storm,Foil,5,Kothrud,1
+08-07-2025 17:53,08-07-2025 18:17,2.6,Dessert,4.79,Storm,Paper,0,Shivaji Nagar,0
+08-07-2025 17:16,08-07-2025 17:58,3.6,Sandwich,6.42,Storm,Paper,2,Magarpatta,1
+08-07-2025 23:27,09-07-2025 00:01,1.8,Chinese,5.41,Rain,Box,0,Koregaon Park,1
+08-07-2025 22:41,08-07-2025 23:30,4.2,Burger,13.8,Storm,Plastic,4,Magarpatta,1
+09-07-2025 22:35,10-07-2025 00:04,4.6,Sandwich,3.42,Rain,Box,5,Wakad,1
+09-07-2025 04:27,09-07-2025 04:55,2.2,Chinese,1.67,Storm,Paper,0,Viman Nagar,0
+09-07-2025 14:13,09-07-2025 15:02,1.6,Pizza,13.46,Clear,Box,1,Wakad,0
+09-07-2025 11:03,09-07-2025 12:31,1.7,Pizza,1.81,Fog,Paper,5,Kothrud,1
+09-07-2025 11:38,09-07-2025 12:57,4.1,Indian,6.64,Clear,Plastic,0,Pimple Saudagar,0
+08-07-2025 13:02,08-07-2025 13:31,3.3,Burger,3.1,Storm,Paper,0,Magarpatta,1
+08-07-2025 13:45,08-07-2025 15:14,3.9,Pizza,7.9,Fog,Plastic,4,Bavdhan,1
+09-07-2025 10:33,09-07-2025 11:44,2.7,Sandwich,8.01,Rain,Box,5,Kharadi,1
+08-07-2025 12:15,08-07-2025 13:42,1.5,Chinese,12.12,Clear,Paper,5,Bavdhan,0
+08-07-2025 12:45,08-07-2025 13:49,1.6,Dessert,10.9,Rain,Plastic,3,Baner,0
+09-07-2025 11:59,09-07-2025 12:30,2.8,Burger,2.57,Rain,Box,4,Camp,1
+09-07-2025 00:54,09-07-2025 01:30,3.4,Chinese,14.85,Clear,Paper,5,Hadapsar,1
+08-07-2025 15:16,08-07-2025 15:44,2.7,Dessert,1.59,Fog,Foil,1,Aundh,1
+09-07-2025 04:41,09-07-2025 05:28,4.8,Chinese,6.8,Fog,Plastic,3,Pimple Saudagar,1
+09-07-2025 02:17,09-07-2025 03:20,3,Chinese,5.35,Clear,Paper,0,Baner,0
+09-07-2025 07:25,09-07-2025 08:16,3.8,Sandwich,2.64,Storm,Plastic,0,Shivaji Nagar,0
+09-07-2025 03:01,09-07-2025 04:12,4.3,Sandwich,4.43,Clear,Foil,1,Koregaon Park,0
+08-07-2025 16:41,08-07-2025 17:13,2.8,Dessert,4.38,Rain,Foil,5,Wakad,1
+10-07-2025 00:32,10-07-2025 00:56,3.1,Chinese,10.49,Clear,Foil,3,Baner,1
+09-07-2025 08:33,09-07-2025 09:48,3.7,Sandwich,13.79,Storm,Paper,5,Viman Nagar,1
+09-07-2025 19:58,09-07-2025 20:44,1.1,Dessert,6.35,Fog,Paper,3,Shivaji Nagar,1
+10-07-2025 08:19,10-07-2025 09:47,4.2,Indian,8.19,Storm,Plastic,4,Shivaji Nagar,1
+09-07-2025 10:08,09-07-2025 11:14,1.6,Sandwich,2.55,Clear,Box,5,Shivaji Nagar,1
+10-07-2025 03:28,10-07-2025 04:46,3.2,Pizza,5.18,Rain,Box,5,Bavdhan,1
+09-07-2025 13:55,09-07-2025 14:30,4.1,Chinese,3.87,Fog,Box,3,Baner,0
+08-07-2025 14:54,08-07-2025 15:18,3.7,Pizza,3.64,Fog,Foil,1,Kothrud,0
+08-07-2025 20:39,08-07-2025 21:33,1.1,Indian,9.92,Fog,Paper,5,Baner,0
+10-07-2025 01:19,10-07-2025 02:10,3.6,Pizza,10.64,Clear,Paper,5,Koregaon Park,1
+09-07-2025 16:39,09-07-2025 17:00,1.4,Sandwich,13.55,Clear,Box,3,Aundh,1
+10-07-2025 09:20,10-07-2025 10:18,2.3,Chinese,13.44,Rain,Paper,1,Aundh,1
+08-07-2025 16:56,08-07-2025 17:41,3.9,Pizza,4.22,Rain,Foil,1,Camp,1
+10-07-2025 03:16,10-07-2025 03:56,1.5,Indian,1.82,Fog,Paper,4,Koregaon Park,0
+08-07-2025 16:54,08-07-2025 18:18,4,Pizza,11.25,Rain,Foil,1,Kharadi,1
+09-07-2025 04:50,09-07-2025 06:05,3.5,Burger,10.26,Clear,Box,1,Camp,1
+10-07-2025 09:37,10-07-2025 10:46,3.1,Indian,11.37,Rain,Foil,0,Wakad,1
+09-07-2025 23:24,10-07-2025 00:24,4.1,Chinese,5.11,Fog,Foil,3,Hinjewadi,1
+09-07-2025 12:05,09-07-2025 12:56,3.5,Burger,2.28,Clear,Foil,1,Camp,0
+08-07-2025 15:59,08-07-2025 17:01,4.7,Pizza,8.95,Fog,Paper,4,Shivaji Nagar,1
+10-07-2025 06:55,10-07-2025 08:23,3.4,Chinese,1.26,Storm,Box,0,Hadapsar,1
+08-07-2025 20:56,08-07-2025 21:34,2.1,Dessert,2.18,Fog,Box,4,Kothrud,1
+09-07-2025 05:52,09-07-2025 06:33,1.5,Indian,5.75,Rain,Box,1,Baner,1
+09-07-2025 05:29,09-07-2025 06:48,2.8,Burger,11.03,Storm,Foil,0,Hinjewadi,1
+09-07-2025 15:09,09-07-2025 16:25,1.1,Chinese,3.67,Fog,Paper,0,Shivaji Nagar,1
+08-07-2025 21:32,08-07-2025 23:02,4.2,Pizza,11.73,Storm,Paper,4,Pimple Saudagar,1
+09-07-2025 23:12,09-07-2025 23:39,1.9,Dessert,10.58,Rain,Plastic,2,Kothrud,1
+09-07-2025 00:56,09-07-2025 02:16,1.4,Dessert,14.58,Rain,Paper,4,Aundh,0
+09-07-2025 02:45,09-07-2025 03:22,2.6,Sandwich,7.04,Storm,Box,5,Kothrud,0
+08-07-2025 19:27,08-07-2025 20:42,3.5,Chinese,8.76,Fog,Paper,3,Camp,1
+08-07-2025 18:23,08-07-2025 19:42,2.6,Chinese,4.65,Clear,Box,4,Wakad,1
+08-07-2025 23:15,09-07-2025 00:04,4.2,Pizza,11.06,Rain,Box,3,Pashan,1
+09-07-2025 21:26,09-07-2025 22:28,1,Sandwich,3.22,Storm,Plastic,1,Magarpatta,1
+09-07-2025 13:59,09-07-2025 15:19,4.9,Indian,2.86,Storm,Box,3,Viman Nagar,0
+09-07-2025 01:39,09-07-2025 02:57,4,Pizza,2.71,Rain,Paper,4,Kharadi,1
+10-07-2025 05:10,10-07-2025 05:57,3,Sandwich,2.59,Storm,Foil,2,Kothrud,1
+08-07-2025 13:50,08-07-2025 14:50,4.4,Burger,10.41,Fog,Box,1,Pimple Saudagar,0
+09-07-2025 04:36,09-07-2025 05:19,5,Chinese,7.53,Storm,Foil,0,Pashan,1
+10-07-2025 01:23,10-07-2025 02:30,4.6,Chinese,12.97,Storm,Box,5,Bavdhan,0
+09-07-2025 03:30,09-07-2025 04:44,4.7,Chinese,4.44,Clear,Paper,0,Aundh,0
+09-07-2025 05:07,09-07-2025 05:38,3.4,Indian,7.53,Rain,Box,0,Aundh,1
+10-07-2025 00:45,10-07-2025 01:38,1.3,Sandwich,4.88,Fog,Plastic,5,Aundh,1
+08-07-2025 22:47,08-07-2025 23:25,3.1,Dessert,2.02,Fog,Foil,3,Pashan,1
+09-07-2025 11:15,09-07-2025 12:16,1.8,Burger,5.17,Clear,Plastic,4,Hadapsar,1
+08-07-2025 10:43,08-07-2025 11:43,3.1,Burger,4.72,Storm,Paper,4,Viman Nagar,0
+10-07-2025 10:34,10-07-2025 11:54,1.7,Dessert,9.37,Storm,Box,3,Magarpatta,1
+09-07-2025 02:33,09-07-2025 03:56,3.6,Indian,9.04,Fog,Paper,0,Aundh,0
+09-07-2025 20:45,09-07-2025 21:31,2.4,Dessert,8.36,Storm,Plastic,2,Bavdhan,0
+09-07-2025 10:06,09-07-2025 10:39,2.8,Sandwich,3.5,Clear,Foil,3,Kharadi,1
+09-07-2025 01:30,09-07-2025 01:58,4.2,Sandwich,5.94,Fog,Foil,5,Baner,1
+09-07-2025 14:15,09-07-2025 15:06,1.3,Burger,1.18,Storm,Paper,0,Aundh,1
+08-07-2025 17:23,08-07-2025 18:03,4,Burger,1.79,Rain,Plastic,5,Wakad,1
+10-07-2025 00:05,10-07-2025 01:22,4.7,Burger,12.09,Storm,Box,3,Baner,1
+08-07-2025 11:29,08-07-2025 12:46,2,Pizza,6.43,Storm,Plastic,2,Kharadi,1
+10-07-2025 06:40,10-07-2025 07:03,4.4,Indian,9.84,Rain,Paper,2,Pashan,0
+10-07-2025 08:47,10-07-2025 09:29,4.4,Indian,4.45,Storm,Paper,1,Magarpatta,1
+08-07-2025 22:07,08-07-2025 23:21,3.7,Burger,7.86,Rain,Foil,3,Kharadi,1
+09-07-2025 03:23,09-07-2025 04:24,3.1,Pizza,3.62,Rain,Plastic,4,Aundh,0
+09-07-2025 14:16,09-07-2025 15:22,1.7,Burger,13.35,Clear,Plastic,2,Pimple Saudagar,1
+08-07-2025 11:52,08-07-2025 12:56,2.2,Burger,7.82,Rain,Box,3,Pimple Saudagar,1
+09-07-2025 05:30,09-07-2025 06:10,2.8,Pizza,2.36,Fog,Box,1,Baner,1
+09-07-2025 15:58,09-07-2025 17:12,4.7,Burger,4.56,Storm,Foil,3,Kothrud,1
+09-07-2025 01:19,09-07-2025 01:43,1,Dessert,2.22,Fog,Foil,3,Kothrud,1
+09-07-2025 03:34,09-07-2025 04:12,1.4,Pizza,13.93,Fog,Plastic,4,Kharadi,1
+08-07-2025 11:04,08-07-2025 12:17,1.1,Dessert,12.64,Clear,Foil,3,Pimple Saudagar,1
+09-07-2025 13:04,09-07-2025 14:24,3.6,Burger,8.67,Storm,Foil,3,Shivaji Nagar,1
+08-07-2025 19:14,08-07-2025 20:14,3.2,Burger,10.33,Storm,Paper,2,Wakad,1
+08-07-2025 23:03,08-07-2025 23:59,4.1,Burger,11,Storm,Box,2,Kothrud,1
+09-07-2025 17:36,09-07-2025 18:39,1.2,Burger,9.65,Rain,Foil,1,Wakad,1
+10-07-2025 04:15,10-07-2025 05:38,2.8,Indian,12.88,Rain,Box,2,Aundh,1
+09-07-2025 23:55,10-07-2025 00:21,2.5,Chinese,14.27,Fog,Box,5,Koregaon Park,0
+09-07-2025 22:01,09-07-2025 22:42,4.3,Pizza,14.39,Storm,Foil,3,Hadapsar,1
+09-07-2025 15:03,09-07-2025 16:23,1.2,Indian,4.77,Fog,Plastic,3,Koregaon Park,0
+08-07-2025 23:08,09-07-2025 00:17,2.9,Pizza,7.27,Fog,Box,5,Kothrud,1
+09-07-2025 01:13,09-07-2025 01:33,2.3,Indian,5.82,Fog,Box,5,Pimple Saudagar,1
+09-07-2025 22:35,09-07-2025 23:54,1.3,Burger,5.19,Fog,Paper,5,Baner,1
+09-07-2025 21:50,09-07-2025 23:06,3.4,Chinese,14.45,Fog,Paper,0,Hadapsar,1
+09-07-2025 15:35,09-07-2025 15:59,2.3,Sandwich,5.18,Storm,Box,2,Pashan,0
+08-07-2025 20:59,08-07-2025 21:35,1.5,Indian,9.45,Rain,Box,1,Pimple Saudagar,1
+08-07-2025 17:46,08-07-2025 19:12,1.8,Indian,13.87,Storm,Foil,4,Kothrud,1
+09-07-2025 06:14,09-07-2025 07:40,1.4,Sandwich,8.59,Fog,Foil,5,Hinjewadi,1
+08-07-2025 14:31,08-07-2025 15:28,2.7,Indian,14.96,Clear,Box,1,Pashan,0
+08-07-2025 14:31,08-07-2025 15:29,4.4,Chinese,13.23,Rain,Paper,0,Shivaji Nagar,1
+09-07-2025 05:33,09-07-2025 06:12,2.1,Dessert,13.79,Fog,Foil,2,Viman Nagar,1
+09-07-2025 05:00,09-07-2025 06:10,1.8,Burger,8.31,Storm,Foil,4,Aundh,0
+08-07-2025 19:00,08-07-2025 20:10,3.8,Dessert,11.35,Clear,Paper,4,Magarpatta,1
+10-07-2025 05:16,10-07-2025 05:46,3.5,Burger,6.18,Rain,Box,0,Viman Nagar,1
+08-07-2025 18:21,08-07-2025 19:37,4.5,Pizza,8.66,Clear,Foil,4,Viman Nagar,1
+09-07-2025 00:06,09-07-2025 01:27,1.1,Pizza,8.23,Storm,Plastic,2,Kothrud,1
+08-07-2025 11:18,08-07-2025 11:51,4.9,Indian,9.71,Storm,Foil,4,Kothrud,0
+10-07-2025 09:49,10-07-2025 10:23,1.6,Indian,10.08,Storm,Paper,1,Camp,1
+09-07-2025 16:17,09-07-2025 17:02,1.1,Indian,6.97,Rain,Paper,3,Aundh,1
+09-07-2025 13:26,09-07-2025 13:46,3.4,Pizza,7.36,Rain,Box,2,Wakad,0
+08-07-2025 23:48,09-07-2025 00:34,3.9,Dessert,3.75,Rain,Box,5,Pimple Saudagar,1
+10-07-2025 03:06,10-07-2025 04:12,1.2,Burger,11.29,Clear,Foil,4,Aundh,0
+09-07-2025 09:36,09-07-2025 10:50,3.1,Sandwich,4.47,Rain,Plastic,2,Viman Nagar,1
+10-07-2025 10:03,10-07-2025 10:29,1.6,Burger,9.27,Fog,Box,3,Baner,1
+08-07-2025 16:25,08-07-2025 16:50,1.5,Dessert,4.15,Fog,Foil,3,Aundh,0
+10-07-2025 09:06,10-07-2025 09:58,3.4,Sandwich,1.15,Storm,Foil,4,Koregaon Park,0
+10-07-2025 04:30,10-07-2025 05:42,3.8,Chinese,5.9,Storm,Plastic,1,Camp,0
+08-07-2025 22:51,08-07-2025 23:50,3,Chinese,14.47,Fog,Paper,3,Bavdhan,1
+08-07-2025 13:37,08-07-2025 14:04,4.2,Pizza,8.21,Rain,Foil,2,Koregaon Park,1
+08-07-2025 16:41,08-07-2025 18:11,3.7,Sandwich,10.23,Rain,Box,1,Hadapsar,0
+09-07-2025 09:23,09-07-2025 10:36,2.7,Burger,6.95,Fog,Paper,5,Bavdhan,1
+09-07-2025 19:03,09-07-2025 19:53,2.1,Indian,1.14,Rain,Foil,1,Hadapsar,1
+09-07-2025 15:13,09-07-2025 16:42,4.3,Sandwich,10.21,Fog,Plastic,5,Magarpatta,1
+09-07-2025 04:30,09-07-2025 05:58,4.4,Indian,13.06,Fog,Foil,4,Kharadi,0
+08-07-2025 16:19,08-07-2025 16:46,3.3,Dessert,1.05,Rain,Plastic,1,Viman Nagar,0
+10-07-2025 02:24,10-07-2025 03:17,3.1,Chinese,12.42,Rain,Box,1,Wakad,1
+10-07-2025 07:50,10-07-2025 08:29,1.1,Burger,3.69,Storm,Paper,2,Kharadi,1
+09-07-2025 01:37,09-07-2025 02:07,1,Sandwich,6.25,Clear,Foil,3,Viman Nagar,1
+09-07-2025 22:03,09-07-2025 23:29,2.8,Chinese,11.01,Storm,Paper,3,Aundh,1
+09-07-2025 10:03,09-07-2025 10:23,1.7,Indian,11.89,Clear,Box,2,Pashan,0
+10-07-2025 02:14,10-07-2025 03:30,3.6,Dessert,3.79,Fog,Foil,2,Bavdhan,0
+09-07-2025 11:43,09-07-2025 12:52,3.4,Sandwich,1.29,Clear,Plastic,5,Viman Nagar,0
+09-07-2025 04:10,09-07-2025 04:55,2.6,Sandwich,8.69,Rain,Plastic,0,Hinjewadi,0
+09-07-2025 09:19,09-07-2025 10:24,4.1,Pizza,11.47,Storm,Plastic,1,Viman Nagar,1
+08-07-2025 21:35,08-07-2025 22:55,4.1,Sandwich,7.04,Clear,Foil,2,Koregaon Park,0
+10-07-2025 05:30,10-07-2025 06:06,1.8,Dessert,14.35,Rain,Paper,4,Hinjewadi,1
+08-07-2025 15:30,08-07-2025 16:25,4.7,Burger,1.8,Fog,Foil,4,Magarpatta,1
+10-07-2025 05:50,10-07-2025 06:12,4.8,Chinese,9.85,Rain,Foil,5,Viman Nagar,1
+09-07-2025 21:17,09-07-2025 22:01,1,Chinese,9.59,Fog,Paper,2,Koregaon Park,0
+08-07-2025 11:51,08-07-2025 12:11,3.4,Sandwich,12.84,Storm,Foil,4,Magarpatta,1
+09-07-2025 04:41,09-07-2025 06:06,3.4,Sandwich,9.26,Rain,Plastic,0,Pimple Saudagar,1
+09-07-2025 16:32,09-07-2025 16:54,3.6,Sandwich,14.25,Clear,Plastic,5,Hadapsar,0
+09-07-2025 23:13,10-07-2025 00:38,4.1,Burger,13.83,Fog,Box,1,Bavdhan,1
+09-07-2025 19:01,09-07-2025 20:18,3.2,Dessert,5.12,Rain,Box,0,Magarpatta,0
+09-07-2025 09:11,09-07-2025 10:22,2,Pizza,3.71,Clear,Paper,4,Wakad,1
+08-07-2025 21:45,08-07-2025 22:08,3.3,Dessert,5.56,Storm,Foil,4,Aundh,0
+08-07-2025 23:26,08-07-2025 23:47,4.5,Dessert,8.72,Clear,Plastic,5,Pashan,1
+09-07-2025 00:39,09-07-2025 01:34,3.3,Pizza,9.15,Fog,Foil,1,Camp,0
+10-07-2025 06:23,10-07-2025 06:50,2,Pizza,11.19,Fog,Plastic,2,Camp,1
+09-07-2025 16:42,09-07-2025 17:33,1.6,Dessert,10.71,Fog,Paper,2,Bavdhan,0
+08-07-2025 17:32,08-07-2025 18:12,1.6,Pizza,10.6,Fog,Paper,3,Pimple Saudagar,0
+08-07-2025 10:42,08-07-2025 12:10,1.2,Sandwich,14.07,Storm,Box,5,Kharadi,1
+09-07-2025 17:16,09-07-2025 18:04,3.1,Sandwich,11.04,Rain,Paper,2,Pashan,0
+09-07-2025 05:17,09-07-2025 06:43,2.2,Sandwich,11.32,Storm,Box,3,Pimple Saudagar,1
+10-07-2025 04:26,10-07-2025 05:42,1.5,Chinese,12.44,Clear,Foil,1,Hadapsar,1
+09-07-2025 05:53,09-07-2025 06:32,4.8,Pizza,10.98,Storm,Plastic,3,Bavdhan,0
+09-07-2025 01:18,09-07-2025 02:40,1.5,Indian,11.92,Rain,Box,4,Kharadi,1
+09-07-2025 12:23,09-07-2025 13:02,2.5,Sandwich,2.21,Rain,Plastic,1,Kothrud,1
+08-07-2025 12:57,08-07-2025 14:20,3.2,Pizza,7.4,Fog,Plastic,0,Hadapsar,0
+09-07-2025 22:44,09-07-2025 23:50,4.6,Chinese,14.03,Fog,Box,5,Hadapsar,1
+09-07-2025 05:23,09-07-2025 06:03,4.3,Pizza,8.7,Clear,Plastic,0,Koregaon Park,0
+09-07-2025 14:09,09-07-2025 15:03,4.5,Dessert,3.3,Rain,Box,3,Pashan,0
+09-07-2025 22:28,09-07-2025 23:34,1.4,Indian,7.24,Rain,Paper,3,Shivaji Nagar,1
+09-07-2025 05:28,09-07-2025 06:06,2.8,Pizza,14.5,Fog,Box,4,Baner,1
+10-07-2025 08:41,10-07-2025 09:27,2.9,Dessert,8.83,Rain,Plastic,1,Shivaji Nagar,1
+10-07-2025 05:22,10-07-2025 06:03,2.8,Burger,9.38,Fog,Box,0,Koregaon Park,1
+09-07-2025 10:40,09-07-2025 11:26,4.3,Dessert,10.18,Fog,Box,2,Pimple Saudagar,0
+09-07-2025 06:10,09-07-2025 07:23,1.5,Indian,6.36,Storm,Foil,4,Hadapsar,1
+08-07-2025 11:23,08-07-2025 12:18,4.6,Indian,12.84,Storm,Paper,4,Viman Nagar,0
+09-07-2025 23:39,10-07-2025 00:17,4.7,Sandwich,14.35,Rain,Box,5,Magarpatta,0
+09-07-2025 15:24,09-07-2025 16:36,4.4,Indian,8.63,Fog,Paper,5,Hinjewadi,1
+10-07-2025 03:47,10-07-2025 05:09,4.9,Burger,7.94,Storm,Box,0,Kharadi,0
+08-07-2025 22:03,08-07-2025 22:45,2.3,Indian,9.48,Rain,Box,5,Kothrud,1
+10-07-2025 03:05,10-07-2025 03:54,4.1,Burger,10,Fog,Plastic,2,Bavdhan,0
+09-07-2025 18:49,09-07-2025 20:03,3.9,Sandwich,2.93,Rain,Foil,1,Baner,1
+10-07-2025 04:04,10-07-2025 05:31,2.3,Burger,10.18,Storm,Paper,1,Kothrud,1
+09-07-2025 17:27,09-07-2025 18:42,1,Sandwich,9.62,Clear,Paper,1,Magarpatta,0
+09-07-2025 14:28,09-07-2025 14:54,4.7,Dessert,10.46,Fog,Foil,3,Viman Nagar,0
+09-07-2025 02:21,09-07-2025 02:47,3.2,Chinese,7.24,Fog,Box,5,Baner,0
+10-07-2025 05:08,10-07-2025 05:44,1.4,Pizza,7.02,Storm,Plastic,5,Bavdhan,0
+09-07-2025 12:05,09-07-2025 13:35,3.9,Burger,12.4,Fog,Plastic,2,Aundh,0
+09-07-2025 23:26,10-07-2025 00:31,1.7,Dessert,6.49,Clear,Foil,0,Pimple Saudagar,1
+09-07-2025 11:36,09-07-2025 12:38,3.1,Sandwich,9.19,Clear,Foil,1,Pashan,0
+09-07-2025 18:16,09-07-2025 19:14,1.8,Pizza,1.36,Clear,Box,1,Wakad,1
+09-07-2025 23:06,09-07-2025 23:53,4.9,Sandwich,6.68,Rain,Foil,1,Kothrud,1
+08-07-2025 20:26,08-07-2025 21:07,2.6,Pizza,8.6,Rain,Foil,2,Shivaji Nagar,1
+08-07-2025 14:14,08-07-2025 15:37,2.5,Burger,14.69,Fog,Paper,5,Shivaji Nagar,1
+08-07-2025 12:21,08-07-2025 12:54,2.3,Dessert,4.08,Clear,Foil,2,Magarpatta,0
+10-07-2025 01:37,10-07-2025 02:54,3.3,Burger,9.32,Fog,Box,4,Magarpatta,1
+09-07-2025 15:59,09-07-2025 16:41,1.5,Chinese,10.14,Storm,Plastic,4,Hadapsar,1
+09-07-2025 20:43,09-07-2025 21:57,4.8,Sandwich,14.86,Rain,Foil,5,Bavdhan,1
+09-07-2025 03:44,09-07-2025 04:54,2.4,Chinese,12.98,Fog,Box,3,Kothrud,0
+09-07-2025 11:20,09-07-2025 12:45,3.4,Indian,11.21,Clear,Plastic,5,Koregaon Park,0
+10-07-2025 03:08,10-07-2025 04:18,4.9,Chinese,1.26,Rain,Plastic,4,Viman Nagar,1
+09-07-2025 06:12,09-07-2025 06:47,2.8,Chinese,10.6,Fog,Plastic,0,Magarpatta,1
+10-07-2025 10:39,10-07-2025 11:37,2,Pizza,7.6,Clear,Box,2,Viman Nagar,0
+09-07-2025 04:15,09-07-2025 05:18,1.3,Chinese,5.12,Fog,Plastic,3,Aundh,0
+08-07-2025 18:26,08-07-2025 19:23,1.3,Chinese,1.92,Clear,Paper,4,Koregaon Park,1
+09-07-2025 14:42,09-07-2025 16:05,1.7,Indian,10.69,Fog,Foil,4,Kothrud,0
+09-07-2025 20:14,09-07-2025 21:16,2.2,Dessert,8.96,Clear,Paper,3,Koregaon Park,0
+09-07-2025 07:06,09-07-2025 07:57,4,Dessert,14.8,Clear,Paper,2,Bavdhan,1
+09-07-2025 08:21,09-07-2025 09:45,3.8,Indian,1.82,Clear,Plastic,1,Aundh,0
+08-07-2025 12:56,08-07-2025 13:27,3.9,Indian,9.81,Clear,Paper,3,Pashan,1
+09-07-2025 17:32,09-07-2025 18:23,3.9,Sandwich,10.19,Fog,Box,3,Shivaji Nagar,1
+09-07-2025 05:37,09-07-2025 06:20,1.9,Sandwich,10.83,Storm,Foil,4,Pimple Saudagar,1
+08-07-2025 14:24,08-07-2025 15:10,3,Dessert,12.26,Storm,Box,4,Magarpatta,1
+09-07-2025 16:55,09-07-2025 17:56,4.3,Burger,5.44,Clear,Plastic,1,Magarpatta,0
+08-07-2025 10:53,08-07-2025 11:43,2.5,Dessert,14.4,Clear,Foil,5,Baner,1
+08-07-2025 13:55,08-07-2025 14:55,4.3,Dessert,11.57,Rain,Box,4,Kothrud,0
+09-07-2025 18:57,09-07-2025 19:29,2.1,Pizza,2.01,Rain,Paper,0,Hinjewadi,1
+09-07-2025 08:12,09-07-2025 09:15,3.2,Pizza,3.88,Clear,Paper,1,Shivaji Nagar,0
+08-07-2025 16:01,08-07-2025 17:27,1.1,Chinese,8.91,Clear,Box,0,Hadapsar,1
+08-07-2025 22:21,08-07-2025 22:42,3.1,Burger,7.84,Rain,Foil,2,Pimple Saudagar,1
+10-07-2025 08:05,10-07-2025 08:27,2.5,Pizza,5.71,Fog,Paper,3,Hinjewadi,0
+10-07-2025 04:22,10-07-2025 05:05,3.8,Dessert,5.45,Rain,Paper,0,Kothrud,1
+08-07-2025 20:10,08-07-2025 21:04,4.3,Chinese,12.39,Storm,Foil,1,Kharadi,1
+09-07-2025 03:04,09-07-2025 04:18,2.2,Chinese,2.89,Storm,Plastic,2,Hadapsar,1
+10-07-2025 10:38,10-07-2025 11:08,1.1,Dessert,8.35,Fog,Box,4,Hinjewadi,0
+09-07-2025 07:33,09-07-2025 07:57,1.5,Dessert,13.47,Fog,Foil,4,Magarpatta,1
+08-07-2025 11:36,08-07-2025 12:21,2,Burger,9.24,Rain,Foil,0,Shivaji Nagar,0
+09-07-2025 07:18,09-07-2025 08:00,2,Indian,14.78,Clear,Box,5,Viman Nagar,1
+08-07-2025 18:50,08-07-2025 19:54,4.1,Pizza,1.79,Fog,Box,2,Hadapsar,0
+10-07-2025 03:58,10-07-2025 04:27,4,Sandwich,3.86,Clear,Foil,2,Kharadi,0
+08-07-2025 14:25,08-07-2025 15:38,2.7,Chinese,6.26,Fog,Box,3,Magarpatta,1
+09-07-2025 14:17,09-07-2025 14:44,2.9,Pizza,6.25,Storm,Foil,0,Viman Nagar,1
+10-07-2025 08:31,10-07-2025 09:50,3.1,Pizza,4.74,Fog,Box,3,Kothrud,0
+08-07-2025 21:15,08-07-2025 22:12,5,Indian,7.49,Fog,Box,4,Hinjewadi,1
+08-07-2025 17:57,08-07-2025 19:10,2,Sandwich,1.33,Rain,Box,3,Aundh,0
+08-07-2025 19:28,08-07-2025 20:40,3.8,Sandwich,5.14,Clear,Box,1,Kothrud,0
+08-07-2025 12:13,08-07-2025 13:19,1.3,Burger,8.91,Fog,Box,2,Hadapsar,0
+10-07-2025 07:15,10-07-2025 08:08,1.5,Dessert,2.53,Clear,Plastic,4,Shivaji Nagar,1
+09-07-2025 10:47,09-07-2025 11:53,2.5,Burger,10.87,Storm,Foil,3,Koregaon Park,1
+10-07-2025 00:49,10-07-2025 01:52,4.8,Dessert,11.97,Storm,Box,4,Kothrud,1
+08-07-2025 13:40,08-07-2025 14:42,4.8,Burger,6.73,Fog,Foil,2,Viman Nagar,0
+10-07-2025 08:49,10-07-2025 09:18,2.9,Sandwich,4.87,Storm,Box,3,Pimple Saudagar,0
+09-07-2025 17:55,09-07-2025 19:06,3.5,Pizza,14.26,Fog,Foil,4,Aundh,1
+08-07-2025 21:18,08-07-2025 22:14,4.4,Indian,7.94,Clear,Plastic,0,Kothrud,0
+09-07-2025 03:03,09-07-2025 03:40,4.1,Dessert,9.93,Rain,Foil,0,Aundh,1
+10-07-2025 05:17,10-07-2025 05:47,1.2,Indian,9.19,Storm,Paper,2,Aundh,1
+08-07-2025 14:25,08-07-2025 14:47,3.3,Dessert,2.53,Clear,Plastic,1,Kharadi,0
+09-07-2025 22:57,10-07-2025 00:22,1.7,Indian,14.63,Fog,Box,4,Kharadi,1
+09-07-2025 15:56,09-07-2025 16:22,2.5,Dessert,2.04,Storm,Box,2,Viman Nagar,1
+08-07-2025 21:40,08-07-2025 23:04,3.7,Dessert,2.03,Rain,Plastic,1,Pashan,0
+10-07-2025 02:31,10-07-2025 03:01,4.2,Pizza,4.24,Fog,Paper,2,Kharadi,0
+09-07-2025 15:24,09-07-2025 15:53,2.3,Indian,9.37,Clear,Plastic,5,Bavdhan,1
+09-07-2025 06:22,09-07-2025 07:46,3.9,Sandwich,12.31,Rain,Box,5,Camp,1
+09-07-2025 11:48,09-07-2025 12:13,3.5,Sandwich,12.86,Fog,Plastic,4,Aundh,0
+09-07-2025 08:12,09-07-2025 08:35,1.8,Dessert,1.75,Fog,Plastic,5,Aundh,1
+08-07-2025 15:02,08-07-2025 15:35,2.3,Chinese,9.43,Fog,Paper,2,Kharadi,0
+09-07-2025 03:48,09-07-2025 04:09,3.8,Burger,3.97,Storm,Paper,4,Shivaji Nagar,1
+10-07-2025 00:22,10-07-2025 01:46,4.5,Sandwich,12.6,Rain,Foil,4,Magarpatta,0
+10-07-2025 05:59,10-07-2025 07:03,4.5,Chinese,12.79,Storm,Plastic,0,Bavdhan,1
+08-07-2025 12:44,08-07-2025 13:53,4.5,Pizza,4.67,Storm,Paper,4,Hinjewadi,1
+10-07-2025 06:14,10-07-2025 07:30,1.3,Sandwich,7.42,Clear,Foil,4,Baner,1
+08-07-2025 20:38,08-07-2025 22:01,3.6,Chinese,12.54,Fog,Box,1,Viman Nagar,1
+09-07-2025 13:33,09-07-2025 14:39,3.8,Dessert,3.79,Fog,Plastic,3,Viman Nagar,1
+10-07-2025 00:07,10-07-2025 00:33,1.7,Pizza,8.54,Storm,Plastic,5,Kharadi,1
+09-07-2025 09:29,09-07-2025 10:44,3.8,Sandwich,4.87,Storm,Plastic,3,Viman Nagar,0
+10-07-2025 10:29,10-07-2025 11:46,3.1,Chinese,12.61,Fog,Paper,3,Kothrud,1
+08-07-2025 17:42,08-07-2025 18:44,3.1,Pizza,7.42,Storm,Box,3,Kharadi,1
+10-07-2025 04:55,10-07-2025 05:59,3.5,Dessert,9.05,Rain,Paper,5,Hinjewadi,0
+09-07-2025 18:42,09-07-2025 19:20,3.7,Sandwich,7.13,Rain,Box,4,Magarpatta,1
+10-07-2025 00:58,10-07-2025 02:07,3.5,Dessert,11.91,Storm,Plastic,3,Camp,1
+08-07-2025 22:56,08-07-2025 23:46,4.8,Chinese,11.87,Fog,Foil,3,Aundh,1
+10-07-2025 08:46,10-07-2025 10:02,4.3,Sandwich,8.14,Clear,Paper,0,Hinjewadi,0
+08-07-2025 22:33,08-07-2025 22:55,1.4,Indian,2.44,Storm,Plastic,2,Magarpatta,1
+09-07-2025 06:20,09-07-2025 07:23,2.2,Sandwich,2.46,Rain,Plastic,0,Shivaji Nagar,1
+10-07-2025 09:41,10-07-2025 10:01,1.3,Pizza,12.36,Fog,Plastic,0,Camp,1
+10-07-2025 01:38,10-07-2025 02:28,2.9,Indian,6.12,Storm,Foil,2,Pashan,1
+09-07-2025 11:45,09-07-2025 12:16,4.6,Chinese,5.31,Clear,Plastic,0,Pashan,0
+09-07-2025 19:28,09-07-2025 20:57,1.2,Sandwich,4.69,Storm,Box,2,Pashan,1
+09-07-2025 13:31,09-07-2025 14:02,1.4,Burger,10.62,Rain,Foil,0,Wakad,1
+08-07-2025 14:49,08-07-2025 15:20,4.6,Burger,9.05,Rain,Paper,2,Pashan,0
+08-07-2025 14:06,08-07-2025 15:08,4.5,Burger,12.8,Clear,Box,0,Aundh,0
+08-07-2025 12:39,08-07-2025 13:36,1.8,Indian,4.83,Rain,Box,4,Aundh,0
+09-07-2025 14:08,09-07-2025 14:58,5,Sandwich,9.72,Rain,Box,3,Kothrud,0
+09-07-2025 01:40,09-07-2025 02:50,3.3,Burger,14.47,Rain,Plastic,1,Baner,0
+10-07-2025 03:43,10-07-2025 04:24,3.6,Burger,6.36,Storm,Paper,0,Baner,1
+10-07-2025 10:12,10-07-2025 10:41,4.9,Indian,10.92,Rain,Plastic,1,Wakad,0
+08-07-2025 16:06,08-07-2025 17:32,3.8,Burger,12.58,Rain,Plastic,0,Pashan,0
+10-07-2025 09:02,10-07-2025 09:40,1.4,Chinese,5.84,Clear,Plastic,2,Kharadi,1
+10-07-2025 00:43,10-07-2025 02:10,2.5,Indian,7.23,Storm,Plastic,3,Pashan,0
+09-07-2025 02:23,09-07-2025 03:45,1.2,Sandwich,10.48,Storm,Box,4,Kothrud,1
+09-07-2025 20:24,09-07-2025 21:45,4.4,Indian,12.28,Rain,Box,3,Magarpatta,0
+08-07-2025 15:01,08-07-2025 15:44,3.8,Pizza,4.01,Clear,Box,3,Magarpatta,1
+09-07-2025 19:47,09-07-2025 21:07,2.9,Dessert,10.56,Clear,Box,4,Viman Nagar,1
+09-07-2025 13:11,09-07-2025 13:32,1,Dessert,14.55,Fog,Foil,0,Viman Nagar,1
+09-07-2025 09:55,09-07-2025 11:00,4.4,Sandwich,6.9,Storm,Foil,1,Kharadi,1
+09-07-2025 22:43,09-07-2025 23:35,1.7,Indian,8.64,Fog,Plastic,4,Hadapsar,1
+09-07-2025 06:25,09-07-2025 06:49,3,Burger,2.77,Fog,Box,0,Wakad,0
+09-07-2025 12:34,09-07-2025 13:47,2.2,Sandwich,12.46,Clear,Foil,3,Bavdhan,1
+10-07-2025 06:59,10-07-2025 08:14,1.5,Indian,9.21,Storm,Foil,0,Bavdhan,0
+10-07-2025 01:18,10-07-2025 01:48,2,Indian,11.61,Clear,Box,3,Camp,0
+09-07-2025 01:04,09-07-2025 01:33,3.4,Dessert,4.32,Storm,Paper,3,Aundh,0
+09-07-2025 21:10,09-07-2025 21:49,3.2,Chinese,10.11,Clear,Paper,3,Koregaon Park,0
+10-07-2025 02:22,10-07-2025 03:37,3.1,Sandwich,10.12,Storm,Plastic,4,Magarpatta,0
+10-07-2025 10:00,10-07-2025 11:11,3.2,Chinese,1.39,Storm,Paper,4,Camp,0
+09-07-2025 11:30,09-07-2025 12:00,1.4,Chinese,6.95,Fog,Foil,4,Wakad,0
+09-07-2025 09:18,09-07-2025 09:44,3.2,Chinese,12.03,Clear,Foil,4,Hinjewadi,0
+10-07-2025 05:33,10-07-2025 05:53,4.4,Chinese,9.2,Storm,Paper,0,Hinjewadi,1
+08-07-2025 23:25,08-07-2025 23:48,4.8,Chinese,7.42,Rain,Paper,4,Magarpatta,0
+09-07-2025 11:52,09-07-2025 12:52,1.5,Indian,10.22,Storm,Plastic,1,Shivaji Nagar,1
+09-07-2025 06:10,09-07-2025 07:18,3.6,Indian,12.93,Rain,Foil,1,Magarpatta,0
+09-07-2025 20:39,09-07-2025 21:05,4.1,Sandwich,5.49,Clear,Plastic,5,Viman Nagar,0
+09-07-2025 06:15,09-07-2025 07:34,2,Dessert,7.54,Rain,Box,4,Camp,0
+09-07-2025 11:59,09-07-2025 12:36,4.5,Burger,1.99,Storm,Foil,1,Viman Nagar,0
+10-07-2025 05:19,10-07-2025 05:44,4.1,Burger,2.84,Storm,Paper,3,Kharadi,0
+09-07-2025 06:08,09-07-2025 06:52,1.1,Chinese,13.14,Fog,Paper,5,Shivaji Nagar,0
+09-07-2025 09:14,09-07-2025 09:54,4.4,Dessert,7.64,Storm,Plastic,5,Wakad,1
+08-07-2025 16:46,08-07-2025 17:48,3,Pizza,14.75,Rain,Foil,5,Pimple Saudagar,0
+09-07-2025 11:53,09-07-2025 13:16,3.6,Pizza,5.44,Clear,Paper,2,Koregaon Park,0
+09-07-2025 08:06,09-07-2025 08:33,4.3,Indian,5.83,Fog,Plastic,1,Camp,0
+09-07-2025 02:30,09-07-2025 03:38,3.3,Chinese,11.72,Rain,Foil,0,Aundh,0
+10-07-2025 08:11,10-07-2025 09:31,4.9,Pizza,2.54,Rain,Foil,4,Bavdhan,1
+10-07-2025 07:04,10-07-2025 07:50,2.5,Burger,8.63,Storm,Plastic,2,Viman Nagar,1
+09-07-2025 15:59,09-07-2025 17:28,3.9,Indian,2.19,Storm,Box,5,Baner,0
+08-07-2025 17:34,08-07-2025 18:21,1.4,Chinese,5.4,Storm,Paper,5,Hadapsar,0
+08-07-2025 23:28,09-07-2025 00:02,3.7,Sandwich,14.71,Rain,Box,4,Baner,1
+08-07-2025 17:42,08-07-2025 18:24,4.4,Dessert,10.9,Storm,Foil,1,Aundh,0
+09-07-2025 00:22,09-07-2025 01:29,2.3,Pizza,2.29,Clear,Box,2,Shivaji Nagar,0
+09-07-2025 05:51,09-07-2025 06:57,1.3,Dessert,3.34,Storm,Foil,5,Kothrud,1
+08-07-2025 15:52,08-07-2025 16:42,3.3,Pizza,8.88,Clear,Foil,5,Viman Nagar,1
+09-07-2025 18:35,09-07-2025 20:01,3.6,Burger,11.24,Storm,Plastic,1,Bavdhan,1
+10-07-2025 09:38,10-07-2025 10:01,1.6,Indian,14.95,Fog,Paper,1,Kharadi,0
+09-07-2025 23:32,10-07-2025 00:57,4.6,Chinese,9.67,Clear,Foil,5,Shivaji Nagar,0
+09-07-2025 01:39,09-07-2025 02:06,1.5,Sandwich,8.39,Storm,Box,0,Viman Nagar,0
+09-07-2025 03:18,09-07-2025 04:10,3.8,Indian,1.38,Rain,Foil,0,Hinjewadi,0
+08-07-2025 17:08,08-07-2025 17:47,4.6,Dessert,7.21,Rain,Box,4,Pimple Saudagar,0
+09-07-2025 19:07,09-07-2025 19:30,2.3,Burger,12.67,Rain,Box,4,Viman Nagar,0
+10-07-2025 03:33,10-07-2025 04:11,3.3,Burger,11.57,Rain,Box,2,Aundh,0
+10-07-2025 06:12,10-07-2025 07:06,4.9,Chinese,5.26,Storm,Paper,5,Shivaji Nagar,0
+08-07-2025 15:47,08-07-2025 16:32,3.8,Dessert,8.85,Clear,Box,1,Kothrud,0
+10-07-2025 03:16,10-07-2025 03:42,1.3,Burger,7.32,Rain,Foil,5,Camp,0
+09-07-2025 21:14,09-07-2025 22:36,4.7,Burger,5.9,Fog,Plastic,1,Aundh,0
+08-07-2025 21:52,08-07-2025 22:49,4.4,Sandwich,4.4,Fog,Paper,5,Koregaon Park,0
+10-07-2025 02:35,10-07-2025 03:03,1.7,Chinese,5.65,Storm,Foil,0,Pashan,0
+09-07-2025 16:35,09-07-2025 16:59,3.6,Pizza,3.59,Clear,Box,4,Shivaji Nagar,0
+09-07-2025 02:02,09-07-2025 02:57,3,Burger,9.7,Clear,Plastic,2,Kharadi,0
+10-07-2025 09:28,10-07-2025 10:05,1.3,Burger,2.19,Storm,Foil,1,Kothrud,1
+08-07-2025 19:22,08-07-2025 19:46,2.6,Indian,14.08,Rain,Paper,3,Pashan,1
+10-07-2025 00:26,10-07-2025 00:55,3.8,Dessert,14.62,Fog,Plastic,2,Baner,1
+08-07-2025 15:02,08-07-2025 16:20,3.6,Dessert,8.38,Fog,Box,0,Shivaji Nagar,0
+09-07-2025 03:46,09-07-2025 04:52,2.9,Pizza,11.33,Fog,Box,4,Kharadi,1
+09-07-2025 06:37,09-07-2025 07:27,3.7,Chinese,11.6,Clear,Box,5,Hadapsar,1
+09-07-2025 00:32,09-07-2025 01:55,2.6,Pizza,11.33,Fog,Box,4,Viman Nagar,1
+08-07-2025 17:45,08-07-2025 18:36,1.4,Indian,12.14,Fog,Box,2,Aundh,1
+10-07-2025 00:27,10-07-2025 01:27,4.1,Pizza,2.71,Storm,Foil,5,Aundh,0
+09-07-2025 08:48,09-07-2025 09:58,4.3,Pizza,7.76,Rain,Box,2,Bavdhan,0
+09-07-2025 15:57,09-07-2025 16:43,3.9,Dessert,9.16,Clear,Box,3,Bavdhan,1
+08-07-2025 20:26,08-07-2025 21:14,1.3,Pizza,5.79,Storm,Paper,1,Viman Nagar,1
+08-07-2025 21:48,08-07-2025 22:09,3,Burger,10.37,Clear,Paper,0,Kothrud,1
+08-07-2025 15:26,08-07-2025 16:52,4.6,Burger,12.42,Fog,Paper,3,Shivaji Nagar,1
+10-07-2025 04:01,10-07-2025 05:29,2.9,Burger,13.13,Fog,Paper,0,Aundh,1
+09-07-2025 06:17,09-07-2025 07:18,1.5,Indian,10.78,Rain,Paper,5,Wakad,0
+10-07-2025 08:51,10-07-2025 09:44,3.6,Burger,13.75,Clear,Paper,4,Pashan,1
+10-07-2025 09:32,10-07-2025 10:44,3.8,Burger,11.5,Clear,Foil,2,Camp,0
+08-07-2025 17:23,08-07-2025 18:03,4.8,Burger,5.06,Fog,Box,1,Hinjewadi,0
+09-07-2025 16:41,09-07-2025 17:47,2.7,Chinese,8.92,Clear,Plastic,4,Aundh,1
+09-07-2025 04:28,09-07-2025 04:58,1.1,Pizza,6.84,Clear,Plastic,0,Camp,0
+08-07-2025 17:52,08-07-2025 19:05,1.8,Dessert,10.28,Rain,Paper,0,Shivaji Nagar,1
+08-07-2025 11:20,08-07-2025 12:31,1.2,Pizza,7.94,Clear,Paper,0,Pimple Saudagar,1
+08-07-2025 20:28,08-07-2025 20:48,4.1,Indian,4.75,Storm,Foil,5,Shivaji Nagar,1
+08-07-2025 16:18,08-07-2025 16:48,2.2,Chinese,11.44,Rain,Box,5,Magarpatta,0
+08-07-2025 11:43,08-07-2025 12:40,4.7,Burger,8.72,Fog,Foil,5,Shivaji Nagar,1
+10-07-2025 03:55,10-07-2025 05:02,1.3,Chinese,5.51,Clear,Plastic,4,Kharadi,1
+09-07-2025 08:23,09-07-2025 08:48,2.6,Burger,10.73,Storm,Paper,1,Pashan,0
+10-07-2025 04:15,10-07-2025 05:31,3.5,Dessert,4.14,Clear,Box,2,Pimple Saudagar,0
+09-07-2025 19:56,09-07-2025 20:30,4.1,Pizza,1.71,Fog,Paper,5,Bavdhan,0
+08-07-2025 16:42,08-07-2025 17:04,3.4,Dessert,12.47,Rain,Foil,4,Viman Nagar,1
+08-07-2025 16:03,08-07-2025 16:31,2.5,Indian,5.6,Rain,Plastic,0,Kothrud,0
+10-07-2025 06:49,10-07-2025 07:57,4.9,Sandwich,13.01,Storm,Foil,1,Kothrud,1
+08-07-2025 11:58,08-07-2025 12:53,3.1,Dessert,13.84,Fog,Box,0,Pashan,1
+09-07-2025 22:00,09-07-2025 22:59,1.9,Indian,12.63,Storm,Paper,2,Bavdhan,1
+09-07-2025 22:04,09-07-2025 23:16,2.9,Chinese,1.31,Rain,Paper,4,Camp,1
+09-07-2025 20:45,09-07-2025 21:39,3.3,Burger,3.82,Storm,Paper,2,Shivaji Nagar,1
+09-07-2025 09:15,09-07-2025 10:20,4.6,Dessert,5.68,Clear,Plastic,4,Wakad,1
+09-07-2025 23:09,10-07-2025 00:20,4,Chinese,5,Storm,Foil,1,Viman Nagar,1
+08-07-2025 13:02,08-07-2025 14:13,2.5,Chinese,7.43,Storm,Paper,3,Magarpatta,0
+09-07-2025 09:11,09-07-2025 10:07,4.1,Pizza,9.64,Fog,Paper,0,Viman Nagar,0
+09-07-2025 15:07,09-07-2025 16:02,3.5,Pizza,3.39,Clear,Foil,4,Shivaji Nagar,1
+09-07-2025 14:55,09-07-2025 15:40,2.2,Burger,8.01,Rain,Paper,1,Koregaon Park,0
+08-07-2025 10:40,08-07-2025 11:47,3.4,Chinese,10.74,Fog,Box,4,Pashan,1
+08-07-2025 16:14,08-07-2025 16:39,5,Sandwich,9.91,Fog,Paper,0,Wakad,0
+08-07-2025 16:15,08-07-2025 17:20,1.5,Pizza,11.43,Storm,Plastic,3,Camp,1
+09-07-2025 22:20,09-07-2025 23:06,3.8,Indian,9.67,Fog,Box,0,Pimple Saudagar,0
+09-07-2025 15:17,09-07-2025 15:53,1.2,Indian,6.92,Clear,Plastic,0,Kharadi,1
+10-07-2025 00:48,10-07-2025 02:04,1.4,Pizza,14.73,Storm,Plastic,1,Wakad,0
+10-07-2025 03:15,10-07-2025 03:48,3.2,Indian,8.74,Clear,Foil,5,Pashan,1
+09-07-2025 23:55,10-07-2025 00:19,2.8,Indian,3.38,Clear,Box,2,Camp,1
+09-07-2025 02:45,09-07-2025 03:42,2.8,Indian,4.42,Fog,Paper,1,Shivaji Nagar,1
+09-07-2025 02:00,09-07-2025 03:01,1.9,Dessert,4.3,Fog,Foil,1,Pimple Saudagar,1
+08-07-2025 22:25,08-07-2025 22:47,4.7,Chinese,5.2,Clear,Box,0,Kharadi,0
+09-07-2025 12:07,09-07-2025 12:47,4,Chinese,12.73,Fog,Paper,2,Shivaji Nagar,0
+08-07-2025 18:34,08-07-2025 19:24,2.8,Dessert,2.96,Rain,Foil,2,Camp,1
+09-07-2025 01:46,09-07-2025 02:56,1.5,Burger,14.5,Rain,Box,3,Pimple Saudagar,1
+08-07-2025 15:32,08-07-2025 15:59,2.5,Dessert,13.57,Storm,Box,3,Shivaji Nagar,1
+08-07-2025 14:04,08-07-2025 14:48,4.8,Burger,4.48,Storm,Foil,0,Pimple Saudagar,1
+09-07-2025 15:53,09-07-2025 16:18,2.8,Sandwich,14.88,Rain,Paper,0,Bavdhan,1
+09-07-2025 02:03,09-07-2025 02:51,4.6,Indian,10.66,Rain,Paper,5,Camp,1
+09-07-2025 09:12,09-07-2025 09:52,4.5,Indian,12.47,Clear,Plastic,4,Aundh,1
+09-07-2025 21:05,09-07-2025 21:31,1.2,Dessert,13.83,Rain,Paper,0,Viman Nagar,1
+09-07-2025 21:19,09-07-2025 22:10,4.8,Sandwich,1.16,Fog,Plastic,4,Wakad,1
+10-07-2025 00:07,10-07-2025 01:05,2.9,Chinese,4.27,Fog,Foil,2,Shivaji Nagar,1
+10-07-2025 06:33,10-07-2025 07:55,1.7,Sandwich,1.85,Fog,Paper,2,Hadapsar,1
+09-07-2025 06:20,09-07-2025 06:44,2.6,Dessert,4.3,Rain,Box,2,Kothrud,1
+09-07-2025 18:13,09-07-2025 19:31,3.1,Chinese,5.84,Fog,Box,0,Hadapsar,0
+09-07-2025 10:00,09-07-2025 10:37,3.1,Sandwich,10.74,Storm,Box,5,Baner,0
+09-07-2025 00:06,09-07-2025 01:11,3,Sandwich,9.48,Storm,Plastic,1,Kharadi,1
+09-07-2025 11:13,09-07-2025 11:42,4.4,Dessert,4.04,Clear,Box,3,Shivaji Nagar,1
+10-07-2025 10:15,10-07-2025 11:35,2.1,Indian,14.91,Fog,Box,0,Kharadi,1
+08-07-2025 11:54,08-07-2025 12:29,1,Indian,10.6,Storm,Paper,2,Koregaon Park,0
+08-07-2025 19:37,08-07-2025 20:49,4.8,Dessert,8.75,Storm,Plastic,4,Kharadi,1
+08-07-2025 19:14,08-07-2025 20:08,4.3,Pizza,1.26,Storm,Paper,1,Pimple Saudagar,1
+09-07-2025 13:56,09-07-2025 14:56,4.9,Dessert,7.91,Fog,Box,2,Magarpatta,0
+09-07-2025 12:02,09-07-2025 13:24,1.3,Pizza,6.2,Storm,Foil,2,Hadapsar,1
+09-07-2025 20:25,09-07-2025 21:32,2.7,Sandwich,10.93,Rain,Foil,2,Hadapsar,1
+08-07-2025 21:59,08-07-2025 22:30,2.6,Burger,14.07,Storm,Plastic,5,Baner,0
+09-07-2025 22:28,09-07-2025 23:09,4.4,Dessert,8.81,Storm,Paper,3,Wakad,1
+09-07-2025 19:43,09-07-2025 21:10,1.5,Indian,2.36,Storm,Plastic,0,Camp,1
+10-07-2025 04:59,10-07-2025 05:28,3.6,Indian,2.99,Clear,Foil,0,Viman Nagar,0
+09-07-2025 08:38,09-07-2025 10:06,2.2,Indian,8.39,Rain,Foil,0,Pashan,1
+08-07-2025 20:29,08-07-2025 21:45,3.5,Chinese,2.45,Storm,Paper,2,Magarpatta,0
+08-07-2025 18:39,08-07-2025 19:19,1.3,Indian,12.05,Rain,Plastic,0,Koregaon Park,1
+09-07-2025 01:38,09-07-2025 02:50,3.2,Dessert,3.51,Fog,Paper,0,Bavdhan,0
+09-07-2025 19:01,09-07-2025 20:26,1.8,Indian,13.96,Clear,Box,5,Baner,1
+08-07-2025 15:11,08-07-2025 15:46,4.8,Burger,10.03,Clear,Plastic,1,Aundh,1
+08-07-2025 18:13,08-07-2025 19:02,1.1,Chinese,14.37,Rain,Foil,2,Pashan,1
+09-07-2025 15:20,09-07-2025 16:32,3.1,Sandwich,11.99,Rain,Plastic,0,Pashan,1
+08-07-2025 19:05,08-07-2025 20:32,3.3,Burger,10.34,Fog,Paper,1,Camp,1
+09-07-2025 08:23,09-07-2025 09:46,1.1,Sandwich,6.14,Storm,Paper,4,Wakad,1
+09-07-2025 18:50,09-07-2025 19:10,5,Sandwich,14.04,Clear,Paper,1,Bavdhan,1
+09-07-2025 05:06,09-07-2025 05:48,3.4,Chinese,13.57,Clear,Box,5,Bavdhan,1
+09-07-2025 12:43,09-07-2025 14:04,2.3,Indian,2.29,Clear,Box,2,Pimple Saudagar,1
+08-07-2025 19:20,08-07-2025 20:13,4.4,Burger,10.03,Rain,Foil,3,Magarpatta,1
+08-07-2025 16:41,08-07-2025 17:48,2.4,Pizza,8.6,Rain,Foil,5,Hinjewadi,1
+08-07-2025 19:30,08-07-2025 20:40,1.1,Indian,9.7,Fog,Plastic,3,Koregaon Park,1
+08-07-2025 21:18,08-07-2025 21:42,4.1,Sandwich,6.29,Storm,Foil,2,Pashan,0
+08-07-2025 16:10,08-07-2025 17:00,1.1,Pizza,3.54,Rain,Foil,0,Viman Nagar,1
+09-07-2025 13:03,09-07-2025 14:05,3.8,Burger,9.35,Fog,Plastic,2,Kothrud,0
+10-07-2025 02:49,10-07-2025 03:16,2.1,Indian,2.89,Fog,Foil,3,Kothrud,1
+09-07-2025 13:53,09-07-2025 14:15,2.6,Dessert,13.34,Storm,Foil,2,Hinjewadi,0
+08-07-2025 18:46,08-07-2025 19:34,1.8,Indian,6.88,Fog,Foil,4,Koregaon Park,1
+09-07-2025 16:42,09-07-2025 17:31,2.7,Chinese,12.87,Storm,Foil,0,Koregaon Park,0
+10-07-2025 00:59,10-07-2025 01:30,1.8,Chinese,8.27,Storm,Box,1,Pashan,0
+08-07-2025 12:08,08-07-2025 12:30,3,Dessert,8.84,Rain,Foil,0,Wakad,0
+10-07-2025 08:21,10-07-2025 09:32,3.2,Dessert,14.65,Fog,Foil,0,Wakad,1
+09-07-2025 20:51,09-07-2025 21:39,3.2,Indian,11.82,Fog,Box,4,Baner,0
+09-07-2025 18:55,09-07-2025 19:43,4.5,Pizza,1.69,Rain,Box,1,Bavdhan,1
+08-07-2025 14:43,08-07-2025 15:23,2.4,Burger,2.81,Storm,Foil,1,Hadapsar,0
+09-07-2025 01:18,09-07-2025 02:40,3,Dessert,8.44,Fog,Paper,4,Baner,1
+09-07-2025 01:20,09-07-2025 02:39,2.7,Pizza,5.45,Clear,Box,4,Pimple Saudagar,1
+10-07-2025 09:51,10-07-2025 10:42,4.7,Sandwich,11.34,Fog,Box,3,Bavdhan,1
+09-07-2025 01:10,09-07-2025 02:17,2.6,Burger,3.78,Rain,Foil,3,Viman Nagar,1
+10-07-2025 05:40,10-07-2025 06:52,2.1,Burger,10.46,Fog,Paper,0,Bavdhan,0
+09-07-2025 00:32,09-07-2025 02:02,1,Burger,14.56,Fog,Box,1,Hinjewadi,1
+08-07-2025 14:32,08-07-2025 15:37,2.8,Sandwich,13.81,Storm,Foil,1,Kothrud,1
+08-07-2025 16:46,08-07-2025 18:04,4.6,Sandwich,10.61,Rain,Foil,5,Shivaji Nagar,1
+09-07-2025 19:29,09-07-2025 19:51,2.9,Sandwich,14.3,Storm,Foil,0,Viman Nagar,0
+08-07-2025 22:34,08-07-2025 23:17,1.4,Indian,10.75,Fog,Foil,0,Viman Nagar,0
+10-07-2025 04:09,10-07-2025 05:33,4.2,Dessert,5.47,Fog,Paper,2,Pimple Saudagar,0
+09-07-2025 11:15,09-07-2025 12:10,3.7,Pizza,6.11,Rain,Foil,5,Hinjewadi,1
+10-07-2025 05:25,10-07-2025 06:12,1.2,Sandwich,3.85,Rain,Foil,3,Camp,1
+09-07-2025 05:34,09-07-2025 06:39,1.8,Sandwich,7.11,Rain,Box,2,Baner,0
+09-07-2025 14:44,09-07-2025 15:47,4.6,Sandwich,14.65,Storm,Plastic,2,Magarpatta,1
+09-07-2025 17:07,09-07-2025 18:35,2.7,Burger,8.82,Rain,Foil,3,Hadapsar,1
+08-07-2025 16:28,08-07-2025 17:10,3.7,Chinese,3.13,Clear,Paper,4,Aundh,0
+08-07-2025 13:28,08-07-2025 14:35,4.2,Dessert,14.05,Storm,Box,2,Hinjewadi,0
+09-07-2025 06:53,09-07-2025 07:15,2.7,Indian,6.24,Clear,Box,2,Aundh,0
+10-07-2025 10:18,10-07-2025 10:45,1.6,Burger,1.43,Fog,Foil,5,Hadapsar,1
+10-07-2025 09:29,10-07-2025 10:16,3.7,Indian,5.94,Fog,Paper,4,Hinjewadi,1
+09-07-2025 08:51,09-07-2025 09:44,2.5,Chinese,10.65,Fog,Plastic,1,Hinjewadi,1
+09-07-2025 12:22,09-07-2025 13:51,3.7,Sandwich,6.88,Storm,Paper,1,Wakad,1
+09-07-2025 22:11,09-07-2025 22:39,4.8,Burger,13.14,Clear,Box,0,Baner,1
+10-07-2025 00:45,10-07-2025 02:12,2.5,Sandwich,13.07,Storm,Plastic,1,Hinjewadi,0
+09-07-2025 16:17,09-07-2025 17:28,4.5,Pizza,1.11,Fog,Plastic,5,Kothrud,0
+10-07-2025 06:07,10-07-2025 07:22,4.2,Chinese,12.99,Rain,Paper,3,Kothrud,0
+10-07-2025 07:59,10-07-2025 08:32,1,Chinese,11.67,Clear,Paper,4,Wakad,0
+09-07-2025 22:28,09-07-2025 22:53,1.4,Indian,5.04,Rain,Plastic,2,Wakad,1
+09-07-2025 03:48,09-07-2025 05:06,4.5,Sandwich,7.44,Storm,Plastic,1,Camp,0
+09-07-2025 14:29,09-07-2025 14:53,2.4,Sandwich,2.87,Clear,Box,1,Aundh,1
+10-07-2025 07:22,10-07-2025 08:49,2,Sandwich,14.86,Storm,Box,1,Pimple Saudagar,1
+09-07-2025 12:31,09-07-2025 13:16,3.6,Dessert,1.17,Clear,Foil,0,Kharadi,0
+09-07-2025 20:26,09-07-2025 21:25,4.4,Burger,3.32,Rain,Box,1,Hinjewadi,1
+08-07-2025 11:39,08-07-2025 12:52,3.7,Indian,9.81,Storm,Paper,2,Pimple Saudagar,1
+10-07-2025 06:32,10-07-2025 07:08,3.5,Dessert,4.43,Clear,Plastic,5,Kharadi,1
+10-07-2025 06:20,10-07-2025 07:07,1.5,Dessert,7.37,Storm,Plastic,2,Viman Nagar,1
+09-07-2025 19:50,09-07-2025 21:06,3.8,Burger,12.02,Rain,Box,5,Camp,1
+08-07-2025 19:48,08-07-2025 20:52,2.5,Sandwich,6.22,Fog,Paper,0,Viman Nagar,1
+09-07-2025 06:33,09-07-2025 07:13,3.2,Sandwich,6.85,Clear,Box,2,Koregaon Park,0
+08-07-2025 15:24,08-07-2025 15:51,2.7,Dessert,13.28,Rain,Paper,2,Magarpatta,1
+09-07-2025 17:51,09-07-2025 18:50,4.6,Pizza,14.25,Rain,Plastic,0,Kothrud,1
+09-07-2025 02:21,09-07-2025 02:59,2.3,Sandwich,6.42,Rain,Box,0,Camp,1
+09-07-2025 22:09,09-07-2025 23:04,4.7,Sandwich,10.18,Fog,Box,3,Bavdhan,1
+08-07-2025 11:34,08-07-2025 12:09,3.7,Indian,6.96,Fog,Foil,5,Koregaon Park,0
+10-07-2025 07:31,10-07-2025 08:35,4.7,Dessert,11.81,Storm,Paper,1,Shivaji Nagar,0
+09-07-2025 01:53,09-07-2025 02:33,1,Sandwich,5.66,Clear,Foil,1,Magarpatta,1
+09-07-2025 04:52,09-07-2025 05:22,3.2,Indian,8.26,Rain,Plastic,2,Hadapsar,0
+09-07-2025 13:48,09-07-2025 14:35,2.6,Burger,13.41,Fog,Foil,3,Kothrud,1
+08-07-2025 13:34,08-07-2025 14:40,3.6,Pizza,9.85,Fog,Foil,0,Magarpatta,0
+09-07-2025 19:30,09-07-2025 20:09,1.1,Indian,13.78,Rain,Foil,0,Kothrud,0
+08-07-2025 10:40,08-07-2025 11:43,3.6,Dessert,6.75,Clear,Paper,3,Shivaji Nagar,0
+08-07-2025 16:06,08-07-2025 16:58,3.8,Sandwich,5.04,Rain,Plastic,4,Shivaji Nagar,1
+08-07-2025 18:37,08-07-2025 19:02,4.3,Sandwich,4.85,Storm,Plastic,2,Viman Nagar,0
+09-07-2025 11:33,09-07-2025 12:24,4.7,Chinese,4.54,Clear,Box,5,Wakad,1
+09-07-2025 04:28,09-07-2025 05:49,2.4,Burger,4.12,Clear,Plastic,0,Wakad,1
+09-07-2025 16:47,09-07-2025 17:36,2.9,Sandwich,11.51,Clear,Foil,2,Magarpatta,1
+08-07-2025 22:33,08-07-2025 23:59,2.8,Burger,14.93,Clear,Foil,1,Viman Nagar,0
+09-07-2025 14:30,09-07-2025 15:11,4,Dessert,7.04,Storm,Paper,0,Koregaon Park,1
+09-07-2025 18:43,09-07-2025 19:13,4,Dessert,11.02,Storm,Foil,4,Aundh,1
+09-07-2025 06:21,09-07-2025 07:39,3.2,Indian,3.87,Storm,Plastic,3,Hadapsar,0
+09-07-2025 00:44,09-07-2025 01:49,3.9,Dessert,9.45,Rain,Plastic,3,Camp,0
+08-07-2025 18:28,08-07-2025 18:49,2.5,Dessert,9.38,Fog,Box,5,Kharadi,1
+08-07-2025 12:31,08-07-2025 13:26,1,Dessert,2.97,Storm,Foil,3,Koregaon Park,1
+10-07-2025 08:20,10-07-2025 08:46,3.8,Chinese,3.12,Fog,Paper,3,Koregaon Park,1
+09-07-2025 10:17,09-07-2025 11:14,2.3,Indian,10.78,Rain,Box,4,Aundh,0
+10-07-2025 09:46,10-07-2025 10:43,3.5,Chinese,12.14,Rain,Foil,3,Hadapsar,1
+09-07-2025 11:46,09-07-2025 12:15,2.3,Chinese,10.19,Rain,Box,2,Magarpatta,1
+08-07-2025 10:41,08-07-2025 11:09,4.3,Indian,13.77,Fog,Plastic,4,Bavdhan,1
+08-07-2025 18:53,08-07-2025 19:47,3.2,Burger,3.2,Clear,Plastic,4,Pimple Saudagar,1
+10-07-2025 01:37,10-07-2025 02:15,2.8,Indian,4.5,Clear,Foil,2,Magarpatta,0
+10-07-2025 02:29,10-07-2025 03:13,2,Burger,14.59,Fog,Box,5,Camp,1
+10-07-2025 00:12,10-07-2025 01:15,4,Indian,7.02,Fog,Plastic,5,Viman Nagar,1
+10-07-2025 09:07,10-07-2025 09:31,4.9,Chinese,12.17,Fog,Foil,4,Kharadi,1
+09-07-2025 08:24,09-07-2025 09:53,3.5,Sandwich,4.58,Storm,Plastic,0,Pashan,1
+10-07-2025 09:26,10-07-2025 10:03,2.6,Dessert,12.18,Fog,Plastic,5,Magarpatta,1
+08-07-2025 11:13,08-07-2025 11:48,3.9,Pizza,12.46,Clear,Box,1,Kharadi,1
+08-07-2025 15:05,08-07-2025 16:11,3.1,Burger,10.95,Storm,Paper,5,Bavdhan,1
+09-07-2025 11:01,09-07-2025 11:27,2.9,Burger,13.79,Fog,Plastic,1,Hinjewadi,0
+09-07-2025 15:00,09-07-2025 15:44,3.6,Sandwich,6.4,Clear,Foil,4,Baner,0
+08-07-2025 14:51,08-07-2025 15:46,2,Chinese,4.21,Rain,Foil,5,Pashan,1
+09-07-2025 21:03,09-07-2025 21:41,2.5,Indian,9.67,Storm,Box,5,Bavdhan,1
+09-07-2025 07:43,09-07-2025 09:06,2.7,Chinese,3.55,Rain,Plastic,4,Bavdhan,0
+09-07-2025 04:41,09-07-2025 05:35,1.2,Dessert,3.27,Storm,Box,1,Wakad,0
+10-07-2025 01:26,10-07-2025 02:53,1.3,Chinese,1.33,Storm,Box,1,Kharadi,1
+09-07-2025 04:40,09-07-2025 05:15,5,Indian,8.34,Fog,Plastic,3,Pimple Saudagar,0
+10-07-2025 10:04,10-07-2025 10:40,4.3,Sandwich,10.16,Fog,Paper,3,Kothrud,1
+09-07-2025 03:49,09-07-2025 05:01,2.6,Sandwich,7.48,Clear,Plastic,1,Wakad,1
+09-07-2025 21:37,09-07-2025 22:21,4.9,Sandwich,7.3,Fog,Paper,3,Hadapsar,0
+09-07-2025 15:14,09-07-2025 15:54,4.1,Dessert,13.5,Fog,Paper,4,Hinjewadi,1
+10-07-2025 08:27,10-07-2025 09:32,3.2,Indian,10.37,Storm,Box,5,Bavdhan,0
+08-07-2025 14:15,08-07-2025 15:25,4.5,Indian,11.39,Clear,Paper,3,Hinjewadi,1
+10-07-2025 03:01,10-07-2025 03:22,1.7,Indian,2.82,Rain,Foil,0,Kothrud,1
+09-07-2025 07:37,09-07-2025 09:05,1.7,Dessert,1.38,Clear,Plastic,0,Shivaji Nagar,1
+10-07-2025 05:03,10-07-2025 05:52,3.6,Burger,8.94,Fog,Box,5,Magarpatta,1
+09-07-2025 19:54,09-07-2025 20:56,3.2,Dessert,6.24,Clear,Box,2,Magarpatta,0
+09-07-2025 15:15,09-07-2025 16:36,2.4,Chinese,1.92,Rain,Foil,3,Baner,1
+09-07-2025 08:22,09-07-2025 09:14,2.4,Burger,11.7,Fog,Plastic,0,Magarpatta,0
+08-07-2025 15:32,08-07-2025 16:46,3.6,Indian,10.43,Clear,Paper,1,Kharadi,1
+09-07-2025 10:46,09-07-2025 12:13,2.3,Pizza,4.47,Clear,Plastic,3,Hinjewadi,1
+09-07-2025 06:04,09-07-2025 06:49,2.5,Dessert,14.1,Fog,Foil,0,Magarpatta,0
+10-07-2025 03:24,10-07-2025 03:47,1.5,Sandwich,13.59,Storm,Box,3,Koregaon Park,1
+08-07-2025 17:13,08-07-2025 18:29,2,Burger,8.67,Clear,Foil,5,Magarpatta,0
+09-07-2025 15:40,09-07-2025 16:21,4.8,Dessert,13.37,Fog,Foil,4,Baner,1

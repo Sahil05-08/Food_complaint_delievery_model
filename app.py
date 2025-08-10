@@ -44,9 +44,8 @@ def predict():
 
             result_text = "Complaint" if prediction == 1 else "No Complaint"
 
-            return render_template('result.html',
-                                   prediction=result_text,
-                                   confidence=round(confidence * 100, 2))
+            return render_template('result.html',prediction=result_text,
+                                   confidence=round(confidence*100, 2))
 
         except Exception as e:
             return render_template('result.html', prediction="Error", confidence=str(e))

@@ -6,6 +6,12 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
+    <nav class="navbar">
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/contact">Contact</a>
+        </div>    
+    </nav>
     <div class="background-overlay"></div>
     
     <div class="hero-container">
@@ -19,7 +25,8 @@
             {% else %}
                 <p class="result-text happy">😊 The customer is happy. No complaint expected!</p>
             {% endif %}
-
+                <p class="confidence-text">🔍 Confidence Level: <strong>{{ confidence }}%</strong><p>
+   
             <a href="/predict" class="back-button">🔁 Predict Again</a>
         </div>
     </div>

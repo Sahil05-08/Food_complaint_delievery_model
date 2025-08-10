@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <title>FOODIE'S - Home</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    
     <!-- Font Awesome for social icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 </head>
 <body>
     <!-- 🍕 Floating Food Emojis -->
@@ -25,19 +27,7 @@
             <a href="/">Home</a>
             <a href="/predict">Complaint</a>
             <a href="/contact">Contact</a>
-        </div>
-
-        <div class="social-icons">
-            <a href="https://github.com/Sahil05-08" target="_blank" title="GitHub">
-                <i class="fab fa-github"></i>
-            </a>
-            <a href="mailto:suryawanshisahil585@gmail.com" target="_blank" title="Email">
-                <i class="fas fa-envelope"></i>
-            </a>
-            <a href="https://www.linkedin.com/in/sahil585" target="_blank" title="LinkedIn">
-                <i class="fab fa-linkedin"></i>
-            </a>
-        </div>
+        </div>    
     </nav>
 
     <div class="background-overlay"></div>
@@ -62,9 +52,8 @@
                 </div>
             </div>
 
-            <div class="image-content">
-                <img src="{{ url_for('static', filename='food-banner.png') }}" alt="Food Delivery" class="food-image">
-            </div>
+  <div class="image-container">
+    <img src="{{ url_for('static', filename='foodie_image.png')}}" alt="Foodie's Delivery" class="foodie-large-img">
         </div>
     </div>
 </body>

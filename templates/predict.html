@@ -7,13 +7,19 @@
         <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     </head>
     <body>
+        <nav class="navbar">
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/contact">Contact</a>
+        </div>    
+    </nav>
         
         <div class="background-overlay"></div>
 
         <div class="hero-container">
             <h1 class="logo-animation">FOODIE'S</h1>
 
-            <form method="POST" action="/predict" class="form-card">>
+            <form method="POST" action="/predict" class="form-card">
                 <h2>Will the customer complain? 🤔</h2>
 
                 <label>⭐ Driver Rating:</label>
@@ -41,10 +47,10 @@
                     <option value="Box">Box</option>
                 </select>
 
-                <label>🧾 Customer Past Complaints:</label>
+                <label>📋😠 Customer Past Complaints:</label>
                 <input type="number" name="customer_past_complaints" required>
 
-                <label>🏙️ City:</label>
+                <label>🏙️ Pune Area's:</label>
                 <select name="city" required>
                     <option value="Swargate">Swargate</option>
                     <option value="Baner">Baner</option>
