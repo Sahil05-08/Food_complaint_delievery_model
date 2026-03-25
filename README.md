@@ -252,10 +252,9 @@ http://127.0.0.1:5000/
 
 # 👨‍💻 Author
 
-Sahil Suryavanshi  
-Bachelor’s in Information Technology Engineering  
-Aspiring AI / ML Engineer  
-Passionate about building real-world ML systems  
+**Sahil Suryawanshi**
+Computer Vision Engineer (Fresher) | Pune, Maharashtra
+[LinkedIn](http://www.linkedin.com/in/sahil585) · [GitHub](https://github.com/Sahil05-08)
 
 ---
 
